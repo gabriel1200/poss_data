@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
+# In[1]:
 
 
 import pandas as pd
@@ -202,17 +202,17 @@ def main(year=2025,ps=False):
     # Process each team in parallel
     teams = clips_df['TEAM_ID'].unique()
     years = clips_df['Year'].unique()
-    print(teams)
+    #print(teams)
   
     logging.info(f"Processing data for {len(teams)} teams across {len(years)} years")
     
     for team in teams:
         team_abbrev = id_to_abbrev.get(team, team)  # Get team abbreviation or use ID if not found
-        team_clips = clips_df[clips_df['TEAM_ID'] == team]
+        team_clips = clips_df[clips_df['TEAM_ID'] == team].reset_index()
 
         team_clips.drop_duplicates(inplace=True)
         team_clips.sort_values(by='GAMEID',inplace=True)
-        print(len(team_clips))
+      
         
         if len(team_clips) == 0:
             logging.info(f"No clips found for {team_abbrev}, skipping")
@@ -256,17 +256,14 @@ def main(year=2025,ps=False):
             for _, row in game_clips.iterrows():
                 try:
                     mid_time = row['mid_seconds']
-                    orig_team = get_team_id_dict()[team]
-                    opponent_team = get_team_id_dict()[opponent_team_id]
-                    print(orig_team)
-                    print(opponent_team)
-                    print(game_id)
-                        #sys.exit()
+               
+            
+                      
                     offensive_players = get_players_on_court(team, mid_time, game_id)
-                    print(offensive_players)
+                    
                     defensive_players = get_players_on_court(opponent_team_id, mid_time, game_id)
-                    print(defensive_players)
-                    sys.exit()
+                   
+            
                     players_on_list.append('|'.join(offensive_players))
                     opp_players_on_list.append('|'.join(defensive_players))
                 except Exception as e:
@@ -274,8 +271,7 @@ def main(year=2025,ps=False):
                     players_on_list.append("ERROR")
                     opp_players_on_list.append("ERROR")
                 
-        print(players_on_list)
-        print(opp_players_on_list)  
+    
            
       
         
