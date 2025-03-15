@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
+# In[1]:
 
 
 import requests
@@ -73,6 +73,11 @@ def fetch_possessions(team, start_date, end_date):
             possession['IsOffense'] = True
         
         all_possessions.extend(offensive_possessions)
+        if team =='ATL':
+            for data in all_possessions:
+                print(data['Events'])
+                print(data.keys())
+                print(data['VideoUrls'])
     except requests.exceptions.RequestException as e:
         print(f"Error fetching offensive possessions for {team}: {e}")
     
