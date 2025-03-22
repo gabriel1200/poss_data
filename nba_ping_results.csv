@@ -1,0 +1,301 @@
+game_id,action_number,status,description,url
+22400239,2,Success,Period Start,
+22400239,4,Success,Jump Ball C. Capela vs. D. Clingan: Tip to J. Johnson,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/4/0fc30285-d2d8-af95-8a9e-8874b5f7e034_320x180.mp4
+22400239,7,Success,MISS C. Capela 9' Hook - blocked,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/7/7b205d91-70a3-132c-9e87-c3f735a3717b_320x180.mp4
+22400239,8,Success,D. Clingan BLOCK (1 BLK),
+22400239,9,Success,T. Camara REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/9/21f540f4-c26d-7555-66e5-2cca7130dba6_320x180.mp4
+22400239,10,Success,MISS T. Camara running Layup,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/10/ad7aa85f-af10-1f41-0491-f9f1a161c3c3_320x180.mp4
+22400239,11,Success,Z. Risacher REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/11/ad5c778c-7101-0e04-9be0-aac343c1b310_320x180.mp4
+22400239,12,Success,T. Young 25' 3PT running (3 PTS) (Z. Risacher 1 AST),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/12/c5537b7e-7572-fbc6-7f00-a252da7df26d_320x180.mp4
+22400239,14,Success,MISS S. Sharpe 20' pullup Shot,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/14/588a93a1-93b2-fa84-a3e2-92c947d6a912_320x180.mp4
+22400239,15,Success,C. Capela REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/15/acb85fa5-748d-518e-c4bc-803b10be281c_320x180.mp4
+22400239,16,Success,T. Young bad pass out-of-bounds TURNOVER (1 TO),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/16/2d1debae-528b-6453-a389-aba74ec3c5e8_320x180.mp4
+22400239,17,Success,MISS S. Henderson 16' turnaround fadeaway Shot,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/17/21f66588-b1ec-291f-73a2-833f60c4abd3_320x180.mp4
+22400239,18,Success,J. Johnson REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/18/ae882cfd-9e11-0a98-2629-be02f814626f_320x180.mp4
+22400239,19,Success,Z. Risacher running DUNK (2 PTS) (J. Johnson 1 AST),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/19/4e3d0f45-3b71-5eea-7f16-3c9158441f59_320x180.mp4
+22400239,21,Success,POR Timeout,
+22400239,22,Success,MISS J. Grant 9' turnaround fadeaway Shot,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/22/93025b7d-7149-a368-4a97-63a170569845_320x180.mp4
+22400239,23,Success,T. Young REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/23/0d88c979-3feb-559a-b14f-88344e792eaf_320x180.mp4
+22400239,24,Success,D. Clingan shooting personal FOUL (1 PF) (Risacher 2 FT),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/24/f21cc036-79fe-0ffc-8320-1b2ae2883013_320x180.mp4
+22400239,26,Success,Z. Risacher Free Throw 1 of 2 (3 PTS),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/26/9ba16c55-ab5d-b61e-4dad-df4aa676812a_320x180.mp4
+22400239,27,Success,Z. Risacher Free Throw 2 of 2 (4 PTS),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/27/7ea5459e-493b-1f7a-b06e-93ba15db4110_320x180.mp4
+22400239,28,Success,MISS D. Clingan alley-oop Layup,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/28/b5af4b4d-7b6e-cdfc-4438-dee6b8126778_320x180.mp4
+22400239,29,Success,D. Clingan REBOUND (Off:1 Def:0),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/29/c8a799cb-6653-8896-38d5-256b47a28bd5_320x180.mp4
+22400239,30,Success,D. Clingan putback Layup (2 PTS),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/30/d83f8066-fcff-618f-1542-474e704fa42b_320x180.mp4
+22400239,31,Success,C. Capela alley-oop DUNK (2 PTS) (D. Daniels 1 AST),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/31/b4e7ce34-de83-8470-c70e-7f89e4d7aac4_320x180.mp4
+22400239,33,Success,S. Henderson bad pass out-of-bounds TURNOVER (1 TO),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/33/fd749a55-a089-ebbc-f390-bfee42d910d2_320x180.mp4
+22400239,34,Success,J. Johnson 9' driving floating Jump Shot (2 PTS) (Z. Risacher 2 AST),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/34/d3b2edaf-8e2d-a267-9afd-caaee7e051ce_320x180.mp4
+22400239,36,Success,S. Sharpe 8' driving floating bank Jump Shot (2 PTS),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/36/84a390a2-1732-5118-5874-0b7a2b2fcd80_320x180.mp4
+22400239,37,Success,MISS T. Young driving floating Shot - blocked,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/37/ab3996be-b5ba-a2c3-ea8b-01643b9a22f3_320x180.mp4
+22400239,38,Success,D. Clingan BLOCK (2 BLK),
+22400239,39,Success,T. Young REBOUND (Off:1 Def:1),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/39/22898739-7c9b-46c6-4bb3-218a34125e5d_320x180.mp4
+22400239,40,Success,MISS J. Johnson 15' step back Shot,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/40/adfaa962-0f6d-3d22-cf81-ae574552dba3_320x180.mp4
+22400239,41,Success,D. Daniels REBOUND (Off:1 Def:0),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/41/c103d20a-b6f6-e94b-6a5e-00c675ec07f4_320x180.mp4
+22400239,71,Success,MISS D. Daniels tip Layup,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/71/b8e9fd7c-1319-7aa0-1d06-616639417243_320x180.mp4
+22400239,72,Success,TEAM offensive REBOUND,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/72/14b17308-c7c4-2a46-6d11-f9f8836f3217_320x180.mp4
+22400239,42,Success,ATL shot clock Team TURNOVER,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/42/50ad4619-e2ba-03f4-f66e-f3c717c27a40_320x180.mp4
+22400239,43,Success,S. Sharpe 3PT  (5 PTS) (T. Camara 1 AST),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/43/db8e5d72-a981-a26b-a10b-fe2385b929d4_320x180.mp4
+22400239,45,Success,J. Johnson lost ball TURNOVER (1 TO),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/45/0de681c5-cfd1-e04a-d5fa-84799b9756fb_320x180.mp4
+22400239,46,Success,D. Clingan STEAL (1 STL),
+22400239,47,Success,MISS T. Camara running Layup,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/47/d96e3001-3a65-dbde-35b1-f2cc20a1303f_320x180.mp4
+22400239,48,Success,Z. Risacher REBOUND (Off:0 Def:2),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/48/a5ddd22b-e01b-09ad-8476-6c613206800c_320x180.mp4
+22400239,49,Success,T. Camara personal FOUL (1 PF),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/49/959e836b-7d44-ff94-51cd-ca55f34eef3a_320x180.mp4
+22400239,51,Success,D. Daniels 3PT  (3 PTS) (C. Capela 1 AST),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/51/179bbc0e-0f98-b8f2-7941-a3e186aa1225_320x180.mp4
+22400239,53,Success,MISS J. Grant 24' 3PT,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/53/123d8d29-6622-50ec-2b39-14e9b94a2c77_320x180.mp4
+22400239,54,Success,TEAM offensive REBOUND,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/54/27fd40ae-155d-e417-7b38-90607f5a07a2_320x180.mp4
+22400239,56,Success,C. Capela loose ball personal FOUL (1 PF),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/56/37e7d09d-324a-c8a1-7e93-58ec9e9e3673_320x180.mp4
+22400239,58,Success,J. Grant driving Layup (2 PTS) (S. Henderson 1 AST),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/58/a0af4d18-5daa-7f62-3ddd-47ff5b0ca85a_320x180.mp4
+22400239,60,Success,D. Daniels driving floating bank Jump Shot (5 PTS),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/60/83efb3c7-4777-0fd6-1c50-c1de849a19fa_320x180.mp4
+22400239,61,Success,J. Grant shooting personal FOUL (1 PF) (Daniels 1 FT),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/61/a29525ef-96a7-d4ca-1f76-b5205085838b_320x180.mp4
+22400239,63,Success,D. Daniels Free Throw 1 of 1 (6 PTS),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/63/2419623e-5aae-b4f3-90a4-d8943f292426_320x180.mp4
+22400239,64,Success,MISS T. Camara driving Layup,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/64/c39aa23e-13b8-95d0-9c9d-6288c6bb1c61_320x180.mp4
+22400239,65,Success,J. Johnson REBOUND (Off:0 Def:2),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/65/bc25bfa1-bd3a-2216-8dad-4d245c8e77cf_320x180.mp4
+22400239,66,Success,D. Daniels running reverse Layup (8 PTS) (J. Johnson 2 AST),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/66/73399aec-9717-20c6-7734-84de74f72516_320x180.mp4
+22400239,70,Success,S. Sharpe offensive foul TURNOVER (1 TO),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/70/6552b89c-e4c0-8edc-d1b9-639f051aa9e2_320x180.mp4
+22400239,68,Success,S. Sharpe charge offensive FOUL (1 PF),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/68/5a7bdceb-d590-2e2b-f623-79c721f48ea1_320x180.mp4
+22400239,73,Success,SUB out: D. Clingan,
+22400239,74,Success,SUB out: S. Henderson,
+22400239,75,Success,SUB out: J. Johnson,
+22400239,76,Success,SUB in: D. Banton,
+22400239,77,Success,SUB in: R. Williams III,
+22400239,78,Success,SUB in: L. Nance Jr.,
+22400239,79,Success,MISS C. Capela DUNK - blocked,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/79/aeb58044-5dee-a258-f855-70d6e3573073_320x180.mp4
+22400239,80,Success,J. Grant BLOCK (1 BLK),
+22400239,81,Success,D. Daniels REBOUND (Off:2 Def:0),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/81/dfdf9a32-060d-0aca-b868-2ea669b46324_320x180.mp4
+22400239,82,Success,MISS T. Young 3PT,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/82/60a0d1ba-fc1a-d552-bcdc-b7ce93e96d45_320x180.mp4
+22400239,83,Success,D. Banton REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/83/df0e24b9-a9b5-c59a-2d0c-5d57048095a0_320x180.mp4
+22400239,85,Success,C. Capela STEAL (1 STL),
+22400239,84,Success,D. Banton bad pass TURNOVER (1 TO),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/84/9203ba02-9455-86f0-e17d-a3126fe8929d_320x180.mp4
+22400239,87,Success,D. Daniels lost ball TURNOVER (1 TO),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/87/376dc1b6-71ac-c377-e0aa-9f83190ff74d_320x180.mp4
+22400239,88,Success,J. Grant STEAL (1 STL),
+22400239,89,Success,SUB out: S. Sharpe,
+22400239,90,Success,SUB in: D. Avdija,
+22400239,91,Success,Jump Ball J. Grant vs. C. Capela: Tip to R. Williams III,
+22400239,94,Success,R. Williams III bad pass out-of-bounds TURNOVER (1 TO),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/94/567e0abd-64b4-f193-34ad-a44a8e1a74e6_320x180.mp4
+22400239,95,Success,SUB out: C. Capela,
+22400239,96,Success,SUB in: O. Okongwu,
+22400239,97,Success,O. Okongwu Layup (2 PTS) (T. Young 1 AST),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/97/a58dba10-1ff5-f339-08e8-d360c58bb991_320x180.mp4
+22400239,99,Success,D. Banton lost ball TURNOVER (2 TO),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/99/7ce5d2c0-54b1-18b4-2ba5-e353e14fdb5c_320x180.mp4
+22400239,100,Success,D. Daniels STEAL (1 STL),
+22400239,101,Success,D. Daniels running Layup (10 PTS),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/101/6be0daa8-a5ba-e8fa-e6fa-d134b967edda_320x180.mp4
+22400239,103,Success,O. Okongwu REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/103/e4f0eedc-11a7-faca-12d1-8e2cd0c1a040_320x180.mp4
+22400239,102,Success,MISS D. Banton driving Layup,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/102/4b77a1d4-05fe-94b8-e8fa-b54a009fa539_320x180.mp4
+22400239,104,Success,Z. Risacher running alley-oop DUNK (6 PTS) (T. Young 2 AST),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/104/4ae5b219-3cae-6f6a-3d5a-76b2ef12530e_320x180.mp4
+22400239,106,Success,POR Timeout,
+22400239,107,Success,SUB out: J. Grant,
+22400239,108,Success,SUB out: T. Camara,
+22400239,109,Success,SUB in: R. Rupert,
+22400239,110,Success,SUB in: K. Murray,
+22400239,111,Success,K. Murray bad pass TURNOVER (1 TO),
+22400239,112,Success,O. Okongwu STEAL (1 STL),
+22400239,113,Success,MISS Z. Risacher 25' 3PT,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/113/bea35d70-e581-c4f7-1a9f-e965a516b4d0_320x180.mp4
+22400239,114,Success,L. Nance Jr. REBOUND (Off:1 Def:0),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/114/2c12a506-5627-5423-f04d-f5378a6e7a0b_320x180.mp4
+22400239,116,Success,D. Banton BLOCK (1 BLK),
+22400239,115,Success,MISS D. Daniels 24' 3PT - blocked,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/115/9a4a1a96-8e2d-bc18-02da-69527668e472_320x180.mp4
+22400239,117,Success,TEAM offensive REBOUND,
+22400239,118,Success,ATL shot clock Team TURNOVER,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/118/30986c52-d011-023d-5539-3f3591390f33_320x180.mp4
+22400239,119,Success,SUB out: Z. Risacher,
+22400239,120,Success,SUB in: G. Mathews,
+22400239,121,Success,D. Banton 27' 3PT  (3 PTS) (R. Williams III 1 AST),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/121/d78c2a7f-3b32-5fca-38d1-97301a100a2b_320x180.mp4
+22400239,123,Success,MISS G. Mathews 3PT,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/123/893a49ac-1e38-5bc5-be4a-f72110910f46_320x180.mp4
+22400239,124,Success,K. Murray REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/124/68b86a67-1943-30ed-b4e4-dbe2a326654d_320x180.mp4
+22400239,125,Success,R. Rupert 3PT  (3 PTS) (D. Banton 1 AST),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/125/88c7ffb0-a13f-965b-a5ff-878c50018e17_320x180.mp4
+22400239,127,Success,D. Daniels bad pass TURNOVER (2 TO),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/127/2dc89c6e-b215-b9fb-d9a1-000ddc21fe86_320x180.mp4
+22400239,128,Success,R. Williams III STEAL (1 STL),
+22400239,129,Success,D. Banton running DUNK (5 PTS) (D. Avdija 1 AST),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/129/29b03295-6a48-ee80-1264-08fada3c84bd_320x180.mp4
+22400239,131,Success,ATL Timeout,
+22400239,136,Success,SUB in: J. Johnson,
+22400239,137,Success,SUB in: V. Krejčí,
+22400239,135,Success,SUB in: K. Wallace,
+22400239,132,Success,SUB out: D. Daniels,
+22400239,133,Success,SUB out: T. Young,
+22400239,134,Success,SUB out: L. Nance Jr.,
+22400239,138,Success,R. Rupert personal FOUL (1 PF),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/138/b10802db-3ab2-ad69-2e16-593606d36dfa_320x180.mp4
+22400239,140,Success,MISS J. Johnson 8' driving floating Shot,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/140/3bee3336-b86e-55be-2f17-451eddd18898_320x180.mp4
+22400239,141,Success,K. Murray REBOUND (Off:0 Def:2),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/141/c77e9595-9dcd-6700-d135-8d3cfd9da4ea_320x180.mp4
+22400239,142,Success,K. Wallace shooting personal FOUL (1 PF) (Murray 2 FT),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/142/f2f201d6-181c-05b7-d796-6adf75151202_320x180.mp4
+22400239,144,Success,MISS K. Murray Free Throw 1 of 2,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/144/53d022e3-4eea-82ab-a7bf-94efa20fd9dc_320x180.mp4
+22400239,145,Success,TEAM offensive REBOUND,
+22400239,146,Success,MISS K. Murray Free Throw 2 of 2,
+22400239,147,Success,O. Okongwu REBOUND (Off:0 Def:2),
+22400239,148,Success,O. Okongwu 6' driving Hook (4 PTS) (V. Krejčí 1 AST),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/148/2c8a27db-aebe-67f2-27ef-c1f9a1844853_320x180.mp4
+22400239,150,Success,MISS D. Avdija 8' turnaround fadeaway Shot,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/150/acd5bc3a-145e-3d28-461e-a2547e9ddb2a_320x180.mp4
+22400239,151,Success,O. Okongwu REBOUND (Off:0 Def:3),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/151/f16f3077-6cca-ec05-f992-7c8cd4bd1bdc_320x180.mp4
+22400239,152,Success,MISS G. Mathews 25' 3PT,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/152/7e19c238-8242-1891-5849-b34316a2923c_320x180.mp4
+22400239,153,Success,R. Williams III REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/153/154d7815-8ea0-6058-6229-ab7159d2e1c8_320x180.mp4
+22400239,154,Success,MISS D. Banton 31' 3PT,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/154/10fa8c5b-6cf9-0a9a-23a6-e765ebeeccd5_320x180.mp4
+22400239,155,Success,G. Mathews REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/155/273c3b9f-12e1-d579-7173-a49ca98910ab_320x180.mp4
+22400239,156,Success,G. Mathews 3PT  (3 PTS) (V. Krejčí 2 AST),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/156/0c09db53-34aa-881d-a254-25af4f740635_320x180.mp4
+22400239,158,Success,MISS R. Rupert 3PT,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/158/1748a457-eb75-f6fa-1bf2-ab7c10861c67_320x180.mp4
+22400239,159,Success,R. Williams III REBOUND (Off:1 Def:1),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/159/620cd0a6-14a0-6b42-de0c-203966ef3282_320x180.mp4
+22400239,160,Success,MISS K. Murray 3PT,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/160/2ca9e43d-c4c1-61bc-4d0a-617c3343ea6d_320x180.mp4
+22400239,161,Success,R. Rupert REBOUND (Off:1 Def:0),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/161/0f87a066-2a3e-ce2e-f578-960051ee03d1_320x180.mp4
+22400239,162,Success,V. Krejčí personal FOUL (1 PF),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/162/90fccea5-d239-ea59-9067-a3a3cda18653_320x180.mp4
+22400239,164,Success,D. Banton bad pass out-of-bounds TURNOVER (3 TO),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/164/11f3bce2-ab73-12d2-b22a-a7c23f4a3201_320x180.mp4
+22400239,165,Success,D. Banton personal FOUL (1 PF) (Okongwu 2 FT),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/165/5a612a0f-73dd-7d13-ed3a-0078e1dec4a4_320x180.mp4
+22400239,167,Success,O. Okongwu Free Throw 1 of 2 (5 PTS),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/167/58233907-3289-8a66-9769-fe6a112ce407_320x180.mp4
+22400239,170,Success,MISS O. Okongwu Free Throw 2 of 2,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/170/49c12874-2a17-98e4-1fe8-ba5a400b719e_320x180.mp4
+22400239,171,Success,D. Avdija REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/171/29c07510-cb61-cef4-df9b-e8e4700d4b47_320x180.mp4
+22400239,168,Success,SUB out: K. Murray,
+22400239,169,Success,SUB in: J. Grant,
+22400239,172,Success,R. Rupert bad pass TURNOVER (1 TO),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/172/3fee8d77-74b5-9354-0382-6e82afe13bdb_320x180.mp4
+22400239,173,Success,J. Johnson STEAL (1 STL),
+22400239,174,Success,J. Johnson running reverse Layup (4 PTS),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/174/eeb86d49-00fb-0d91-2631-b9393114ee07_320x180.mp4
+22400239,175,Success,MISS D. Avdija 24' 3PT,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/175/4d63258b-0c6e-ff24-e97c-82a3fcaed35e_320x180.mp4
+22400239,176,Success,R. Williams III REBOUND (Off:2 Def:1),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/176/bfb1c214-6bb4-ddcc-b172-d0f168b847da_320x180.mp4
+22400239,177,Success,R. Williams III putback Layup (2 PTS),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/177/d6b67c43-856e-5f04-19df-9ff57eeb7717_320x180.mp4
+22400239,178,Success,MISS O. Okongwu 3PT,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/178/214e2b61-766f-2d16-337b-dc09bbc338c9_320x180.mp4
+22400239,179,Success,D. Avdija REBOUND (Off:0 Def:2),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/179/2231165f-befc-c905-8d52-8e36931cf19b_320x180.mp4
+22400239,180,Success,D. Banton 17' pullup Jump Shot (7 PTS) (R. Williams III 2 AST),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/180/6c739ccf-d650-0e56-6e18-b1afd83e5b79_320x180.mp4
+22400239,182,Success,MISS K. Wallace 28' pullup 3PT,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/182/f7c3e2d4-81dc-27f1-e57e-9c2762a16bfc_320x180.mp4
+22400239,183,Success,TEAM offensive REBOUND,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/183/38bf1869-e60b-12fa-e251-eacd789de682_320x180.mp4
+22400239,184,Success,Period End,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/184/ed06e426-1fb5-7f3f-9daa-1fc6d714a7e7_320x180.mp4
+22400239,185,Success,SUB out: G. Mathews,
+22400239,186,Success,SUB in: Z. Risacher,
+22400239,187,Success,Period Start,
+22400239,188,Success,D. Banton 26' 3PT  (10 PTS) (D. Avdija 2 AST),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/188/c2e68729-4bc4-753c-065f-1612f6e8bc8b_320x180.mp4
+22400239,190,Success,J. Johnson cutting DUNK (6 PTS) (O. Okongwu 1 AST),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/190/507ab5c5-6a31-ecb6-02a4-01197393af3b_320x180.mp4
+22400239,192,Success,D. Avdija lost ball TURNOVER (1 TO),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/192/e67011c6-3cf9-5a5d-233d-5afff16b09a6_320x180.mp4
+22400239,193,Success,V. Krejčí STEAL (1 STL),
+22400239,194,Success,V. Krejčí bad pass out-of-bounds TURNOVER (1 TO),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/194/413d60bc-1280-d29f-0264-4bba3050e435_320x180.mp4
+22400239,197,Success,J. Johnson STEAL (2 STL),
+22400239,196,Success,R. Williams III bad pass TURNOVER (2 TO),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/196/cc4b8058-e356-2e8e-a599-75fa68dcc256_320x180.mp4
+22400239,198,Success,J. Johnson lost ball out-of-bounds TURNOVER (2 TO),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/198/b4d8133f-a5fb-2a69-07a2-d56d1c0aa8ea_320x180.mp4
+22400239,199,Success,MISS J. Grant 25' 3PT,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/199/8395a081-abce-472c-851d-b94fc4cb596f_320x180.mp4
+22400239,200,Success,J. Johnson REBOUND (Off:0 Def:3),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/200/fb50125a-3ae6-5c73-bd90-7eaa954c970d_320x180.mp4
+22400239,201,Success,J. Grant shooting personal FOUL (2 PF) (Johnson 2 FT),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/201/4c5a6c0f-d78e-cd05-8db8-2a87346ff896_320x180.mp4
+22400239,203,Success,J. Johnson Free Throw 1 of 2 (7 PTS),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/203/711730fe-7849-c06a-8a64-71322abaa94f_320x180.mp4
+22400239,204,Success,SUB out: D. Banton,
+22400239,205,Success,SUB out: R. Rupert,
+22400239,206,Success,SUB in: S. Henderson,
+22400239,207,Success,SUB in: S. Sharpe,
+22400239,208,Success,J. Johnson Free Throw 2 of 2 (8 PTS),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/208/10f455ca-876a-001a-8805-cbe0a056a2e0_320x180.mp4
+22400239,209,Success,O. Okongwu shooting personal FOUL (1 PF) (Avdija 2 FT),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/209/e876ab06-f127-e607-cfa4-51290f2d3fcf_320x180.mp4
+22400239,211,Success,D. Avdija Free Throw 1 of 2 (1 PTS),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/211/a697a713-91c5-5b17-e904-fd5b344fe13e_320x180.mp4
+22400239,212,Success,D. Avdija Free Throw 2 of 2 (2 PTS),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/212/85223690-fe5c-5e54-e742-7382915e43c6_320x180.mp4
+22400239,213,Success,J. Johnson bad pass out-of-bounds TURNOVER (3 TO),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/213/f2d733c9-a316-a83c-ff79-89c38440de6a_320x180.mp4
+22400239,214,Success,MISS S. Sharpe 24' pullup 3PT,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/214/a26e878d-3125-2824-1bcf-5937cd0fcd2e_320x180.mp4
+22400239,215,Success,D. Avdija REBOUND (Off:1 Def:2),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/215/ce421332-3b15-2f78-2088-5a30a4811cf0_320x180.mp4
+22400239,216,Success,R. Williams III alley-oop DUNK (4 PTS) (D. Avdija 3 AST),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/216/3c3858d7-4c65-5707-c9ed-a0de1fd4b9fb_320x180.mp4
+22400239,218,Success,V. Krejčí 28' 3PT pullup (3 PTS) (K. Wallace 1 AST),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/218/ff640eb6-88ce-34ca-7ee3-b474d5c18fc2_320x180.mp4
+22400239,220,Success,MISS S. Sharpe driving floating Shot - blocked,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/220/2a47800f-aa96-96a1-20d1-3f053c40402d_320x180.mp4
+22400239,221,Success,V. Krejčí BLOCK (1 BLK),
+22400239,222,Success,TEAM offensive REBOUND,
+22400239,224,Success,MISS S. Sharpe 19' Jump Shot,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/224/ba5b8673-49c7-0ebf-020c-0a3b500d9dbc_320x180.mp4
+22400239,225,Success,D. Avdija REBOUND (Off:2 Def:2),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/225/637486b8-1567-4742-7db2-6c7ad8581c51_320x180.mp4
+22400239,226,Success,Z. Risacher personal FOUL (1 PF),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/226/72217c55-a45b-e8fa-8a78-a5a2722f7c78_320x180.mp4
+22400239,232,Success,SUB in: D. Daniels,
+22400239,233,Success,SUB in: T. Young,
+22400239,231,Success,SUB in: T. Camara,
+22400239,228,Success,SUB out: R. Williams III,
+22400239,229,Success,SUB out: K. Wallace,
+22400239,230,Success,SUB out: V. Krejčí,
+22400239,234,Success,S. Henderson driving finger roll Layup (2 PTS),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/234/0d5e4354-131d-d8b3-c2f9-6953d26071f5_320x180.mp4
+22400239,235,Success,O. Okongwu 8' bank Hook (7 PTS) (J. Johnson 3 AST),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/235/a1664f30-944d-8f3e-dbc1-e9b2b1264119_320x180.mp4
+22400239,237,Success,S. Sharpe driving floating Jump Shot (7 PTS) (S. Henderson 2 AST),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/237/f3af8be1-2986-1167-2ff5-1cfd74d689b9_320x180.mp4
+22400239,239,Success,J. Johnson lost ball TURNOVER (4 TO),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/239/c7d7d4a0-ad70-9b6f-f89a-02b88139dc5f_320x180.mp4
+22400239,240,Success,J. Grant STEAL (2 STL),
+22400239,241,Success,D. Avdija running Layup (4 PTS),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/241/5bf2498f-93d3-ba4b-8820-9d3e72384ae8_320x180.mp4
+22400239,242,Success,ATL Timeout,
+22400239,244,Success,SUB in: L. Nance Jr.,
+22400239,243,Success,SUB out: J. Johnson,
+22400239,245,Success,T. Young bad pass TURNOVER (2 TO),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/245/98d265c6-edc6-9f2c-550d-3ead667c6b70_320x180.mp4
+22400239,246,Success,S. Henderson STEAL (1 STL),
+22400239,247,Success,MISS S. Henderson driving Layup - blocked,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/247/33615399-5721-6994-ebee-b20ec6ec867a_320x180.mp4
+22400239,248,Success,L. Nance Jr. BLOCK (1 BLK),
+22400239,249,Success,O. Okongwu REBOUND (Off:0 Def:4),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/249/16da85be-961a-0068-1df2-db3ddabd4728_320x180.mp4
+22400239,250,Success,MISS D. Daniels 20' floating Shot,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/250/33540a69-fd5a-897d-1217-c0e8546823f0_320x180.mp4
+22400239,258,Success,TEAM offensive REBOUND,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/258/d33a0e27-b469-e85e-4ef0-72a8de3c19ff_320x180.mp4
+22400239,253,Success,SUB in: D. Clingan,
+22400239,254,Success,SUB in: C. Capela,
+22400239,251,Success,SUB out: J. Grant,
+22400239,252,Success,SUB out: O. Okongwu,
+22400239,255,Success,Jump Ball D. Daniels vs. S. Sharpe: Tip to L. Nance Jr.,
+22400239,260,Success,T. Camara STEAL (1 STL),
+22400239,259,Success,D. Daniels bad pass TURNOVER (3 TO),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/259/fe60baf2-c26e-a037-e780-9ca9ecc5abf8_320x180.mp4
+22400239,261,Success,MISS S. Sharpe 3PT,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/261/bf23887b-49b0-e6c5-31fa-1fb65be28fed_320x180.mp4
+22400239,262,Success,D. Clingan REBOUND (Off:2 Def:0),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/262/200cbf2f-8f27-2603-8927-96165ec9c463_320x180.mp4
+22400239,264,Success,Z. Risacher shooting personal FOUL (2 PF) (Sharpe 2 FT),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/264/8e454134-e3ad-ec50-8401-4d539fe025d9_320x180.mp4
+22400239,266,Success,MISS S. Sharpe Free Throw 1 of 2,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/266/7ca8d54e-8817-32ca-0393-f384c390440b_320x180.mp4
+22400239,267,Success,TEAM offensive REBOUND,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/267/46cda4f7-2323-b0a8-e7b5-d0f84d08e2c1_320x180.mp4
+22400239,268,Success,S. Sharpe Free Throw 2 of 2 (8 PTS),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/268/b00e4f8e-622a-8345-1824-58bf01301624_320x180.mp4
+22400239,269,Success,T. Young lost ball TURNOVER (3 TO),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/269/5f7a50c7-720c-9231-c0d6-b710ad6dfc09_320x180.mp4
+22400239,270,Success,T. Camara STEAL (2 STL),
+22400239,271,Success,S. Henderson driving DUNK (4 PTS) (T. Camara 2 AST),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/271/752c191a-7d60-e772-ae32-f64a20ca61fe_320x180.mp4
+22400239,273,Success,S. Sharpe shooting personal FOUL (2 PF) (Risacher 3 FT),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/273/2defea65-6bdc-969a-3df9-56b2b6f36c95_320x180.mp4
+22400239,275,Success,Z. Risacher Free Throw 1 of 3 (7 PTS),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/275/eeec9a7a-e218-95b6-05cb-fe9710567aa5_320x180.mp4
+22400239,276,Success,Z. Risacher Free Throw 2 of 3 (8 PTS),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/276/a0f7cbab-4540-0ca5-df2a-8af5737aeaca_320x180.mp4
+22400239,277,Success,Z. Risacher Free Throw 3 of 3 (9 PTS),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/277/8f15b0ed-96da-9caa-a85b-21a61d3604ad_320x180.mp4
+22400239,278,Success,MISS S. Sharpe 26' pullup 3PT,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/278/a27ba051-8a05-9b9c-b674-2b7fc66e78fb_320x180.mp4
+22400239,279,Success,L. Nance Jr. REBOUND (Off:1 Def:1),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/279/7163628b-1e26-81ac-70b3-8473695e606a_320x180.mp4
+22400239,280,Success,S. Sharpe personal FOUL (3 PF),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/280/4dbeb8c4-23a9-5229-ee9a-5992b2c436f2_320x180.mp4
+22400239,283,Success,S. Henderson personal FOUL (1 PF),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/283/59b54320-8cc3-1d13-602e-817c781dcc36_320x180.mp4
+22400239,285,Success,T. Young 3PT step back (6 PTS) (C. Capela 2 AST),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/285/4431f8b9-f306-b67e-cc0e-0d2e1561cecd_320x180.mp4
+22400239,287,Success,MISS T. Camara 26' 3PT,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/287/fd2fc07e-8e7f-b160-f1b5-fc249d3c4ad4_320x180.mp4
+22400239,288,Success,L. Nance Jr. REBOUND (Off:1 Def:2),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/288/f9c57e53-60be-656f-8e7c-c12d108def10_320x180.mp4
+22400239,290,Success,D. Clingan shooting personal FOUL (2 PF) (Capela 2 FT),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/290/70ecdec6-8355-9639-2ab8-5b4d7669ba35_320x180.mp4
+22400239,292,Success,MISS C. Capela Free Throw 1 of 2,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/292/c8d79432-4996-cd37-2963-21825bfa278d_320x180.mp4
+22400239,293,Success,TEAM offensive REBOUND,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/293/c995b742-4ae4-6abb-863c-ed35a4b6b699_320x180.mp4
+22400239,296,Success,MISS C. Capela Free Throw 2 of 2,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/296/4b6a09f2-217e-c430-e361-ccbbf65ec5e6_320x180.mp4
+22400239,295,Success,SUB in: J. Grant,
+22400239,294,Success,SUB out: S. Sharpe,
+22400239,297,Success,D. Avdija REBOUND (Off:2 Def:3),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/297/4dd26616-68e5-8a6d-3abc-0cdf16303880_320x180.mp4
+22400239,298,Success,D. Avdija 26' 3PT step back (7 PTS),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/298/2b6357e0-0f5b-4824-ec78-51799a93592c_320x180.mp4
+22400239,299,Success,MISS Z. Risacher 3PT,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/299/e440a386-4ce6-0c11-3abb-b41562c0656b_320x180.mp4
+22400239,300,Success,C. Capela REBOUND (Off:1 Def:1),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/300/ed4c2358-0121-a3cd-f7c7-4478b51805a8_320x180.mp4
+22400239,301,Success,C. Capela putback Layup (4 PTS),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/301/174a69ab-f20f-7438-92b6-a934ba2c6c65_320x180.mp4
+22400239,302,Success,MISS S. Henderson 25' 3PT,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/302/8370fe03-27a6-27b5-c7e5-48b11988bf68_320x180.mp4
+22400239,303,Success,TEAM offensive REBOUND,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/303/29bfa6a4-47c0-9c8d-616b-98d2b94206bb_320x180.mp4
+22400239,304,Success,C. Capela loose ball personal FOUL (2 PF),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/304/e2cf6fd4-c2e5-f331-bd48-0082ce352a1b_320x180.mp4
+22400239,306,Success,SUB out: D. Avdija,
+22400239,307,Success,SUB in: D. Banton,
+22400239,308,Success,D. Banton 24' 3PT  (13 PTS) (S. Henderson 3 AST),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/308/315c8158-d04d-dcaf-a5b1-050a385884a4_320x180.mp4
+22400239,310,Success,MISS D. Daniels driving finger roll Layup,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/310/79d456fe-ce56-8c31-8827-740f4ffdc242_320x180.mp4
+22400239,311,Success,C. Capela REBOUND (Off:2 Def:1),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/311/1894260f-e04e-8f02-f77c-90b5580698b8_320x180.mp4
+22400239,312,Success,T. Young lost ball TURNOVER (4 TO),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/312/df7008d9-9f68-2556-2439-e62b1e13ed6b_320x180.mp4
+22400239,313,Success,T. Camara STEAL (3 STL),
+22400239,314,Success,D. Banton bad pass TURNOVER (4 TO),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/314/714e493f-3b16-4d7e-4ae4-ee7271a944f1_320x180.mp4
+22400239,315,Success,L. Nance Jr. STEAL (1 STL),
+22400239,316,Success,MISS T. Young 24' 3PT,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/316/96a14bdc-5651-e11c-613b-8bb7f8d5e435_320x180.mp4
+22400239,317,Success,C. Capela REBOUND (Off:3 Def:1),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/317/d0106975-4c79-477d-c970-4b57d1b105a9_320x180.mp4
+22400239,318,Success,J. Grant personal FOUL (3 PF) (Young 2 FT),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/318/c60b51d1-5770-d7a0-424a-9ece33c48e1d_320x180.mp4
+22400239,320,Success,T. Young Free Throw 1 of 2 (7 PTS),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/320/f2a90277-05f2-fb45-66ce-7795681f5bce_320x180.mp4
+22400239,321,Success,SUB out: Z. Risacher,
+22400239,322,Success,SUB out: L. Nance Jr.,
+22400239,323,Success,SUB in: V. Krejčí,
+22400239,324,Success,SUB in: J. Johnson,
+22400239,325,Success,T. Young Free Throw 2 of 2 (8 PTS),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/325/76ef4d8d-8229-bd6a-c251-7e3dc032716e_320x180.mp4
+22400239,326,Success,D. Clingan alley-oop DUNK (4 PTS) (S. Henderson 4 AST),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/326/e1de0c42-de95-8007-9b6b-c57e61c1e36f_320x180.mp4
+22400239,328,Success,MISS C. Capela 6' turnaround Hook,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/328/e665ae59-f225-4f9c-50b5-7df0246674e6_320x180.mp4
+22400239,329,Success,D. Daniels REBOUND (Off:3 Def:0),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/329/b875f773-ead1-a85e-7c08-bc749a77aaf5_320x180.mp4
+22400239,330,Success,D. Daniels tip Layup (12 PTS),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/330/8e1bb2e6-b9bd-84b8-01ff-229aad2f720d_320x180.mp4
+22400239,331,Success,MISS D. Banton driving Layup,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/331/ad768d0d-bf3c-d057-efe9-c4f71301e7b5_320x180.mp4
+22400239,332,Success,D. Clingan REBOUND (Off:3 Def:0),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/332/9f341051-541c-a7b3-56c9-1f7293558088_320x180.mp4
+22400239,333,Success,D. Clingan putback DUNK (6 PTS),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/333/9495408d-6042-05b3-0fa7-c47cc0e33214_320x180.mp4
+22400239,334,Success,J. Johnson lost ball out-of-bounds TURNOVER (5 TO),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/334/53f534da-049e-8294-de5f-d1b5438deed0_320x180.mp4
+22400239,335,Success,MISS D. Banton driving floating Shot,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/335/b176009f-73b0-d715-5e1b-3ca8c9e0d8a9_320x180.mp4
+22400239,336,Success,D. Daniels REBOUND (Off:3 Def:1),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/336/cb7b05a5-cb82-e67d-6472-918a3131f8e9_320x180.mp4
+22400239,338,Success,D. Daniels lost ball TURNOVER (4 TO),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/338/2dd252b4-3e7c-bff4-21e0-39754524c5ee_320x180.mp4
+22400239,339,Success,D. Banton STEAL (1 STL),
+22400239,340,Success,S. Henderson driving finger roll Layup (6 PTS),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/340/7115de23-6836-bccb-88b2-22a73e6115db_320x180.mp4
+22400239,341,Success,ATL Timeout,
+22400239,342,Success,SUB out: J. Grant,
+22400239,343,Success,SUB in: D. Avdija,
+22400239,344,Success,MISS T. Young 24' 3PT,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/344/f2453c10-ed52-1689-6332-e13e1d291a94_320x180.mp4
+22400239,345,Success,D. Avdija REBOUND (Off:2 Def:4),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/345/7da5bf79-e770-b7b4-5f3d-2db164406679_320x180.mp4
+22400239,346,Success,MISS S. Henderson 24' 3PT,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/346/c6f7a9cf-9fc8-96ca-51ab-b2c62f01c619_320x180.mp4
+22400239,347,Success,V. Krejčí REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/347/671d9c93-6d58-acfc-c0fc-36db13816a2c_320x180.mp4
+22400239,348,Success,MISS J. Johnson 3PT,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/348/cfcd9225-0333-0165-c997-2676562f7dbc_320x180.mp4
+22400239,349,Success,D. Clingan REBOUND (Off:3 Def:1),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/349/19629fdd-c108-9e10-2439-c2955e524f28_320x180.mp4
+22400239,350,Success,T. Camara 3PT  (3 PTS) (D. Banton 2 AST),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/350/e2f40556-66fa-77b7-d82b-0bb0a6efd00b_320x180.mp4
+22400239,762,Success,V. Krejčí driving DUNK (5 PTS) (C. Capela 3 AST),
+22400239,354,Success,D. Avdija step back Jump Shot (9 PTS),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/354/da64ec29-4e39-de10-0c23-764b4e9151cf_320x180.mp4
+22400239,355,Success,MISS C. Capela DUNK,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/355/8343fae7-b958-e733-f6f0-13fd0f520613_320x180.mp4
+22400239,357,Success,C. Capela REBOUND (Off:4 Def:1),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/357/030e16c2-205c-912c-5da7-5ebce0909462_320x180.mp4
+22400239,358,Success,MISS C. Capela putback Layup,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/358/e64cf400-ca3a-8031-baa0-78bd3baf00a4_320x180.mp4
+22400239,359,Success,C. Capela REBOUND (Off:5 Def:1),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/359/cd586f7d-383e-5fe7-86e7-bb434d56e60d_320x180.mp4
+22400239,360,Success,T. Young 3PT step back (11 PTS) (C. Capela 4 AST),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/360/b493bed4-d6bf-38c6-8e94-86253309c2db_320x180.mp4
+22400239,362,Success,MISS D. Banton 3PT,https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/362/767572f3-4747-faa2-66f8-25767a7e106d_320x180.mp4
+22400239,363,Success,C. Capela REBOUND (Off:5 Def:2),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/363/1af64845-c9b7-93d2-36b7-b8d9f02a4565_320x180.mp4
+22400239,364,Success,J. Johnson 3PT  (11 PTS) (D. Daniels 2 AST),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/364/52f340e7-de0b-07b4-86e4-e12b2cfe0002_320x180.mp4
+22400239,366,Success,D. Banton driving finger roll Layup (15 PTS),https://videos.nba.com/nba/pbp/media/2024/11/17/0022400239/366/c0895d16-5b24-f745-8b6a-cb4d55500908_320x180.mp4
