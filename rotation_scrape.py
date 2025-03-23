@@ -31,7 +31,7 @@ def rotation_download(ps=False):
     else:
         trail = ''
     team_dict=get_team_dict()
-    for year in range(2014,2025):
+    for year in range(2025,2026):
         rotations=[]
 
         for team in team_dict.keys():
