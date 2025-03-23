@@ -51648,3 +51648,677 @@ Hawkins REBOUND (Off:0 Def:6)
 MISS Clark 24' 3PT Jump Shot
 Hawkins REBOUND (Off:0 Def:6)
 ",0,0,1,0,2025-03-19,22401001,0,0,NOP,4,0,-5,12:00,Off Dead Ball,0,Hawkins REBOUND (Off:0 Def:6),,MIN,NOP,MIN,1610612750
+00:08,"Randle 27' 3PT Jump Shot (9 PTS) (Reid 1 AST)
+",0,0,1,1,2025-03-21,22401016,0,0,NOP,1,0,3,00:32,Off Dead Ball,0,Randle 27' 3PT Jump Shot (9 PTS) (Reid 1 AST),,MIN,NOP,MIN,1610612750
+00:41,"Reid 25' 3PT Jump Shot (5 PTS) (Randle 3 AST)
+",0,0,1,1,2025-03-21,22401016,0,0,NOP,1,0,0,00:54,Off Steal,0,Reid 25' 3PT Jump Shot (5 PTS) (Randle 3 AST),,MIN,NOP,MIN,1610612750
+01:07,"MISS Alexander-Walker 26' 3PT Jump Shot
+Hawkins REBOUND (Off:0 Def:2)
+",0,0,1,0,2025-03-21,22401016,0,0,NOP,1,0,0,01:23,Off Corner 3 Miss,0,MISS Alexander-Walker 26' 3PT Jump Shot,,MIN,NOP,MIN,1610612750
+01:07,"MISS Alexander-Walker 26' 3PT Jump Shot
+Hawkins REBOUND (Off:0 Def:2)
+",0,0,1,0,2025-03-21,22401016,0,0,NOP,1,0,0,01:23,Off Corner 3 Miss,0,Hawkins REBOUND (Off:0 Def:2),,MIN,NOP,MIN,1610612750
+01:40,"Matković P.FOUL (P1.T3) (G.Petraitis)
+MISS Reid 27' 3PT Jump Shot
+Hawkins REBOUND (Off:0 Def:1)
+",0,0,1,0,2025-03-21,22401016,0,0,NOP,1,0,0,02:03,Off Timeout,0,Matković P.FOUL (P1.T3) (G.Petraitis),,MIN,NOP,MIN,1610612750
+01:40,"Matković P.FOUL (P1.T3) (G.Petraitis)
+MISS Reid 27' 3PT Jump Shot
+Hawkins REBOUND (Off:0 Def:1)
+",0,0,1,0,2025-03-21,22401016,0,0,NOP,1,0,0,02:03,Off Timeout,0,MISS Reid 27' 3PT Jump Shot,,MIN,NOP,MIN,1610612750
+01:40,"Matković P.FOUL (P1.T3) (G.Petraitis)
+MISS Reid 27' 3PT Jump Shot
+Hawkins REBOUND (Off:0 Def:1)
+",0,0,1,0,2025-03-21,22401016,0,0,NOP,1,0,0,02:03,Off Timeout,0,Hawkins REBOUND (Off:0 Def:1),,MIN,NOP,MIN,1610612750
+02:14,"DiVincenzo 3PT Jump Shot (3 PTS) (Alexander-Walker 1 AST)
+",0,0,1,1,2025-03-21,22401016,0,0,NOP,1,0,-1,02:32,Off At Rim Make,0,DiVincenzo 3PT Jump Shot (3 PTS) (Alexander-Walker 1 AST),,MIN,NOP,MIN,1610612750
+02:45,"Gobert 2' Cutting Dunk Shot (4 PTS) (DiVincenzo 2 AST)
+",1,1,0,0,2025-03-21,22401016,0,0,NOP,1,0,-1,02:57,Off Long Mid-Range Make,0,Gobert 2' Cutting Dunk Shot (4 PTS) (DiVincenzo 2 AST),,MIN,NOP,MIN,1610612750
+03:13,"Robinson-Earl S.FOUL (P1.T2) (G.Petraitis)
+Gobert Free Throw 1 of 2 (1 PTS)
+Gobert Free Throw 2 of 2 (2 PTS)
+",0,0,0,0,2025-03-21,22401016,0,0,NOP,1,1,-1,03:29,Off Short Mid-Range Make,0,Robinson-Earl S.FOUL (P1.T2) (G.Petraitis),,MIN,NOP,MIN,1610612750
+03:13,"Robinson-Earl S.FOUL (P1.T2) (G.Petraitis)
+Gobert Free Throw 1 of 2 (1 PTS)
+Gobert Free Throw 2 of 2 (2 PTS)
+",0,0,0,0,2025-03-21,22401016,0,0,NOP,1,1,-1,03:29,Off Short Mid-Range Make,0,Gobert Free Throw 1 of 2 (1 PTS),,MIN,NOP,MIN,1610612750
+03:13,"Robinson-Earl S.FOUL (P1.T2) (G.Petraitis)
+Gobert Free Throw 1 of 2 (1 PTS)
+Gobert Free Throw 2 of 2 (2 PTS)
+",0,0,0,0,2025-03-21,22401016,0,0,NOP,1,1,-1,03:29,Off Short Mid-Range Make,0,Gobert Free Throw 2 of 2 (2 PTS),,MIN,NOP,MIN,1610612750
+03:49,"Reid 7' Driving Hook Shot (2 PTS) (DiVincenzo 1 AST)
+",1,1,0,0,2025-03-21,22401016,0,0,NOP,1,0,-1,04:05,Off Arc 3 Miss,0,Reid 7' Driving Hook Shot (2 PTS) (DiVincenzo 1 AST),,MIN,NOP,MIN,1610612750
+04:22,"MISS DiVincenzo 27' 3PT Pullup Jump Shot
+McDaniels REBOUND (Off:1 Def:1)
+McDaniels Bad Pass Turnover (P1.T5): Olynyk STEAL (1 STL)
+",0,0,1,0,2025-03-21,22401016,0,1,NOP,1,0,-1,04:43,Off Dead Ball,1,MISS DiVincenzo 27' 3PT Pullup Jump Shot,,MIN,NOP,MIN,1610612750
+04:22,"MISS DiVincenzo 27' 3PT Pullup Jump Shot
+McDaniels REBOUND (Off:1 Def:1)
+McDaniels Bad Pass Turnover (P1.T5): Olynyk STEAL (1 STL)
+",0,0,1,0,2025-03-21,22401016,0,1,NOP,1,0,-1,04:43,Off Dead Ball,1,McDaniels REBOUND (Off:1 Def:1),,MIN,NOP,MIN,1610612750
+04:22,"MISS DiVincenzo 27' 3PT Pullup Jump Shot
+McDaniels REBOUND (Off:1 Def:1)
+McDaniels Bad Pass Turnover (P1.T5): Olynyk STEAL (1 STL)
+",0,0,1,0,2025-03-21,22401016,0,1,NOP,1,0,-1,04:43,Off Dead Ball,1,McDaniels Bad Pass Turnover (P1.T5): Olynyk STEAL (1 STL),,MIN,NOP,MIN,1610612750
+04:53,"MISS Reid 26' 3PT Jump Shot
+Robinson-Earl REBOUND (Off:0 Def:1)
+",0,0,1,0,2025-03-21,22401016,0,0,NOP,1,0,-1,05:17,Off FT Make,0,MISS Reid 26' 3PT Jump Shot,,MIN,NOP,MIN,1610612750
+04:53,"MISS Reid 26' 3PT Jump Shot
+Robinson-Earl REBOUND (Off:0 Def:1)
+",0,0,1,0,2025-03-21,22401016,0,0,NOP,1,0,-1,05:17,Off FT Make,0,Robinson-Earl REBOUND (Off:0 Def:1),,MIN,NOP,MIN,1610612750
+05:27,"MISS Reid 7' Turnaround Hook Shot
+Olynyk REBOUND (Off:0 Def:1)
+",1,0,0,0,2025-03-21,22401016,0,0,NOP,1,0,1,05:51,Off Timeout,0,MISS Reid 7' Turnaround Hook Shot,,MIN,NOP,MIN,1610612750
+05:27,"MISS Reid 7' Turnaround Hook Shot
+Olynyk REBOUND (Off:0 Def:1)
+",1,0,0,0,2025-03-21,22401016,0,0,NOP,1,0,1,05:51,Off Timeout,0,Olynyk REBOUND (Off:0 Def:1),,MIN,NOP,MIN,1610612750
+05:55,"MISS Randle 3PT Running Jump Shot
+McCollum REBOUND (Off:0 Def:2)
+",0,0,1,0,2025-03-21,22401016,0,0,NOP,1,0,4,05:59,Off At Rim Miss,0,MISS Randle 3PT Running Jump Shot,,MIN,NOP,MIN,1610612750
+05:55,"MISS Randle 3PT Running Jump Shot
+McCollum REBOUND (Off:0 Def:2)
+",0,0,1,0,2025-03-21,22401016,0,0,NOP,1,0,4,05:59,Off At Rim Miss,0,McCollum REBOUND (Off:0 Def:2),,MIN,NOP,MIN,1610612750
+06:12,"MISS Ingles 26' 3PT Pullup Jump Shot
+Missi REBOUND (Off:0 Def:2)
+",0,0,1,0,2025-03-21,22401016,0,0,NOP,1,0,4,06:28,Off At Rim Miss,0,MISS Ingles 26' 3PT Pullup Jump Shot,,MIN,NOP,MIN,1610612750
+06:12,"MISS Ingles 26' 3PT Pullup Jump Shot
+Missi REBOUND (Off:0 Def:2)
+",0,0,1,0,2025-03-21,22401016,0,0,NOP,1,0,4,06:28,Off At Rim Miss,0,Missi REBOUND (Off:0 Def:2),,MIN,NOP,MIN,1610612750
+06:44,"Randle 27' 3PT Jump Shot (6 PTS) (Gobert 1 AST)
+",0,0,1,1,2025-03-21,22401016,0,0,NOP,1,0,1,07:08,Off At Rim Make,0,Randle 27' 3PT Jump Shot (6 PTS) (Gobert 1 AST),,MIN,NOP,MIN,1610612750
+07:11,"Randle Lost Ball Turnover (P2.T4): Alvarado STEAL (1 STL)
+",0,0,0,0,2025-03-21,22401016,0,0,NOP,1,0,3,07:26,Off Steal,1,Randle Lost Ball Turnover (P2.T4): Alvarado STEAL (1 STL),,MIN,NOP,MIN,1610612750
+07:34,"Randle Out of Bounds - Bad Pass Turnover Turnover (P1.T3)
+",0,0,0,0,2025-03-21,22401016,0,0,NOP,1,0,3,07:53,Off Dead Ball,1,Randle Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,MIN,NOP,MIN,1610612750
+08:14,"McDaniels 26' 3PT Jump Shot (5 PTS) (Edwards 1 AST)
+",0,0,1,1,2025-03-21,22401016,0,0,NOP,1,0,0,08:22,Off Arc 3 Miss,0,McDaniels 26' 3PT Jump Shot (5 PTS) (Edwards 1 AST),,MIN,NOP,MIN,1610612750
+08:43,"Edwards 1' Running Alley Oop Dunk Shot (2 PTS) (Randle 2 AST)
+",1,1,0,0,2025-03-21,22401016,0,0,NOP,1,0,-2,08:48,Off Steal,0,Edwards 1' Running Alley Oop Dunk Shot (2 PTS) (Randle 2 AST),,MIN,NOP,MIN,1610612750
+08:58,"McDaniels 7' Driving Floating Jump Shot (2 PTS) (Randle 1 AST)
+",1,1,0,0,2025-03-21,22401016,0,0,NOP,1,0,-4,09:04,Off Corner 3 Miss,0,McDaniels 7' Driving Floating Jump Shot (2 PTS) (Randle 1 AST),,MIN,NOP,MIN,1610612750
+09:11,"Ingles Bad Pass Turnover (P1.T2): Brown STEAL (1 STL)
+",0,0,0,0,2025-03-21,22401016,0,0,NOP,1,0,-4,09:30,Off At Rim Make,1,Ingles Bad Pass Turnover (P1.T2): Brown STEAL (1 STL),,MIN,NOP,MIN,1610612750
+09:37,"MISS Ingles 25' 3PT Jump Shot
+Brown REBOUND (Off:0 Def:1)
+",0,0,1,0,2025-03-21,22401016,0,0,NOP,1,0,-2,09:59,Off Arc 3 Make,0,MISS Ingles 25' 3PT Jump Shot,,MIN,NOP,MIN,1610612750
+09:37,"MISS Ingles 25' 3PT Jump Shot
+Brown REBOUND (Off:0 Def:1)
+",0,0,1,0,2025-03-21,22401016,0,0,NOP,1,0,-2,09:59,Off Arc 3 Make,0,Brown REBOUND (Off:0 Def:1),,MIN,NOP,MIN,1610612750
+10:16,"Randle 2' Driving Layup (2 PTS) (Ingles 1 AST)
+Olynyk S.FOUL (P1.T1) (J.Capers)
+Randle Free Throw 1 of 1 (3 PTS)
+",1,1,0,0,2025-03-21,22401016,0,0,NOP,1,1,-2,10:29,Off Long Mid-Range Miss,0,Randle 2' Driving Layup (2 PTS) (Ingles 1 AST),,MIN,NOP,MIN,1610612750
+10:16,"Randle 2' Driving Layup (2 PTS) (Ingles 1 AST)
+Olynyk S.FOUL (P1.T1) (J.Capers)
+Randle Free Throw 1 of 1 (3 PTS)
+",1,1,0,0,2025-03-21,22401016,0,0,NOP,1,1,-2,10:29,Off Long Mid-Range Miss,0,Olynyk S.FOUL (P1.T1) (J.Capers),,MIN,NOP,MIN,1610612750
+10:16,"Randle 2' Driving Layup (2 PTS) (Ingles 1 AST)
+Olynyk S.FOUL (P1.T1) (J.Capers)
+Randle Free Throw 1 of 1 (3 PTS)
+",1,1,0,0,2025-03-21,22401016,0,0,NOP,1,1,-2,10:29,Off Long Mid-Range Miss,0,Randle Free Throw 1 of 1 (3 PTS),,MIN,NOP,MIN,1610612750
+10:53,"MISS McDaniels 10' Hook Shot
+Missi REBOUND (Off:0 Def:1)
+",1,0,0,0,2025-03-21,22401016,0,0,NOP,1,0,-2,11:15,Off Short Mid-Range Make,0,MISS McDaniels 10' Hook Shot,,MIN,NOP,MIN,1610612750
+10:53,"MISS McDaniels 10' Hook Shot
+Missi REBOUND (Off:0 Def:1)
+",1,0,0,0,2025-03-21,22401016,0,0,NOP,1,0,-2,11:15,Off Short Mid-Range Make,0,Missi REBOUND (Off:0 Def:1),,MIN,NOP,MIN,1610612750
+11:32,"Edwards Bad Pass Turnover (P1.T1): McCollum STEAL (1 STL)
+",0,0,0,0,2025-03-21,22401016,0,0,NOP,1,0,0,11:34,Off Short Mid-Range Miss,1,Edwards Bad Pass Turnover (P1.T1): McCollum STEAL (1 STL),,MIN,NOP,MIN,1610612750
+11:44,"MISS Ingles 10' Driving Floating Jump Shot
+McCollum REBOUND (Off:0 Def:1)
+",1,0,0,0,2025-03-21,22401016,0,0,NOP,1,0,0,12:00,Off Dead Ball,0,MISS Ingles 10' Driving Floating Jump Shot,,MIN,NOP,MIN,1610612750
+11:44,"MISS Ingles 10' Driving Floating Jump Shot
+McCollum REBOUND (Off:0 Def:1)
+",1,0,0,0,2025-03-21,22401016,0,0,NOP,1,0,0,12:00,Off Dead Ball,0,McCollum REBOUND (Off:0 Def:1),,MIN,NOP,MIN,1610612750
+00:07,"Brown T.FOUL (P2.PN) (G.Petraitis)
+DiVincenzo Free Throw Technical (7 PTS)
+MISS DiVincenzo 28' 3PT Jump Shot
+Edwards REBOUND (Off:2 Def:1)
+MISS Edwards 4' Driving Layup
+Randle REBOUND (Off:2 Def:2)
+Randle Tip Layup Shot (14 PTS)
+",2,1,1,0,2025-03-21,22401016,0,2,NOP,2,0,11,00:34,Off Arc 3 Make,0,Brown T.FOUL (P2.PN) (G.Petraitis),,MIN,NOP,MIN,1610612750
+00:07,"Brown T.FOUL (P2.PN) (G.Petraitis)
+DiVincenzo Free Throw Technical (7 PTS)
+MISS DiVincenzo 28' 3PT Jump Shot
+Edwards REBOUND (Off:2 Def:1)
+MISS Edwards 4' Driving Layup
+Randle REBOUND (Off:2 Def:2)
+Randle Tip Layup Shot (14 PTS)
+",2,1,1,0,2025-03-21,22401016,0,2,NOP,2,0,11,00:34,Off Arc 3 Make,0,DiVincenzo Free Throw Technical (7 PTS),,MIN,NOP,MIN,1610612750
+00:07,"Brown T.FOUL (P2.PN) (G.Petraitis)
+DiVincenzo Free Throw Technical (7 PTS)
+MISS DiVincenzo 28' 3PT Jump Shot
+Edwards REBOUND (Off:2 Def:1)
+MISS Edwards 4' Driving Layup
+Randle REBOUND (Off:2 Def:2)
+Randle Tip Layup Shot (14 PTS)
+",2,1,1,0,2025-03-21,22401016,0,2,NOP,2,0,11,00:34,Off Arc 3 Make,0,MISS DiVincenzo 28' 3PT Jump Shot,,MIN,NOP,MIN,1610612750
+00:07,"Brown T.FOUL (P2.PN) (G.Petraitis)
+DiVincenzo Free Throw Technical (7 PTS)
+MISS DiVincenzo 28' 3PT Jump Shot
+Edwards REBOUND (Off:2 Def:1)
+MISS Edwards 4' Driving Layup
+Randle REBOUND (Off:2 Def:2)
+Randle Tip Layup Shot (14 PTS)
+",2,1,1,0,2025-03-21,22401016,0,2,NOP,2,0,11,00:34,Off Arc 3 Make,0,Edwards REBOUND (Off:2 Def:1),,MIN,NOP,MIN,1610612750
+00:07,"Brown T.FOUL (P2.PN) (G.Petraitis)
+DiVincenzo Free Throw Technical (7 PTS)
+MISS DiVincenzo 28' 3PT Jump Shot
+Edwards REBOUND (Off:2 Def:1)
+MISS Edwards 4' Driving Layup
+Randle REBOUND (Off:2 Def:2)
+Randle Tip Layup Shot (14 PTS)
+",2,1,1,0,2025-03-21,22401016,0,2,NOP,2,0,11,00:34,Off Arc 3 Make,0,MISS Edwards 4' Driving Layup,,MIN,NOP,MIN,1610612750
+00:07,"Brown T.FOUL (P2.PN) (G.Petraitis)
+DiVincenzo Free Throw Technical (7 PTS)
+MISS DiVincenzo 28' 3PT Jump Shot
+Edwards REBOUND (Off:2 Def:1)
+MISS Edwards 4' Driving Layup
+Randle REBOUND (Off:2 Def:2)
+Randle Tip Layup Shot (14 PTS)
+",2,1,1,0,2025-03-21,22401016,0,2,NOP,2,0,11,00:34,Off Arc 3 Make,0,Randle REBOUND (Off:2 Def:2),,MIN,NOP,MIN,1610612750
+00:07,"Brown T.FOUL (P2.PN) (G.Petraitis)
+DiVincenzo Free Throw Technical (7 PTS)
+MISS DiVincenzo 28' 3PT Jump Shot
+Edwards REBOUND (Off:2 Def:1)
+MISS Edwards 4' Driving Layup
+Randle REBOUND (Off:2 Def:2)
+Randle Tip Layup Shot (14 PTS)
+",2,1,1,0,2025-03-21,22401016,0,2,NOP,2,0,11,00:34,Off Arc 3 Make,0,Randle Tip Layup Shot (14 PTS),,MIN,NOP,MIN,1610612750
+00:52,"MISS DiVincenzo 26' 3PT Pullup Jump Shot
+Gobert REBOUND (Off:2 Def:7)
+Brown S.FOUL (P2.PN) (E.Scott)
+Gobert Free Throw 1 of 2 (9 PTS)
+Gobert Free Throw 2 of 2 (10 PTS)
+",0,0,1,0,2025-03-21,22401016,0,1,NOP,2,1,12,01:08,Off Arc 3 Miss,0,MISS DiVincenzo 26' 3PT Pullup Jump Shot,,MIN,NOP,MIN,1610612750
+00:52,"MISS DiVincenzo 26' 3PT Pullup Jump Shot
+Gobert REBOUND (Off:2 Def:7)
+Brown S.FOUL (P2.PN) (E.Scott)
+Gobert Free Throw 1 of 2 (9 PTS)
+Gobert Free Throw 2 of 2 (10 PTS)
+",0,0,1,0,2025-03-21,22401016,0,1,NOP,2,1,12,01:08,Off Arc 3 Miss,0,Gobert REBOUND (Off:2 Def:7),,MIN,NOP,MIN,1610612750
+00:52,"MISS DiVincenzo 26' 3PT Pullup Jump Shot
+Gobert REBOUND (Off:2 Def:7)
+Brown S.FOUL (P2.PN) (E.Scott)
+Gobert Free Throw 1 of 2 (9 PTS)
+Gobert Free Throw 2 of 2 (10 PTS)
+",0,0,1,0,2025-03-21,22401016,0,1,NOP,2,1,12,01:08,Off Arc 3 Miss,0,Brown S.FOUL (P2.PN) (E.Scott),,MIN,NOP,MIN,1610612750
+00:52,"MISS DiVincenzo 26' 3PT Pullup Jump Shot
+Gobert REBOUND (Off:2 Def:7)
+Brown S.FOUL (P2.PN) (E.Scott)
+Gobert Free Throw 1 of 2 (9 PTS)
+Gobert Free Throw 2 of 2 (10 PTS)
+",0,0,1,0,2025-03-21,22401016,0,1,NOP,2,1,12,01:08,Off Arc 3 Miss,0,Gobert Free Throw 1 of 2 (9 PTS),,MIN,NOP,MIN,1610612750
+00:52,"MISS DiVincenzo 26' 3PT Pullup Jump Shot
+Gobert REBOUND (Off:2 Def:7)
+Brown S.FOUL (P2.PN) (E.Scott)
+Gobert Free Throw 1 of 2 (9 PTS)
+Gobert Free Throw 2 of 2 (10 PTS)
+",0,0,1,0,2025-03-21,22401016,0,1,NOP,2,1,12,01:08,Off Arc 3 Miss,0,Gobert Free Throw 2 of 2 (10 PTS),,MIN,NOP,MIN,1610612750
+01:29,"DiVincenzo 27' 3PT Jump Shot (6 PTS) (Edwards 2 AST)
+",0,0,1,1,2025-03-21,22401016,0,0,NOP,2,0,9,01:42,Off Arc 3 Miss,0,DiVincenzo 27' 3PT Jump Shot (6 PTS) (Edwards 2 AST),,MIN,NOP,MIN,1610612750
+01:58,"MISS Randle 26' 3PT Pullup Jump Shot
+Hawkins REBOUND (Off:0 Def:4)
+",0,0,1,0,2025-03-21,22401016,0,0,NOP,2,0,9,02:15,Off Short Mid-Range Make,0,MISS Randle 26' 3PT Pullup Jump Shot,,MIN,NOP,MIN,1610612750
+01:58,"MISS Randle 26' 3PT Pullup Jump Shot
+Hawkins REBOUND (Off:0 Def:4)
+",0,0,1,0,2025-03-21,22401016,0,0,NOP,2,0,9,02:15,Off Short Mid-Range Make,0,Hawkins REBOUND (Off:0 Def:4),,MIN,NOP,MIN,1610612750
+02:23,"Randle 3' Layup (11 PTS)
+Olynyk S.FOUL (P2.T4) (J.Capers)
+Randle Free Throw 1 of 1 (12 PTS)
+",1,1,0,0,2025-03-21,22401016,0,0,NOP,2,1,8,02:31,Off Steal,0,Randle 3' Layup (11 PTS),,MIN,NOP,MIN,1610612750
+02:23,"Randle 3' Layup (11 PTS)
+Olynyk S.FOUL (P2.T4) (J.Capers)
+Randle Free Throw 1 of 1 (12 PTS)
+",1,1,0,0,2025-03-21,22401016,0,0,NOP,2,1,8,02:31,Off Steal,0,Olynyk S.FOUL (P2.T4) (J.Capers),,MIN,NOP,MIN,1610612750
+02:23,"Randle 3' Layup (11 PTS)
+Olynyk S.FOUL (P2.T4) (J.Capers)
+Randle Free Throw 1 of 1 (12 PTS)
+",1,1,0,0,2025-03-21,22401016,0,0,NOP,2,1,8,02:31,Off Steal,0,Randle Free Throw 1 of 1 (12 PTS),,MIN,NOP,MIN,1610612750
+02:44,"MISS DiVincenzo 28' 3PT Jump Shot
+Gobert REBOUND (Off:1 Def:5)
+Missi S.FOUL (P2.T3) (E.Scott)
+Gobert Free Throw 1 of 2 (7 PTS)
+Gobert Free Throw 2 of 2 (8 PTS)
+",0,0,1,0,2025-03-21,22401016,0,1,NOP,2,1,6,03:02,Off Short Mid-Range Make,0,MISS DiVincenzo 28' 3PT Jump Shot,,MIN,NOP,MIN,1610612750
+02:44,"MISS DiVincenzo 28' 3PT Jump Shot
+Gobert REBOUND (Off:1 Def:5)
+Missi S.FOUL (P2.T3) (E.Scott)
+Gobert Free Throw 1 of 2 (7 PTS)
+Gobert Free Throw 2 of 2 (8 PTS)
+",0,0,1,0,2025-03-21,22401016,0,1,NOP,2,1,6,03:02,Off Short Mid-Range Make,0,Gobert REBOUND (Off:1 Def:5),,MIN,NOP,MIN,1610612750
+02:44,"MISS DiVincenzo 28' 3PT Jump Shot
+Gobert REBOUND (Off:1 Def:5)
+Missi S.FOUL (P2.T3) (E.Scott)
+Gobert Free Throw 1 of 2 (7 PTS)
+Gobert Free Throw 2 of 2 (8 PTS)
+",0,0,1,0,2025-03-21,22401016,0,1,NOP,2,1,6,03:02,Off Short Mid-Range Make,0,Missi S.FOUL (P2.T3) (E.Scott),,MIN,NOP,MIN,1610612750
+02:44,"MISS DiVincenzo 28' 3PT Jump Shot
+Gobert REBOUND (Off:1 Def:5)
+Missi S.FOUL (P2.T3) (E.Scott)
+Gobert Free Throw 1 of 2 (7 PTS)
+Gobert Free Throw 2 of 2 (8 PTS)
+",0,0,1,0,2025-03-21,22401016,0,1,NOP,2,1,6,03:02,Off Short Mid-Range Make,0,Gobert Free Throw 1 of 2 (7 PTS),,MIN,NOP,MIN,1610612750
+02:44,"MISS DiVincenzo 28' 3PT Jump Shot
+Gobert REBOUND (Off:1 Def:5)
+Missi S.FOUL (P2.T3) (E.Scott)
+Gobert Free Throw 1 of 2 (7 PTS)
+Gobert Free Throw 2 of 2 (8 PTS)
+",0,0,1,0,2025-03-21,22401016,0,1,NOP,2,1,6,03:02,Off Short Mid-Range Make,0,Gobert Free Throw 2 of 2 (8 PTS),,MIN,NOP,MIN,1610612750
+03:19,"Edwards 30' 3PT Pullup Jump Shot (7 PTS) (DiVincenzo 3 AST)
+",0,0,1,1,2025-03-21,22401016,0,0,NOP,2,0,5,03:45,Off Corner 3 Make,0,Edwards 30' 3PT Pullup Jump Shot (7 PTS) (DiVincenzo 3 AST),,MIN,NOP,MIN,1610612750
+03:57,"MISS Edwards 26' 3PT Jump Shot
+Edwards REBOUND (Off:1 Def:1)
+McDaniels 1' Cutting Layup Shot (7 PTS) (Gobert 2 AST)
+",1,1,1,0,2025-03-21,22401016,0,1,NOP,2,0,6,04:22,Off Long Mid-Range Make,0,MISS Edwards 26' 3PT Jump Shot,,MIN,NOP,MIN,1610612750
+03:57,"MISS Edwards 26' 3PT Jump Shot
+Edwards REBOUND (Off:1 Def:1)
+McDaniels 1' Cutting Layup Shot (7 PTS) (Gobert 2 AST)
+",1,1,1,0,2025-03-21,22401016,0,1,NOP,2,0,6,04:22,Off Long Mid-Range Make,0,Edwards REBOUND (Off:1 Def:1),,MIN,NOP,MIN,1610612750
+03:57,"MISS Edwards 26' 3PT Jump Shot
+Edwards REBOUND (Off:1 Def:1)
+McDaniels 1' Cutting Layup Shot (7 PTS) (Gobert 2 AST)
+",1,1,1,0,2025-03-21,22401016,0,1,NOP,2,0,6,04:22,Off Long Mid-Range Make,0,McDaniels 1' Cutting Layup Shot (7 PTS) (Gobert 2 AST),,MIN,NOP,MIN,1610612750
+04:31,"Edwards 4' Driving Layup (4 PTS)
+",1,1,0,0,2025-03-21,22401016,0,0,NOP,2,0,6,04:39,Off Arc 3 Miss,0,Edwards 4' Driving Layup (4 PTS),,MIN,NOP,MIN,1610612750
+04:50,"MISS Edwards 25' 3PT Jump Shot
+Hawkins REBOUND (Off:0 Def:3)
+",0,0,1,0,2025-03-21,22401016,0,0,NOP,2,0,6,05:00,Off Dead Ball,0,MISS Edwards 25' 3PT Jump Shot,,MIN,NOP,MIN,1610612750
+04:50,"MISS Edwards 25' 3PT Jump Shot
+Hawkins REBOUND (Off:0 Def:3)
+",0,0,1,0,2025-03-21,22401016,0,0,NOP,2,0,6,05:00,Off Dead Ball,0,Hawkins REBOUND (Off:0 Def:3),,MIN,NOP,MIN,1610612750
+05:03,"Edwards Bad Pass Turnover (P2.T9): McCollum STEAL (3 STL)
+",0,0,0,0,2025-03-21,22401016,0,0,NOP,2,0,6,05:05,Off Arc 3 Miss,1,Edwards Bad Pass Turnover (P2.T9): McCollum STEAL (3 STL),,MIN,NOP,MIN,1610612750
+05:16,"MISS Alexander-Walker 7' Driving Floating Jump Shot
+TIMBERWOLVES Rebound
+Brown L.B.FOUL (P1.T2) (J.Capers)
+Gobert Lost Ball Turnover (P1.T8): Robinson-Earl STEAL (1 STL)
+",1,0,0,0,2025-03-21,22401016,0,1,NOP,2,0,6,05:49,Off At Rim Make,1,MISS Alexander-Walker 7' Driving Floating Jump Shot,,MIN,NOP,MIN,1610612750
+05:16,"MISS Alexander-Walker 7' Driving Floating Jump Shot
+TIMBERWOLVES Rebound
+Brown L.B.FOUL (P1.T2) (J.Capers)
+Gobert Lost Ball Turnover (P1.T8): Robinson-Earl STEAL (1 STL)
+",1,0,0,0,2025-03-21,22401016,0,1,NOP,2,0,6,05:49,Off At Rim Make,1,TIMBERWOLVES Rebound,,MIN,NOP,MIN,1610612750
+05:16,"MISS Alexander-Walker 7' Driving Floating Jump Shot
+TIMBERWOLVES Rebound
+Brown L.B.FOUL (P1.T2) (J.Capers)
+Gobert Lost Ball Turnover (P1.T8): Robinson-Earl STEAL (1 STL)
+",1,0,0,0,2025-03-21,22401016,0,1,NOP,2,0,6,05:49,Off At Rim Make,1,Brown L.B.FOUL (P1.T2) (J.Capers),,MIN,NOP,MIN,1610612750
+05:16,"MISS Alexander-Walker 7' Driving Floating Jump Shot
+TIMBERWOLVES Rebound
+Brown L.B.FOUL (P1.T2) (J.Capers)
+Gobert Lost Ball Turnover (P1.T8): Robinson-Earl STEAL (1 STL)
+",1,0,0,0,2025-03-21,22401016,0,1,NOP,2,0,6,05:49,Off At Rim Make,1,Gobert Lost Ball Turnover (P1.T8): Robinson-Earl STEAL (1 STL),,MIN,NOP,MIN,1610612750
+05:51,"Alexander-Walker Lost Ball Turnover (P1.T7): McCollum STEAL (2 STL)
+",0,0,0,0,2025-03-21,22401016,0,0,NOP,2,0,8,06:00,Off Arc 3 Miss,1,Alexander-Walker Lost Ball Turnover (P1.T7): McCollum STEAL (2 STL),,MIN,NOP,MIN,1610612750
+06:18,"Gobert 3' Dunk (6 PTS) (Reid 4 AST)
+",1,1,0,0,2025-03-21,22401016,0,0,NOP,2,0,6,06:30,Off Corner 3 Miss,0,Gobert 3' Dunk (6 PTS) (Reid 4 AST),,MIN,NOP,MIN,1610612750
+06:52,"Reid 27' 3PT Jump Shot (10 PTS) (Alexander-Walker 2 AST)
+",0,0,1,1,2025-03-21,22401016,0,0,NOP,2,0,3,07:12,Off Dead Ball,0,Reid 27' 3PT Jump Shot (10 PTS) (Alexander-Walker 2 AST),,MIN,NOP,MIN,1610612750
+07:45,"MISS Clark 2' Running Layup: Alvarado BLOCK (1 BLK)
+TIMBERWOLVES Rebound
+Alexander-Walker 2' Driving Layup (4 PTS) (Conley 1 AST)
+",2,1,0,0,2025-03-21,22401016,0,1,NOP,2,0,1,07:57,Off Steal,0,MISS Clark 2' Running Layup: Alvarado BLOCK (1 BLK),,MIN,NOP,MIN,1610612750
+07:45,"MISS Clark 2' Running Layup: Alvarado BLOCK (1 BLK)
+TIMBERWOLVES Rebound
+Alexander-Walker 2' Driving Layup (4 PTS) (Conley 1 AST)
+",2,1,0,0,2025-03-21,22401016,0,1,NOP,2,0,1,07:57,Off Steal,0,TIMBERWOLVES Rebound,,MIN,NOP,MIN,1610612750
+07:45,"MISS Clark 2' Running Layup: Alvarado BLOCK (1 BLK)
+TIMBERWOLVES Rebound
+Alexander-Walker 2' Driving Layup (4 PTS) (Conley 1 AST)
+",2,1,0,0,2025-03-21,22401016,0,1,NOP,2,0,1,07:57,Off Steal,0,Alexander-Walker 2' Driving Layup (4 PTS) (Conley 1 AST),,MIN,NOP,MIN,1610612750
+08:03,"Reid 2' Running Finger Roll Layup (7 PTS) (Clark 1 AST)
+",1,1,0,0,2025-03-21,22401016,0,0,NOP,2,0,-1,08:08,Off Steal,0,Reid 2' Running Finger Roll Layup (7 PTS) (Clark 1 AST),,MIN,NOP,MIN,1610612750
+08:21,"MISS Randle 7' Driving Floating Jump Shot
+DiVincenzo REBOUND (Off:1 Def:0)
+MISS Reid 25' 3PT Jump Shot
+Randle REBOUND (Off:1 Def:2)
+Matković P.FOUL (P2.T1) (J.Capers)
+Clark 25' 3PT Jump Shot (3 PTS) (Reid 3 AST)
+",1,0,2,1,2025-03-21,22401016,0,2,NOP,2,0,-4,09:04,Off Arc 3 Miss,0,MISS Randle 7' Driving Floating Jump Shot,,MIN,NOP,MIN,1610612750
+08:21,"MISS Randle 7' Driving Floating Jump Shot
+DiVincenzo REBOUND (Off:1 Def:0)
+MISS Reid 25' 3PT Jump Shot
+Randle REBOUND (Off:1 Def:2)
+Matković P.FOUL (P2.T1) (J.Capers)
+Clark 25' 3PT Jump Shot (3 PTS) (Reid 3 AST)
+",1,0,2,1,2025-03-21,22401016,0,2,NOP,2,0,-4,09:04,Off Arc 3 Miss,0,DiVincenzo REBOUND (Off:1 Def:0),,MIN,NOP,MIN,1610612750
+08:21,"MISS Randle 7' Driving Floating Jump Shot
+DiVincenzo REBOUND (Off:1 Def:0)
+MISS Reid 25' 3PT Jump Shot
+Randle REBOUND (Off:1 Def:2)
+Matković P.FOUL (P2.T1) (J.Capers)
+Clark 25' 3PT Jump Shot (3 PTS) (Reid 3 AST)
+",1,0,2,1,2025-03-21,22401016,0,2,NOP,2,0,-4,09:04,Off Arc 3 Miss,0,MISS Reid 25' 3PT Jump Shot,,MIN,NOP,MIN,1610612750
+08:21,"MISS Randle 7' Driving Floating Jump Shot
+DiVincenzo REBOUND (Off:1 Def:0)
+MISS Reid 25' 3PT Jump Shot
+Randle REBOUND (Off:1 Def:2)
+Matković P.FOUL (P2.T1) (J.Capers)
+Clark 25' 3PT Jump Shot (3 PTS) (Reid 3 AST)
+",1,0,2,1,2025-03-21,22401016,0,2,NOP,2,0,-4,09:04,Off Arc 3 Miss,0,Randle REBOUND (Off:1 Def:2),,MIN,NOP,MIN,1610612750
+08:21,"MISS Randle 7' Driving Floating Jump Shot
+DiVincenzo REBOUND (Off:1 Def:0)
+MISS Reid 25' 3PT Jump Shot
+Randle REBOUND (Off:1 Def:2)
+Matković P.FOUL (P2.T1) (J.Capers)
+Clark 25' 3PT Jump Shot (3 PTS) (Reid 3 AST)
+",1,0,2,1,2025-03-21,22401016,0,2,NOP,2,0,-4,09:04,Off Arc 3 Miss,0,Matković P.FOUL (P2.T1) (J.Capers),,MIN,NOP,MIN,1610612750
+08:21,"MISS Randle 7' Driving Floating Jump Shot
+DiVincenzo REBOUND (Off:1 Def:0)
+MISS Reid 25' 3PT Jump Shot
+Randle REBOUND (Off:1 Def:2)
+Matković P.FOUL (P2.T1) (J.Capers)
+Clark 25' 3PT Jump Shot (3 PTS) (Reid 3 AST)
+",1,0,2,1,2025-03-21,22401016,0,2,NOP,2,0,-4,09:04,Off Arc 3 Miss,0,Clark 25' 3PT Jump Shot (3 PTS) (Reid 3 AST),,MIN,NOP,MIN,1610612750
+09:09,"MISS Alexander-Walker 3' Driving Dunk: Brooks Jr. BLOCK (1 BLK)
+Olynyk REBOUND (Off:0 Def:2)
+",1,0,0,0,2025-03-21,22401016,0,0,NOP,2,0,-4,09:25,Off Arc 3 Make,0,MISS Alexander-Walker 3' Driving Dunk: Brooks Jr. BLOCK (1 BLK),,MIN,NOP,MIN,1610612750
+09:09,"MISS Alexander-Walker 3' Driving Dunk: Brooks Jr. BLOCK (1 BLK)
+Olynyk REBOUND (Off:0 Def:2)
+",1,0,0,0,2025-03-21,22401016,0,0,NOP,2,0,-4,09:25,Off Arc 3 Make,0,Olynyk REBOUND (Off:0 Def:2),,MIN,NOP,MIN,1610612750
+09:35,"MISS Randle 26' 3PT Jump Shot
+Brooks Jr. REBOUND (Off:0 Def:2)
+",0,0,1,0,2025-03-21,22401016,0,0,NOP,2,0,-1,09:47,Off Short Mid-Range Make,0,MISS Randle 26' 3PT Jump Shot,,MIN,NOP,MIN,1610612750
+09:35,"MISS Randle 26' 3PT Jump Shot
+Brooks Jr. REBOUND (Off:0 Def:2)
+",0,0,1,0,2025-03-21,22401016,0,0,NOP,2,0,-1,09:47,Off Short Mid-Range Make,0,Brooks Jr. REBOUND (Off:0 Def:2),,MIN,NOP,MIN,1610612750
+10:04,"MISS DiVincenzo 27' 3PT Jump Shot
+Brooks Jr. REBOUND (Off:0 Def:1)
+",0,0,1,0,2025-03-21,22401016,0,0,NOP,2,0,1,10:20,Off Arc 3 Make,0,MISS DiVincenzo 27' 3PT Jump Shot,,MIN,NOP,MIN,1610612750
+10:04,"MISS DiVincenzo 27' 3PT Jump Shot
+Brooks Jr. REBOUND (Off:0 Def:1)
+",0,0,1,0,2025-03-21,22401016,0,0,NOP,2,0,1,10:20,Off Arc 3 Make,0,Brooks Jr. REBOUND (Off:0 Def:1),,MIN,NOP,MIN,1610612750
+10:44,"Alexander-Walker 2' Cutting Layup Shot (2 PTS) (Reid 2 AST)
+",1,1,0,0,2025-03-21,22401016,0,0,NOP,2,0,2,11:03,Off At Rim Make,0,Alexander-Walker 2' Cutting Layup Shot (2 PTS) (Reid 2 AST),,MIN,NOP,MIN,1610612750
+11:10,"Clark Lost Ball Turnover (P1.T6): Matković STEAL (1 STL)
+",0,0,0,0,2025-03-21,22401016,0,0,NOP,2,0,4,11:37,Off Short Mid-Range Make,1,Clark Lost Ball Turnover (P1.T6): Matković STEAL (1 STL),,MIN,NOP,MIN,1610612750
+00:00,"MISS Edwards 14' Step Back Jump Shot
+TIMBERWOLVES Rebound
+",1,0,0,0,2025-03-21,22401016,0,0,NOP,3,0,25,00:10,Off Arc 3 Miss,0,MISS Edwards 14' Step Back Jump Shot,,MIN,NOP,MIN,1610612750
+00:00,"MISS Edwards 14' Step Back Jump Shot
+TIMBERWOLVES Rebound
+",1,0,0,0,2025-03-21,22401016,0,0,NOP,3,0,25,00:10,Off Arc 3 Miss,0,TIMBERWOLVES Rebound,,MIN,NOP,MIN,1610612750
+00:31,"Hawkins S.FOUL (P1.PN) (E.Scott)
+Edwards Free Throw 1 of 2 (16 PTS)
+Edwards Free Throw 2 of 2 (17 PTS)
+",0,0,0,0,2025-03-21,22401016,0,0,NOP,3,1,23,00:44,Off Arc 3 Make,0,Hawkins S.FOUL (P1.PN) (E.Scott),,MIN,NOP,MIN,1610612750
+00:31,"Hawkins S.FOUL (P1.PN) (E.Scott)
+Edwards Free Throw 1 of 2 (16 PTS)
+Edwards Free Throw 2 of 2 (17 PTS)
+",0,0,0,0,2025-03-21,22401016,0,0,NOP,3,1,23,00:44,Off Arc 3 Make,0,Edwards Free Throw 1 of 2 (16 PTS),,MIN,NOP,MIN,1610612750
+00:31,"Hawkins S.FOUL (P1.PN) (E.Scott)
+Edwards Free Throw 1 of 2 (16 PTS)
+Edwards Free Throw 2 of 2 (17 PTS)
+",0,0,0,0,2025-03-21,22401016,0,0,NOP,3,1,23,00:44,Off Arc 3 Make,0,Edwards Free Throw 2 of 2 (17 PTS),,MIN,NOP,MIN,1610612750
+00:59,"MISS Reid 1' Driving Finger Roll Layup
+Randle REBOUND (Off:4 Def:2)
+Randle 4' Putback Layup (20 PTS)
+",2,1,0,0,2025-03-21,22401016,0,1,NOP,3,0,24,01:12,Off FT Make,0,MISS Reid 1' Driving Finger Roll Layup,,MIN,NOP,MIN,1610612750
+00:59,"MISS Reid 1' Driving Finger Roll Layup
+Randle REBOUND (Off:4 Def:2)
+Randle 4' Putback Layup (20 PTS)
+",2,1,0,0,2025-03-21,22401016,0,1,NOP,3,0,24,01:12,Off FT Make,0,Randle REBOUND (Off:4 Def:2),,MIN,NOP,MIN,1610612750
+00:59,"MISS Reid 1' Driving Finger Roll Layup
+Randle REBOUND (Off:4 Def:2)
+Randle 4' Putback Layup (20 PTS)
+",2,1,0,0,2025-03-21,22401016,0,1,NOP,3,0,24,01:12,Off FT Make,0,Randle 4' Putback Layup (20 PTS),,MIN,NOP,MIN,1610612750
+01:27,"DiVincenzo 3PT Jump Shot (11 PTS) (Edwards 5 AST)
+",0,0,1,1,2025-03-21,22401016,0,0,NOP,3,0,23,01:45,Off FT Make,0,DiVincenzo 3PT Jump Shot (11 PTS) (Edwards 5 AST),,MIN,NOP,MIN,1610612750
+01:56,"MISS Reid 28' 3PT Jump Shot
+TIMBERWOLVES Rebound
+Randle 2' Driving Layup (18 PTS) (Edwards 4 AST)
+",1,1,1,0,2025-03-21,22401016,0,1,NOP,3,0,22,02:33,Off FT Make,0,MISS Reid 28' 3PT Jump Shot,,MIN,NOP,MIN,1610612750
+01:56,"MISS Reid 28' 3PT Jump Shot
+TIMBERWOLVES Rebound
+Randle 2' Driving Layup (18 PTS) (Edwards 4 AST)
+",1,1,1,0,2025-03-21,22401016,0,1,NOP,3,0,22,02:33,Off FT Make,0,TIMBERWOLVES Rebound,,MIN,NOP,MIN,1610612750
+01:56,"MISS Reid 28' 3PT Jump Shot
+TIMBERWOLVES Rebound
+Randle 2' Driving Layup (18 PTS) (Edwards 4 AST)
+",1,1,1,0,2025-03-21,22401016,0,1,NOP,3,0,22,02:33,Off FT Make,0,Randle 2' Driving Layup (18 PTS) (Edwards 4 AST),,MIN,NOP,MIN,1610612750
+02:35,"MISS DiVincenzo 29' 3PT Pullup Jump Shot
+Hawkins REBOUND (Off:0 Def:5)
+",0,0,1,0,2025-03-21,22401016,0,0,NOP,3,0,24,02:49,Off Short Mid-Range Make,0,MISS DiVincenzo 29' 3PT Pullup Jump Shot,,MIN,NOP,MIN,1610612750
+02:35,"MISS DiVincenzo 29' 3PT Pullup Jump Shot
+Hawkins REBOUND (Off:0 Def:5)
+",0,0,1,0,2025-03-21,22401016,0,0,NOP,3,0,24,02:49,Off Short Mid-Range Make,0,Hawkins REBOUND (Off:0 Def:5),,MIN,NOP,MIN,1610612750
+03:08,"Robinson-Earl P.FOUL (P2.T4) (G.Petraitis)
+McCollum T.FOUL (P2.T4) (E.Scott)
+DiVincenzo Free Throw Technical (8 PTS)
+MISS Edwards 14' Pullup Jump Shot
+Randle REBOUND (Off:3 Def:2)
+Edwards 25' 3PT Jump Shot (15 PTS) (Randle 5 AST)
+",1,0,1,1,2025-03-21,22401016,0,1,NOP,3,0,22,03:36,Off Steal,0,Robinson-Earl P.FOUL (P2.T4) (G.Petraitis),,MIN,NOP,MIN,1610612750
+03:08,"Robinson-Earl P.FOUL (P2.T4) (G.Petraitis)
+McCollum T.FOUL (P2.T4) (E.Scott)
+DiVincenzo Free Throw Technical (8 PTS)
+MISS Edwards 14' Pullup Jump Shot
+Randle REBOUND (Off:3 Def:2)
+Edwards 25' 3PT Jump Shot (15 PTS) (Randle 5 AST)
+",1,0,1,1,2025-03-21,22401016,0,1,NOP,3,0,22,03:36,Off Steal,0,McCollum T.FOUL (P2.T4) (E.Scott),,MIN,NOP,MIN,1610612750
+03:08,"Robinson-Earl P.FOUL (P2.T4) (G.Petraitis)
+McCollum T.FOUL (P2.T4) (E.Scott)
+DiVincenzo Free Throw Technical (8 PTS)
+MISS Edwards 14' Pullup Jump Shot
+Randle REBOUND (Off:3 Def:2)
+Edwards 25' 3PT Jump Shot (15 PTS) (Randle 5 AST)
+",1,0,1,1,2025-03-21,22401016,0,1,NOP,3,0,22,03:36,Off Steal,0,DiVincenzo Free Throw Technical (8 PTS),,MIN,NOP,MIN,1610612750
+03:08,"Robinson-Earl P.FOUL (P2.T4) (G.Petraitis)
+McCollum T.FOUL (P2.T4) (E.Scott)
+DiVincenzo Free Throw Technical (8 PTS)
+MISS Edwards 14' Pullup Jump Shot
+Randle REBOUND (Off:3 Def:2)
+Edwards 25' 3PT Jump Shot (15 PTS) (Randle 5 AST)
+",1,0,1,1,2025-03-21,22401016,0,1,NOP,3,0,22,03:36,Off Steal,0,MISS Edwards 14' Pullup Jump Shot,,MIN,NOP,MIN,1610612750
+03:08,"Robinson-Earl P.FOUL (P2.T4) (G.Petraitis)
+McCollum T.FOUL (P2.T4) (E.Scott)
+DiVincenzo Free Throw Technical (8 PTS)
+MISS Edwards 14' Pullup Jump Shot
+Randle REBOUND (Off:3 Def:2)
+Edwards 25' 3PT Jump Shot (15 PTS) (Randle 5 AST)
+",1,0,1,1,2025-03-21,22401016,0,1,NOP,3,0,22,03:36,Off Steal,0,Randle REBOUND (Off:3 Def:2),,MIN,NOP,MIN,1610612750
+03:08,"Robinson-Earl P.FOUL (P2.T4) (G.Petraitis)
+McCollum T.FOUL (P2.T4) (E.Scott)
+DiVincenzo Free Throw Technical (8 PTS)
+MISS Edwards 14' Pullup Jump Shot
+Randle REBOUND (Off:3 Def:2)
+Edwards 25' 3PT Jump Shot (15 PTS) (Randle 5 AST)
+",1,0,1,1,2025-03-21,22401016,0,1,NOP,3,0,22,03:36,Off Steal,0,Edwards 25' 3PT Jump Shot (15 PTS) (Randle 5 AST),,MIN,NOP,MIN,1610612750
+03:49,"Edwards Bad Pass Turnover (P3.T11): Robinson-Earl STEAL (2 STL)
+",0,0,0,0,2025-03-21,22401016,0,0,NOP,3,0,22,03:59,Off Dead Ball,1,Edwards Bad Pass Turnover (P3.T11): Robinson-Earl STEAL (2 STL),,MIN,NOP,MIN,1610612750
+04:15,"MISS Edwards 26' 3PT Jump Shot
+Pelicans Rebound
+",0,0,1,0,2025-03-21,22401016,0,0,NOP,3,0,22,04:39,Off Dead Ball,0,MISS Edwards 26' 3PT Jump Shot,,MIN,NOP,MIN,1610612750
+04:15,"MISS Edwards 26' 3PT Jump Shot
+Pelicans Rebound
+",0,0,1,0,2025-03-21,22401016,0,0,NOP,3,0,22,04:39,Off Dead Ball,0,Pelicans Rebound,,MIN,NOP,MIN,1610612750
+04:43,"MISS Reid 27' 3PT Jump Shot
+Missi REBOUND (Off:2 Def:5)
+",0,0,1,0,2025-03-21,22401016,0,0,NOP,3,0,22,04:58,Off Arc 3 Miss,0,MISS Reid 27' 3PT Jump Shot,,MIN,NOP,MIN,1610612750
+04:43,"MISS Reid 27' 3PT Jump Shot
+Missi REBOUND (Off:2 Def:5)
+",0,0,1,0,2025-03-21,22401016,0,0,NOP,3,0,22,04:58,Off Arc 3 Miss,0,Missi REBOUND (Off:2 Def:5),,MIN,NOP,MIN,1610612750
+05:13,"Reid 24' 3PT Jump Shot (13 PTS) (Conley 6 AST)
+",0,0,1,1,2025-03-21,22401016,0,0,NOP,3,0,19,05:26,Off Corner 3 Make,0,Reid 24' 3PT Jump Shot (13 PTS) (Conley 6 AST),,MIN,NOP,MIN,1610612750
+05:33,"McCollum Transition Take Foul (P2.T3) (J.Capers)
+McDaniels Free Throw 1 of 1 (17 PTS)
+MISS McDaniels 5' Driving Floating Jump Shot
+Brooks Jr. REBOUND (Off:0 Def:3)
+",1,0,0,0,2025-03-21,22401016,1,0,NOP,3,0,21,05:52,Off Steal,0,McCollum Transition Take Foul (P2.T3) (J.Capers),,MIN,NOP,MIN,1610612750
+05:33,"McCollum Transition Take Foul (P2.T3) (J.Capers)
+McDaniels Free Throw 1 of 1 (17 PTS)
+MISS McDaniels 5' Driving Floating Jump Shot
+Brooks Jr. REBOUND (Off:0 Def:3)
+",1,0,0,0,2025-03-21,22401016,1,0,NOP,3,0,21,05:52,Off Steal,0,McDaniels Free Throw 1 of 1 (17 PTS),,MIN,NOP,MIN,1610612750
+05:33,"McCollum Transition Take Foul (P2.T3) (J.Capers)
+McDaniels Free Throw 1 of 1 (17 PTS)
+MISS McDaniels 5' Driving Floating Jump Shot
+Brooks Jr. REBOUND (Off:0 Def:3)
+",1,0,0,0,2025-03-21,22401016,1,0,NOP,3,0,21,05:52,Off Steal,0,MISS McDaniels 5' Driving Floating Jump Shot,,MIN,NOP,MIN,1610612750
+05:33,"McCollum Transition Take Foul (P2.T3) (J.Capers)
+McDaniels Free Throw 1 of 1 (17 PTS)
+MISS McDaniels 5' Driving Floating Jump Shot
+Brooks Jr. REBOUND (Off:0 Def:3)
+",1,0,0,0,2025-03-21,22401016,1,0,NOP,3,0,21,05:52,Off Steal,0,Brooks Jr. REBOUND (Off:0 Def:3),,MIN,NOP,MIN,1610612750
+05:59,"McDaniels 1' Cutting Dunk Shot (16 PTS) (Conley 5 AST)
+",1,1,0,0,2025-03-21,22401016,0,0,NOP,3,0,19,06:18,Off Short Mid-Range Miss,0,McDaniels 1' Cutting Dunk Shot (16 PTS) (Conley 5 AST),,MIN,NOP,MIN,1610612750
+06:44,"MISS McDaniels 8' Driving Floating Jump Shot
+Missi REBOUND (Off:2 Def:4)
+",1,0,0,0,2025-03-21,22401016,0,0,NOP,3,0,19,07:04,Off At Rim Make,0,MISS McDaniels 8' Driving Floating Jump Shot,,MIN,NOP,MIN,1610612750
+06:44,"MISS McDaniels 8' Driving Floating Jump Shot
+Missi REBOUND (Off:2 Def:4)
+",1,0,0,0,2025-03-21,22401016,0,0,NOP,3,0,19,07:04,Off At Rim Make,0,Missi REBOUND (Off:2 Def:4),,MIN,NOP,MIN,1610612750
+07:15,"Gobert 2' Alley Oop Dunk (12 PTS) (Conley 4 AST)
+",1,1,0,0,2025-03-21,22401016,0,0,NOP,3,0,19,07:29,Off FT Miss,0,Gobert 2' Alley Oop Dunk (12 PTS) (Conley 4 AST),,MIN,NOP,MIN,1610612750
+07:45,"Brown S.FOUL (P3.T2) (E.Scott)
+Randle Free Throw 1 of 2 (15 PTS)
+Randle Free Throw 2 of 2 (16 PTS)
+",0,0,0,0,2025-03-21,22401016,0,0,NOP,3,1,18,08:02,Off Corner 3 Miss,0,Brown S.FOUL (P3.T2) (E.Scott),,MIN,NOP,MIN,1610612750
+07:45,"Brown S.FOUL (P3.T2) (E.Scott)
+Randle Free Throw 1 of 2 (15 PTS)
+Randle Free Throw 2 of 2 (16 PTS)
+",0,0,0,0,2025-03-21,22401016,0,0,NOP,3,1,18,08:02,Off Corner 3 Miss,0,Randle Free Throw 1 of 2 (15 PTS),,MIN,NOP,MIN,1610612750
+07:45,"Brown S.FOUL (P3.T2) (E.Scott)
+Randle Free Throw 1 of 2 (15 PTS)
+Randle Free Throw 2 of 2 (16 PTS)
+",0,0,0,0,2025-03-21,22401016,0,0,NOP,3,1,18,08:02,Off Corner 3 Miss,0,Randle Free Throw 2 of 2 (16 PTS),,MIN,NOP,MIN,1610612750
+08:22,"McCollum P.FOUL (P1.T1) (J.Capers)
+MISS Conley 24' 3PT Pullup Jump Shot
+Missi REBOUND (Off:2 Def:3)
+",0,0,1,0,2025-03-21,22401016,0,0,NOP,3,0,18,08:35,Off Dead Ball,0,McCollum P.FOUL (P1.T1) (J.Capers),,MIN,NOP,MIN,1610612750
+08:22,"McCollum P.FOUL (P1.T1) (J.Capers)
+MISS Conley 24' 3PT Pullup Jump Shot
+Missi REBOUND (Off:2 Def:3)
+",0,0,1,0,2025-03-21,22401016,0,0,NOP,3,0,18,08:35,Off Dead Ball,0,MISS Conley 24' 3PT Pullup Jump Shot,,MIN,NOP,MIN,1610612750
+08:22,"McCollum P.FOUL (P1.T1) (J.Capers)
+MISS Conley 24' 3PT Pullup Jump Shot
+Missi REBOUND (Off:2 Def:3)
+",0,0,1,0,2025-03-21,22401016,0,0,NOP,3,0,18,08:35,Off Dead Ball,0,Missi REBOUND (Off:2 Def:3),,MIN,NOP,MIN,1610612750
+08:42,"McDaniels 3PT Jump Shot (14 PTS) (Edwards 3 AST)
+",0,0,1,1,2025-03-21,22401016,0,0,NOP,3,0,15,08:53,Off Arc 3 Miss,0,McDaniels 3PT Jump Shot (14 PTS) (Edwards 3 AST),,MIN,NOP,MIN,1610612750
+09:02,"MISS Gobert 2' Driving Dunk: Missi BLOCK (1 BLK)
+Brown REBOUND (Off:0 Def:2)
+",1,0,0,0,2025-03-21,22401016,0,0,NOP,3,0,15,09:18,Off FT Make,0,MISS Gobert 2' Driving Dunk: Missi BLOCK (1 BLK),,MIN,NOP,MIN,1610612750
+09:02,"MISS Gobert 2' Driving Dunk: Missi BLOCK (1 BLK)
+Brown REBOUND (Off:0 Def:2)
+",1,0,0,0,2025-03-21,22401016,0,0,NOP,3,0,15,09:18,Off FT Make,0,Brown REBOUND (Off:0 Def:2),,MIN,NOP,MIN,1610612750
+09:30,"Edwards 25' 3PT Jump Shot (12 PTS) (Randle 4 AST)
+",0,0,1,1,2025-03-21,22401016,0,0,NOP,3,0,15,09:39,Off Steal,0,Edwards 25' 3PT Jump Shot (12 PTS) (Randle 4 AST),,MIN,NOP,MIN,1610612750
+09:52,"McDaniels 18' Pullup Jump Shot (11 PTS) (Conley 3 AST)
+",1,1,0,0,2025-03-21,22401016,0,0,NOP,3,0,13,10:04,Off FT Make,0,McDaniels 18' Pullup Jump Shot (11 PTS) (Conley 3 AST),,MIN,NOP,MIN,1610612750
+10:19,"McDaniels 15' Pullup Jump Shot (9 PTS)
+",1,1,0,0,2025-03-21,22401016,0,0,NOP,3,0,13,10:33,Off Arc 3 Make,0,McDaniels 15' Pullup Jump Shot (9 PTS),,MIN,NOP,MIN,1610612750
+10:59,"Edwards 2' Running Layup (9 PTS) (Conley 2 AST)
+",1,1,0,0,2025-03-21,22401016,0,0,NOP,3,0,14,11:04,Off Steal,0,Edwards 2' Running Layup (9 PTS) (Conley 2 AST),,MIN,NOP,MIN,1610612750
+11:13,"Conley Bad Pass Turnover (P1.T10): McCollum STEAL (4 STL)
+",0,0,0,0,2025-03-21,22401016,0,0,NOP,3,0,14,11:23,Off Timeout,1,Conley Bad Pass Turnover (P1.T10): McCollum STEAL (4 STL),,MIN,NOP,MIN,1610612750
+11:36,"MISS Edwards 25' 3PT Running Jump Shot
+Alvarado REBOUND (Off:0 Def:1)
+",0,0,1,0,2025-03-21,22401016,0,0,NOP,3,0,14,11:42,Off Steal,0,MISS Edwards 25' 3PT Running Jump Shot,,MIN,NOP,MIN,1610612750
+11:36,"MISS Edwards 25' 3PT Running Jump Shot
+Alvarado REBOUND (Off:0 Def:1)
+",0,0,1,0,2025-03-21,22401016,0,0,NOP,3,0,14,11:42,Off Steal,0,Alvarado REBOUND (Off:0 Def:1),,MIN,NOP,MIN,1610612750
+00:04,"TIMBERWOLVES Turnover: Shot Clock (T#14)
+",0,0,0,0,2025-03-21,22401016,0,0,NOP,4,0,41,00:28,Off Short Mid-Range Make,1,TIMBERWOLVES Turnover: Shot Clock (T#14),,MIN,NOP,MIN,1610612750
+00:41,"Garza 25' 3PT Jump Shot (9 PTS) (Hyland 2 AST)
+",0,0,1,1,2025-03-21,22401016,0,0,NOP,4,0,40,00:54,Off Dead Ball,0,Garza 25' 3PT Jump Shot (9 PTS) (Hyland 2 AST),,MIN,NOP,MIN,1610612750
+01:06,"Dillingham 2' Running Dunk (4 PTS) (Shannon Jr. 2 AST)
+",1,1,0,0,2025-03-21,22401016,0,0,NOP,4,0,38,01:09,Off Steal,0,Dillingham 2' Running Dunk (4 PTS) (Shannon Jr. 2 AST),,MIN,NOP,MIN,1610612750
+01:12,"MISS Dillingham 27' 3PT Jump Shot
+Brooks Jr. REBOUND (Off:0 Def:5)
+",0,0,1,0,2025-03-21,22401016,0,0,NOP,4,0,38,01:32,Off Dead Ball,0,MISS Dillingham 27' 3PT Jump Shot,,MIN,NOP,MIN,1610612750
+01:12,"MISS Dillingham 27' 3PT Jump Shot
+Brooks Jr. REBOUND (Off:0 Def:5)
+",0,0,1,0,2025-03-21,22401016,0,0,NOP,4,0,38,01:32,Off Dead Ball,0,Brooks Jr. REBOUND (Off:0 Def:5),,MIN,NOP,MIN,1610612750
+01:44,"Hyland 27' 3PT Step Back Jump Shot (3 PTS)
+",0,0,1,1,2025-03-21,22401016,0,0,NOP,4,0,35,01:55,Off FT Make,0,Hyland 27' 3PT Step Back Jump Shot (3 PTS),,MIN,NOP,MIN,1610612750
+02:12,"Payton P.FOUL (P1.T3) (E.Scott)
+MISS Dillingham 20' Pullup Jump Shot
+Robinson-Earl REBOUND (Off:2 Def:2)
+",1,0,0,0,2025-03-21,22401016,0,0,NOP,4,0,36,02:45,Off Dead Ball,0,Payton P.FOUL (P1.T3) (E.Scott),,MIN,NOP,MIN,1610612750
+02:12,"Payton P.FOUL (P1.T3) (E.Scott)
+MISS Dillingham 20' Pullup Jump Shot
+Robinson-Earl REBOUND (Off:2 Def:2)
+",1,0,0,0,2025-03-21,22401016,0,0,NOP,4,0,36,02:45,Off Dead Ball,0,MISS Dillingham 20' Pullup Jump Shot,,MIN,NOP,MIN,1610612750
+02:12,"Payton P.FOUL (P1.T3) (E.Scott)
+MISS Dillingham 20' Pullup Jump Shot
+Robinson-Earl REBOUND (Off:2 Def:2)
+",1,0,0,0,2025-03-21,22401016,0,0,NOP,4,0,36,02:45,Off Dead Ball,0,Robinson-Earl REBOUND (Off:2 Def:2),,MIN,NOP,MIN,1610612750
+02:55,"Garza 5' Floating Jump Shot (6 PTS) (Hyland 1 AST)
+",1,1,0,0,2025-03-21,22401016,0,0,NOP,4,0,34,03:14,Off Arc 3 Make,0,Garza 5' Floating Jump Shot (6 PTS) (Hyland 1 AST),,MIN,NOP,MIN,1610612750
+03:46,"Hyland Out of Bounds - Bad Pass Turnover Turnover (P1.T13)
+",0,0,0,0,2025-03-21,22401016,0,0,NOP,4,0,37,03:55,Off Dead Ball,1,Hyland Out of Bounds - Bad Pass Turnover Turnover (P1.T13),,MIN,NOP,MIN,1610612750
+04:12,"Dillingham 6' Pullup Jump Shot (2 PTS)
+",1,1,0,0,2025-03-21,22401016,0,0,NOP,4,0,35,04:21,Off Short Mid-Range Make,0,Dillingham 6' Pullup Jump Shot (2 PTS),,MIN,NOP,MIN,1610612750
+04:24,"MISS Shannon Jr. 1' Running Layup: Matković BLOCK (1 BLK)
+Brooks Jr. REBOUND (Off:0 Def:4)
+",1,0,0,0,2025-03-21,22401016,0,0,NOP,4,0,37,04:32,Off Steal,0,MISS Shannon Jr. 1' Running Layup: Matković BLOCK (1 BLK),,MIN,NOP,MIN,1610612750
+04:24,"MISS Shannon Jr. 1' Running Layup: Matković BLOCK (1 BLK)
+Brooks Jr. REBOUND (Off:0 Def:4)
+",1,0,0,0,2025-03-21,22401016,0,0,NOP,4,0,37,04:32,Off Steal,0,Brooks Jr. REBOUND (Off:0 Def:4),,MIN,NOP,MIN,1610612750
+04:48,"Matković S.FOUL (P3.T2) (J.Capers)
+Minott Free Throw 1 of 2 (1 PTS)
+Minott Free Throw 2 of 2 (2 PTS)
+",0,0,0,0,2025-03-21,22401016,0,0,NOP,4,1,35,05:01,Off At Rim Make,0,Matković S.FOUL (P3.T2) (J.Capers),,MIN,NOP,MIN,1610612750
+04:48,"Matković S.FOUL (P3.T2) (J.Capers)
+Minott Free Throw 1 of 2 (1 PTS)
+Minott Free Throw 2 of 2 (2 PTS)
+",0,0,0,0,2025-03-21,22401016,0,0,NOP,4,1,35,05:01,Off At Rim Make,0,Minott Free Throw 1 of 2 (1 PTS),,MIN,NOP,MIN,1610612750
+04:48,"Matković S.FOUL (P3.T2) (J.Capers)
+Minott Free Throw 1 of 2 (1 PTS)
+Minott Free Throw 2 of 2 (2 PTS)
+",0,0,0,0,2025-03-21,22401016,0,0,NOP,4,1,35,05:01,Off At Rim Make,0,Minott Free Throw 2 of 2 (2 PTS),,MIN,NOP,MIN,1610612750
+05:05,"Dillingham Bad Pass Turnover (P1.T12): Reeves STEAL (1 STL)
+",0,0,0,0,2025-03-21,22401016,0,0,NOP,4,0,37,05:17,Off At Rim Make,1,Dillingham Bad Pass Turnover (P1.T12): Reeves STEAL (1 STL),,MIN,NOP,MIN,1610612750
+05:41,"Garza 1' Layup (4 PTS) (Dillingham 2 AST)
+",1,1,0,0,2025-03-21,22401016,0,0,NOP,4,0,37,06:00,Off FT Make,0,Garza 1' Layup (4 PTS) (Dillingham 2 AST),,MIN,NOP,MIN,1610612750
+06:13,"Garza 1' Dunk (2 PTS) (Dillingham 1 AST)
+",1,1,0,0,2025-03-21,22401016,0,0,NOP,4,0,36,06:30,Off Timeout,0,Garza 1' Dunk (2 PTS) (Dillingham 1 AST),,MIN,NOP,MIN,1610612750
+06:49,"Clark 25' 3PT Jump Shot (11 PTS) (Minott 1 AST)
+",0,0,1,1,2025-03-21,22401016,0,0,NOP,4,0,33,07:10,Off Dead Ball,0,Clark 25' 3PT Jump Shot (11 PTS) (Minott 1 AST),,MIN,NOP,MIN,1610612750
+07:34,"MISS Minott 25' 3PT Jump Shot
+Missi REBOUND (Off:3 Def:7)
+",0,0,1,0,2025-03-21,22401016,0,0,NOP,4,0,33,07:49,Off FT Miss,0,MISS Minott 25' 3PT Jump Shot,,MIN,NOP,MIN,1610612750
+07:34,"MISS Minott 25' 3PT Jump Shot
+Missi REBOUND (Off:3 Def:7)
+",0,0,1,0,2025-03-21,22401016,0,0,NOP,4,0,33,07:49,Off FT Miss,0,Missi REBOUND (Off:3 Def:7),,MIN,NOP,MIN,1610612750
+08:10,"Gobert 1' Dunk (15 PTS) (Shannon Jr. 1 AST)
+",1,1,0,0,2025-03-21,22401016,0,0,NOP,4,0,31,08:29,Off Short Mid-Range Make,0,Gobert 1' Dunk (15 PTS) (Shannon Jr. 1 AST),,MIN,NOP,MIN,1610612750
+08:42,"MISS Shannon Jr. 24' 3PT Pullup Jump Shot
+Missi REBOUND (Off:3 Def:6)
+",0,0,1,0,2025-03-21,22401016,0,0,NOP,4,0,33,09:04,Off FT Make,0,MISS Shannon Jr. 24' 3PT Pullup Jump Shot,,MIN,NOP,MIN,1610612750
+08:42,"MISS Shannon Jr. 24' 3PT Pullup Jump Shot
+Missi REBOUND (Off:3 Def:6)
+",0,0,1,0,2025-03-21,22401016,0,0,NOP,4,0,33,09:04,Off FT Make,0,Missi REBOUND (Off:3 Def:6),,MIN,NOP,MIN,1610612750
+09:20,"Reid 1' Running Layup (15 PTS) (Alexander-Walker 3 AST)
+",1,1,0,0,2025-03-21,22401016,0,0,NOP,4,0,31,09:24,Off At Rim Block,0,Reid 1' Running Layup (15 PTS) (Alexander-Walker 3 AST),,MIN,NOP,MIN,1610612750
+09:51,"DiVincenzo 1' Driving Layup (13 PTS)
+",1,1,0,0,2025-03-21,22401016,0,0,NOP,4,0,29,10:05,Off Short Mid-Range Make,0,DiVincenzo 1' Driving Layup (13 PTS),,MIN,NOP,MIN,1610612750
+10:22,"Alexander-Walker 25' 3PT Jump Shot (7 PTS) (Gobert 3 AST)
+",0,0,1,1,2025-03-21,22401016,0,0,NOP,4,0,28,10:38,Off Arc 3 Make,0,Alexander-Walker 25' 3PT Jump Shot (7 PTS) (Gobert 3 AST),,MIN,NOP,MIN,1610612750
+10:59,"Brooks Jr. S.FOUL (P1.T1) (G.Petraitis)
+MISS Gobert Free Throw 1 of 2
+TIMBERWOLVES Rebound
+Gobert Free Throw 2 of 2 (13 PTS)
+",0,0,0,0,2025-03-21,22401016,0,0,NOP,4,1,30,11:05,Off Short Mid-Range Miss,0,Brooks Jr. S.FOUL (P1.T1) (G.Petraitis),,MIN,NOP,MIN,1610612750
+10:59,"Brooks Jr. S.FOUL (P1.T1) (G.Petraitis)
+MISS Gobert Free Throw 1 of 2
+TIMBERWOLVES Rebound
+Gobert Free Throw 2 of 2 (13 PTS)
+",0,0,0,0,2025-03-21,22401016,0,0,NOP,4,1,30,11:05,Off Short Mid-Range Miss,0,MISS Gobert Free Throw 1 of 2,,MIN,NOP,MIN,1610612750
+10:59,"Brooks Jr. S.FOUL (P1.T1) (G.Petraitis)
+MISS Gobert Free Throw 1 of 2
+TIMBERWOLVES Rebound
+Gobert Free Throw 2 of 2 (13 PTS)
+",0,0,0,0,2025-03-21,22401016,0,0,NOP,4,1,30,11:05,Off Short Mid-Range Miss,0,TIMBERWOLVES Rebound,,MIN,NOP,MIN,1610612750
+10:59,"Brooks Jr. S.FOUL (P1.T1) (G.Petraitis)
+MISS Gobert Free Throw 1 of 2
+TIMBERWOLVES Rebound
+Gobert Free Throw 2 of 2 (13 PTS)
+",0,0,0,0,2025-03-21,22401016,0,0,NOP,4,1,30,11:05,Off Short Mid-Range Miss,0,Gobert Free Throw 2 of 2 (13 PTS),,MIN,NOP,MIN,1610612750
+11:21,"Clark 2' Running Dunk (8 PTS) (Reid 6 AST)
+",1,1,0,0,2025-03-21,22401016,0,0,NOP,4,0,28,11:24,Off Steal,0,Clark 2' Running Dunk (8 PTS) (Reid 6 AST),,MIN,NOP,MIN,1610612750
+11:42,"Clark 24' 3PT Jump Shot (6 PTS) (Reid 5 AST)
+",0,0,1,1,2025-03-21,22401016,0,0,NOP,4,0,25,12:00,Off Dead Ball,0,Clark 24' 3PT Jump Shot (6 PTS) (Reid 5 AST),,MIN,NOP,MIN,1610612750

@@ -8,7 +8,7 @@ from tqdm.auto import tqdm
 import hashlib
 import logging
 from concurrent.futures import ProcessPoolExecutor
-
+import sys
 # Setup logging
 logging.basicConfig(
     level=logging.INFO,
@@ -169,7 +169,7 @@ async def ping_nba_urls_async(df, batch_size=500, max_concurrent=100):
 
 # Checkpoint function to save progress
 def save_checkpoint(df, filename="nba_scrape_checkpoint.csv"):
-    df.to_csv(filename, index=False)
+    df. (filename, index=False)
     logging.info(f"Checkpoint saved: {filename}")
 
 # Main execution function with retry logic
