@@ -53,3 +53,9 @@ def rotation_download(ps=False):
         rotations_df.to_csv(f"{year}{trail}_rotations.csv",index=False)
 rotation_download(ps=False)
 
+
+# In[ ]:
+
+
+
+

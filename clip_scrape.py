@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[ ]:
 
 
 import requests
@@ -65,6 +65,7 @@ def fetch_possessions(team, start_date, end_date):
         response = requests.get(url, params=params)
         response.raise_for_status()  # Raise exception for HTTP errors
         response_json = response.json()
+
         offensive_possessions = response_json.get("possessions", [])
         
         # Add team info to each possession
@@ -73,7 +74,7 @@ def fetch_possessions(team, start_date, end_date):
             possession['IsOffense'] = True
         
         all_possessions.extend(offensive_possessions)
-        if team =='ATL':
+        if team =='RAND':
             for data in all_possessions:
                 print(data['Events'])
                 print(data.keys())
@@ -145,6 +146,7 @@ def convert_new_to_old_format(possession_data, team_id):
     
     for possession in possession_data:
         # Extract game teams from the GameId
+ 
         game_id = possession.get('GameId', '')
         game_id = game_id[2:]
    

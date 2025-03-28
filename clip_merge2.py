@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[ ]:
 
 
 import pandas as pd
@@ -295,16 +295,21 @@ def main(year=2025,ps=False):
     logging.info("Processing complete")
     return True
 
+
 if __name__ == "__main__":
     start_time = datetime.now()
     logging.info(f"Script started at {start_time}")
     
     print('starting')
-    result = main(year=2025,ps=False)
+    start_year=2025
+    end_year=2026
     
-    
-    end_time = datetime.now()
-    execution_time = end_time - start_time
-    logging.info(f"Script completed at {end_time}")
-    logging.info(f"Total execution time: {execution_time}")
+    for year in range(start_year,end_year):
+        
+        result = main(year=year,ps=False)
+        end_time = datetime.now()
+        execution_time = end_time - start_time
+        logging.info(f"Script completed at {end_time}")
+        logging.info(f"Total execution time: {execution_time}")
+
 
