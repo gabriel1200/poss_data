@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[5]:
+# In[12]:
 
 
 import pandas as pd
@@ -299,7 +299,7 @@ teams = [
 
 # Dictionary to store DataFrames for each team
 team_dfs = {}
-
+teams=['ATL']
 # Loop through each team and read the CSV file
 for team in teams:
     file_path = f'2025/{team}_2025_clips_with_players.csv'
@@ -383,7 +383,7 @@ for team in teams:
     teamid=old_df['TEAM_ID'].iloc[0]
     if team == 'ATL':
         new_df.to_csv('ATL_missing1.csv',index=False)
-    new_df=new_df[new_df.teamId==teamid]
+    #new_df=new_df[new_df.teamId==teamid]
     if team == 'ATL':
         new_df.to_csv('ATL_missing2.csv',index=False)
     result_df = map_action_numbers(old_df, new_df)
@@ -406,7 +406,7 @@ data=pd.concat(result_frames)
 data
 
 
-# In[6]:
+# In[13]:
 
 
 data.sort_values(by=['GAMEDATE','GAMEID','PERIOD','start_seconds'],inplace=True)
@@ -417,7 +417,7 @@ data['GAMEID'] = data['GAMEID'].str.replace(r'^00', '', regex=True)
 data['GAMEID']= data['GAMEID'].astype(int)
 
 
-# In[7]:
+# In[14]:
 
 
 import pandas as pd
@@ -496,15 +496,14 @@ for team in teams:
  
 
 
-# In[8]:
+# In[15]:
 
 
-team='DEN'
+team='ATL'
 
 file_path2 = f'2025/{team}_2025_clips_with_players.csv'
 
 df=pd.read_csv(file_path2)
-df.tail(50).URL
-df.tail(50)['URL']
-df.tail(50)
+df=df[df.GAMEID==22401062]
+df.head(40)
 

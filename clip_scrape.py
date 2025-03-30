@@ -124,17 +124,12 @@ def get_latest_date(file_path):
         df = pd.read_csv(file_path)
         
         # Check required columns exist
-        required_columns = {'GAMEDATE', 'URL'}
+        required_columns = {'GAMEDATE'}
         if not required_columns.issubset(df.columns):
             return None
-        
-        # Filter rows with valid URLs
-        valid_urls = df[df['URL'].notna()]
-        
-        if valid_urls.empty:
-            return None
+
             
-        return valid_urls['GAMEDATE'].max()
+        return df['GAMEDATE'].max()
         
     except (FileNotFoundError, pd.errors.EmptyDataError):
         return None
