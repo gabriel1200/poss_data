@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[12]:
+# In[ ]:
 
 
 import pandas as pd
@@ -299,7 +299,7 @@ teams = [
 
 # Dictionary to store DataFrames for each team
 team_dfs = {}
-teams=['ATL']
+
 # Loop through each team and read the CSV file
 for team in teams:
     file_path = f'2025/{team}_2025_clips_with_players.csv'
@@ -406,7 +406,7 @@ data=pd.concat(result_frames)
 data
 
 
-# In[13]:
+# In[2]:
 
 
 data.sort_values(by=['GAMEDATE','GAMEID','PERIOD','start_seconds'],inplace=True)
@@ -417,7 +417,7 @@ data['GAMEID'] = data['GAMEID'].str.replace(r'^00', '', regex=True)
 data['GAMEID']= data['GAMEID'].astype(int)
 
 
-# In[14]:
+# In[3]:
 
 
 import pandas as pd
@@ -496,7 +496,7 @@ for team in teams:
  
 
 
-# In[15]:
+# In[4]:
 
 
 team='ATL'

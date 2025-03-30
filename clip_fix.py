@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[23]:
+# In[1]:
 
 
 import pandas as pd
@@ -14,126 +14,252 @@ import sys
 import pandas as pd
 import re
 from datetime import datetime
-import pandas as pd
-import numpy as np
-import re
-
 
 def map_action_numbers(old_df, new_df):
     """
-    Map actionNumber from new_df to the appropriate rows in old_df based on time ranges and periods.
+    Map actionNumber from new dataset to old dataset based on period and time information.
     
     Parameters:
-    old_df (pandas.DataFrame): The old dataset with start_seconds and end_seconds columns
-    new_df (pandas.DataFrame): The new dataset with actionNumber, period, and clock columns
-    
+    -----------
+    old_df : pandas.DataFrame
+        The old NBA play-by-play dataset
+    new_df : pandas.DataFrame
+        The new NBA play-by-play dataset with actionNumber
+        
     Returns:
-    pandas.DataFrame: A copy of old_df with a new column 'actionNumber' added
+    --------
+    pandas.DataFrame
+        Old dataset with mapped actionNumber from new dataset
     """
-    # Make a copy of the old_df to avoid modifying the original
-    result_df = old_df.copy()
+    # Make a copy of the old DataFrame to avoid modifying the original
+    old_df_with_action = old_df.copy()
     
-    # Initialize the actionNumber column with NaN
-    result_df['actionNumber'] = np.nan
+    # Initialize the actionNumber column with None/NaN
+    old_df_with_action['actionNumber'] = None
     
-    # Convert data types to ensure proper comparison
-    result_df['PERIOD'] = result_df['PERIOD'].astype(int)
-    result_df['start_seconds'] = result_df['start_seconds'].astype(float)
-    result_df['end_seconds'] = result_df['end_seconds'].astype(float)
-    
-    new_df['period'] = new_df['period'].astype(int)
-    new_df['actionNumber'] = new_df['actionNumber'].astype(int)
-    
-    # Helper function to convert clock format (PT12M00.00S) to seconds
+    # Function to convert "PT12M00.00S" format to seconds remaining in period
     def clock_to_seconds(clock_str):
-        if pd.isna(clock_str) or not isinstance(clock_str, str):
+        if pd.isna(clock_str) or clock_str is None:
             return None
+        
+        # Parse the clock string using regex
+        match = re.match(r'PT(\d+)M(\d+\.\d+)S', clock_str)
+        if match:
+            minutes = int(match.group(1))
+            seconds = float(match.group(2))
+            return minutes * 60 + seconds
+        return None
+    
+    # Calculate seconds remaining in period for both datasets
+    new_df['seconds_remaining'] = new_df['clock'].apply(clock_to_seconds)
+    
+    # Convert MM:SS format to seconds from start of the period
+    def mmss_to_seconds_from_start(time_str, period):
+        if pd.isna(time_str) or time_str is None:
+            return None
+        
+        # Parse MM:SS format
+        parts = time_str.split(':')
+        if len(parts) == 2:
+            minutes = int(parts[0])
+            seconds = int(parts[1])
             
-        # Extract minutes and seconds using regex
-        minutes_match = re.search(r'PT(\d+)M', clock_str)
-        seconds_match = re.search(r'M(\d+\.\d+)S', clock_str)
-        
-        if not seconds_match:
-            seconds_match = re.search(r'M(\d+)S', clock_str)
-            
-        minutes = int(minutes_match.group(1)) if minutes_match else 0
-        seconds = float(seconds_match.group(1)) if seconds_match else 0
-        
-        return minutes * 60 + seconds
+            # Calculate seconds from start of period
+            # NBA periods are 12 minutes (720 seconds)
+            return 720 - (minutes * 60 + seconds)
+        return None
     
-    # Calculate game seconds for each action in the new dataset
-    new_df['clock_seconds'] = new_df['clock'].apply(clock_to_seconds)
-    new_df['period_start_seconds'] = (new_df['period'] - 1) * 720
-    new_df['seconds_into_period'] = 720 - new_df['clock_seconds']
-    new_df['game_seconds'] = new_df['period_start_seconds'] + new_df['seconds_into_period']
+    # Calculate seconds from start of period for old dataset
+    old_df_with_action['start_seconds_in_period'] = old_df_with_action.apply(
+        lambda row: mmss_to_seconds_from_start(row['STARTTIME'], row['PERIOD']), 
+        axis=1
+    )
     
-    # Sort new_df by period and game_seconds (should already be in order but just to be sure)
-    new_df = new_df.sort_values(['period', 'game_seconds'])
+    old_df_with_action['end_seconds_in_period'] = old_df_with_action.apply(
+        lambda row: mmss_to_seconds_from_start(row['ENDTIME'], row['PERIOD']), 
+        axis=1
+    )
     
-    # Group by period for faster access
-    new_df_by_period = {period: group for period, group in new_df.groupby('period')}
-    
-    # Function to find the nearest action number for a given time range and period
-    def find_action_number(row):
-        period = row['PERIOD']
-        start_time = row['start_seconds']
-        end_time = row['end_seconds']
+    # Iterate through each row in the old dataset
+    for idx, old_row in old_df_with_action.iterrows():
+        # Find matching actions in the new dataset by period and time range
+        period_matches = new_df[new_df['period'] == old_row['PERIOD']]
         
-        # Check if we have data for this period
-        if period not in new_df_by_period:
-            return np.nan
-        
-        period_data = new_df_by_period[period]
+        # If no matches for this period, continue to next row
+        if len(period_matches) == 0:
+            continue
         
         # Find actions that fall within the time range
-        matches = period_data[
-            (period_data['game_seconds'] >= start_time) & 
-            (period_data['game_seconds'] <= end_time)
+        time_matches = period_matches[
+            (period_matches['seconds_remaining'] >= old_row['start_seconds_in_period']) &
+            (period_matches['seconds_remaining'] <= old_row['end_seconds_in_period'])
         ]
         
-        if not matches.empty:
-            # Return the first action number in the time range
-            # (actions are already ordered chronologically)
-            return matches['actionNumber'].iloc[0]
-        
-        # If no direct match, find the closest action before the time range
-        before_matches = period_data[period_data['game_seconds'] < start_time]
-        if not before_matches.empty:
-            return before_matches['actionNumber'].iloc[-1]
-        
-        # If still no match, find the closest action after the time range
-        after_matches = period_data[period_data['game_seconds'] > end_time]
-        if not after_matches.empty:
-            return after_matches['actionNumber'].iloc[0]
-        
-        return np.nan
+        # If we found matches, take the first action number
+        # This assumes the first action in that timeframe corresponds to the event
+        if len(time_matches) > 0:
+            old_df_with_action.at[idx, 'actionNumber'] = time_matches['actionNumber'].iloc[0]
+            
+            # Alternative: If you want to store all possible action numbers for this timeframe
+            # old_df_with_action.at[idx, 'actionNumber'] = time_matches['actionNumber'].tolist()
     
-    # Apply the function to each row in the old dataset
-    result_df['actionNumber'] = result_df.apply(find_action_number, axis=1)
+    return old_df_with_action
+
+def advanced_map_action_numbers(old_df, new_df):
+    """
+    A more sophisticated mapping that tries to match events based on descriptions
+    in addition to timing information.
+    
+    Parameters:
+    -----------
+    old_df : pandas.DataFrame
+        The old NBA play-by-play dataset
+    new_df : pandas.DataFrame
+        The new NBA play-by-play dataset with actionNumber
+        
+    Returns:
+    --------
+    pandas.DataFrame
+        Old dataset with mapped actionNumber from new dataset
+    """
+    # First get the basic time-based mapping
+    old_df_with_action = map_action_numbers(old_df, new_df)
+    
+    # Now try to improve the mapping using event descriptions
+    for idx, old_row in old_df_with_action.iterrows():
+        # Skip if we already have a match
+        if not pd.isna(old_row['actionNumber']):
+            continue
+            
+        # Try to find a match based on event description
+        period_matches = new_df[new_df['period'] == old_row['PERIOD']]
+        
+        # Extract key info from descriptions
+        old_desc = old_row['DESCRIPTION'].lower() if not pd.isna(old_row['DESCRIPTION']) else ""
+        
+        # Look for potential matches in description
+        for _, new_row in period_matches.iterrows():
+            new_desc = new_row['description'].lower() if not pd.isna(new_row['description']) else ""
+            
+            # Check for common patterns in descriptions
+            # E.g., player names, shot types, points, etc.
+            if old_desc and new_desc:
+                # Extract player names and actions
+                # This is a simplified approach - a more robust solution would use NLP
+                common_words = set(old_desc.split()).intersection(set(new_desc.split()))
+                
+                # If there are enough common words, consider it a match
+                if len(common_words) >= 2:  # Arbitrary threshold, adjust as needed
+                    old_df_with_action.at[idx, 'actionNumber'] = new_row['actionNumber']
+                    break
+    
+    return old_df_with_action
+
+def match_by_game_events(old_df, new_df):
+    """
+    Additional approach: try to align events sequence by sequence within games.
+    This is useful when the datasets are from the same games but with different time formats.
+    
+    Parameters:
+    -----------
+    old_df : pandas.DataFrame
+        The old NBA play-by-play dataset
+    new_df : pandas.DataFrame
+        The new NBA play-by-play dataset with actionNumber
+        
+    Returns:
+    --------
+    pandas.DataFrame
+        Old dataset with mapped actionNumber from new dataset
+    """
+    # Group by game ID
+    old_games = old_df.groupby('GAMEID')
+    
+    # Prepare result DataFrame
+    result_df = old_df.copy()
+    result_df['actionNumber'] = None
+    
+    # Process each game
+    for game_id, old_game_df in old_games:
+        # Find corresponding data in new dataset
+        new_game_df = new_df[new_df['game_id'] == game_id]
+        
+        # If no matching game, continue
+        if len(new_game_df) == 0:
+            continue
+            
+        # Sort both datasets by period and time
+        old_game_df = old_game_df.sort_values(['PERIOD', 'start_seconds'])
+        new_game_df = new_game_df.sort_values(['period', 'timeActual'])
+        
+        # Try to align sequences of events
+        # This is a simplified approach - in practice, you would need more sophisticated alignment
+        
+        # Example: Align by event type and player involvement
+        # (This would need customization based on your specific data)
+        
+        # Update the result DataFrame
+        for idx, old_row in old_game_df.iterrows():
+            # Find matching action in new_game_df
+            # ... (implementation depends on specific matching logic)
+            
+            # For demonstration, just map sequentially (this is oversimplified)
+            period_matches = new_game_df[new_game_df['period'] == old_row['PERIOD']]
+            if len(period_matches) > 0:
+                # Get the first unmatched action for this period
+                action_num = period_matches['actionNumber'].iloc[0]
+                result_df.loc[idx, 'actionNumber'] = action_num
+                
+                # Remove this action from consideration for next matches
+                new_game_df = new_game_df[new_game_df['actionNumber'] != action_num]
     
     return result_df
 
-
-def main():
-    # Example usage
-    old_df = pd.read_csv('old.csv')
-    new_df = pd.read_csv('new.csv')
+# Main function to use all approaches
+def get_action_numbers(old_df, new_df):
+    """
+    Map actionNumber from the new dataset to the old dataset using multiple approaches.
     
+    Parameters:
+    -----------
+    old_csv_path : str
+        Path to the old dataset CSV file
+    new_csv_path : str
+        Path to the new dataset CSV file
+        
+    Returns:
+    --------
+    pandas.DataFrame
+        Old dataset with mapped actionNumber from new dataset
+    """
+    # Load datasets
+
+    
+    # First try the time-based mapping approach
     result_df = map_action_numbers(old_df, new_df)
     
-    # Save the result
-    result_df.to_csv('mapped_results.csv', index=False)
-    print(f"Mapping complete. Result saved to 'mapped_results.csv'")
+    # Check how many rows got mapped
+    mapped_count = result_df['actionNumber'].notna().sum()
+    total_count = len(result_df)
     
-    # Display some stats
-    total_rows = len(result_df)
-    mapped_rows = result_df['actionNumber'].notna().sum()
-    mapping_percentage = (mapped_rows / total_rows) * 100
+    print(f"Time-based mapping: {mapped_count}/{total_count} rows mapped ({mapped_count/total_count:.1%})")
     
-    print(f"Total rows in old dataset: {total_rows}")
-    print(f"Successfully mapped rows: {mapped_rows} ({mapping_percentage:.2f}%)")
-
-
+    # If the mapping is not satisfactory, try the description-based approach
+    if mapped_count / total_count < 0.5:  # Arbitrary threshold
+        result_df = advanced_map_action_numbers(old_df, new_df)
+        
+        mapped_count = result_df['actionNumber'].notna().sum()
+        print(f"Description-based mapping: {mapped_count}/{total_count} rows mapped ({mapped_count/total_count:.1%})")
+    
+    # If the datasets are from the same games but time formats differ, try sequence-based
+    # This approach may be less accurate but provides a fallback
+    if mapped_count / total_count < 0.3:  # Arbitrary threshold
+        result_df = match_by_game_events(old_df, new_df)
+        
+        mapped_count = result_df['actionNumber'].notna().sum()
+        print(f"Sequence-based mapping: {mapped_count}/{total_count} rows mapped ({mapped_count/total_count:.1%})")
+    
+    return result_df
 def pull_data(url):
     headers = {
         "Host": "stats.nba.com",
@@ -284,31 +410,19 @@ for team in teams:
     old_df.sort_values(by='GAMEDATE',inplace=True)
     new_df.sort_values(by='timeActual',inplace=True)
 
-    result_df = map_action_numbers(old_df, new_df)
-    
-    # Save the result
-    result_df.to_csv('mapped_results.csv', index=False)
-    print(f"Mapping complete. Result saved to 'mapped_results.csv'")
-    
-    # Display some stats
-    total_rows = len(result_df)
-    mapped_rows = result_df['actionNumber'].notna().sum()
-    mapping_percentage = (mapped_rows / total_rows) * 100
-    
-    print(f"Total rows in old dataset: {total_rows}")
-    print(f"Successfully mapped rows: {mapped_rows} ({mapping_percentage:.2f}%)")
 
-    result_frames.append(result_df)
+    result_frames.append(new_df)
 
 
-# In[42]:
+# In[2]:
 
 
 all_missing=pd.concat(result_frames)
-all_missing.to_csv('all_missing.csv',index=False)
+
+print(all_missing.columns)
 
 
-# In[43]:
+# In[3]:
 
 
 # Convert unhashable columns to strings
@@ -318,17 +432,10 @@ print(len(all_missing))
 all_missing = all_missing.drop_duplicates()
 print(len(all_missing))
 
+all_missing.to_csv('all_missing.csv',index=False)
 
 
-# In[41]:
-
-
-all_missing.columns
-print(len(all_missing))
-all_missing.drop_duplicates(inplace=True)
-
-
-# In[44]:
+# In[4]:
 
 
 # result = pd.DataFrame({'actionNumber': [1, 2, 3, None, 5, None, 7], 'DESCRIPTION': ['A', 'B', 'C', 'D', 'E', 'F', 'G']})
@@ -406,10 +513,11 @@ def ping_nba_urls(df):
     return pd.DataFrame(results)
 
 # Ping URLs and save the results
-
+'''
 result_df = ping_nba_urls(all_missing)
 
 # Save the results to a CSV or inspect
 result_df.to_csv("nba_ping_results.csv", index=False)
 print(result_df.head())
+'''
 
