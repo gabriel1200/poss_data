@@ -1,0 +1,76 @@
+2025-03-30 17:27:33,039 - nba_data_processor - INFO - Processing team: ATL
+2025-03-30 17:27:33,041 - nba_data_processor - INFO - Processing team data from 2025/ATL_2025_clips_with_players.csv
+2025-03-30 17:27:33,777 - nba_data_processor - INFO - Found 10 games with missing URLs:
+2025-03-30 17:27:33,779 - nba_data_processor - INFO - [22400239 22400719 22400945 22400960 22400978 22400993 22401025 22401031
+ 22401049 22401062]
+2025-03-30 17:28:09,242 - nba_data_processor - INFO - Processing team: ATL
+2025-03-30 17:28:09,243 - nba_data_processor - INFO - Processing team data from 2025/ATL_2025_clips_with_players.csv
+2025-03-30 17:28:09,886 - nba_data_processor - INFO - Found 10 games with missing URLs:
+2025-03-30 17:28:09,888 - nba_data_processor - INFO - [22400239 22400719 22400945 22400960 22400978 22400993 22401025 22401031
+ 22401049 22401062]
+2025-03-30 17:28:10,223 - nba_data_processor - INFO - Successfully fetched data for game ID: 0022400239
+2025-03-30 17:28:11,043 - nba_data_processor - INFO - Successfully fetched data for game ID: 0022400719
+2025-03-30 17:28:11,867 - nba_data_processor - INFO - Successfully fetched data for game ID: 0022400945
+2025-03-30 17:28:12,682 - nba_data_processor - INFO - Successfully fetched data for game ID: 0022400960
+2025-03-30 17:28:13,505 - nba_data_processor - INFO - Successfully fetched data for game ID: 0022400978
+2025-03-30 17:28:14,366 - nba_data_processor - INFO - Successfully fetched data for game ID: 0022400993
+2025-03-30 17:28:15,189 - nba_data_processor - INFO - Successfully fetched data for game ID: 0022401025
+2025-03-30 17:28:16,000 - nba_data_processor - INFO - Successfully fetched data for game ID: 0022401031
+2025-03-30 17:28:16,827 - nba_data_processor - INFO - Successfully fetched data for game ID: 0022401049
+2025-03-30 17:28:17,682 - nba_data_processor - INFO - Successfully fetched data for game ID: 0022401062
+2025-03-30 17:28:18,276 - nba_data_processor - INFO - Starting action mapping with 1317 old events and 2710 new events
+2025-03-30 17:28:18,278 - nba_data_processor - INFO - Description weight: 0.7, Time weight: 0.3
+2025-03-30 17:28:24,879 - nba_data_processor - INFO - Total rows in old dataset: 2634
+2025-03-30 17:28:24,882 - nba_data_processor - INFO - Successfully mapped rows: 1317 (50.00%)
+2025-03-30 17:28:24,885 - nba_data_processor - INFO - TOP 3 SUCCESSFUL MATCHES:
+2025-03-30 17:28:24,886 - nba_data_processor - INFO - Old: 'Clingan BLOCK (1 BLK): MISS Capela 9' Hook Shot' -> New: ''
+2025-03-30 17:28:24,887 - nba_data_processor - INFO -   Score: 0.000 (Time: 0.000, Desc: 0.000)
+2025-03-30 17:28:24,889 - nba_data_processor - INFO - Old: 'Young 8' Driving Floating Jump Shot (5 PTS) (Daniels 2 AST)' -> New: ''
+2025-03-30 17:28:24,890 - nba_data_processor - INFO -   Score: 0.000 (Time: 0.000, Desc: 0.000)
+2025-03-30 17:28:24,891 - nba_data_processor - INFO - Old: 'MISS Gueye 2' Layup' -> New: ''
+2025-03-30 17:28:24,892 - nba_data_processor - INFO -   Score: 0.000 (Time: 0.000, Desc: 0.000)
+2025-03-30 17:28:24,901 - nba_data_processor - INFO - SAMPLE OF FAILED MATCHES:
+2025-03-30 17:28:24,903 - nba_data_processor - INFO - Failed to match: 'nan'
+2025-03-30 17:28:24,904 - nba_data_processor - INFO -   Potential matches: 12.0
+2025-03-30 17:28:24,905 - nba_data_processor - INFO - Failed to match: 'nan'
+2025-03-30 17:28:24,906 - nba_data_processor - INFO -   Potential matches: 14.0
+2025-03-30 17:28:24,907 - nba_data_processor - INFO - Failed to match: 'nan'
+2025-03-30 17:28:24,908 - nba_data_processor - INFO -   Potential matches: 7.0
+2025-03-30 17:28:24,973 - nba_data_processor - INFO - Mapping results saved to results/ATL_mapped_results.csv
+2025-03-30 17:28:24,998 - nba_data_processor - INFO - Completed processing for ATL
+2025-03-30 17:28:25,002 - nba_data_processor - INFO - Processing team: MIA
+2025-03-30 17:28:25,002 - nba_data_processor - INFO - Processing team data from 2025/MIA_2025_clips_with_players.csv
+2025-03-30 17:28:25,531 - nba_data_processor - INFO - Found 11 games with missing URLs:
+2025-03-30 17:28:25,532 - nba_data_processor - INFO - [22400721 22400948 22400958 22400971 22400984 22401000 22401015 22401032
+ 22401047 22401062 22401076]
+2025-03-30 17:28:25,859 - nba_data_processor - INFO - Successfully fetched data for game ID: 0022400721
+2025-03-30 17:28:30,260 - nba_data_processor - INFO - Successfully fetched data for game ID: 0022400948
+2025-03-30 17:28:31,072 - nba_data_processor - INFO - Successfully fetched data for game ID: 0022400958
+2025-03-30 17:28:31,917 - nba_data_processor - INFO - Successfully fetched data for game ID: 0022400971
+2025-03-30 17:28:32,772 - nba_data_processor - INFO - Successfully fetched data for game ID: 0022400984
+2025-03-30 17:28:33,595 - nba_data_processor - INFO - Successfully fetched data for game ID: 0022401000
+2025-03-30 17:28:34,418 - nba_data_processor - INFO - Successfully fetched data for game ID: 0022401015
+2025-03-30 17:28:35,287 - nba_data_processor - INFO - Successfully fetched data for game ID: 0022401032
+2025-03-30 17:28:36,098 - nba_data_processor - INFO - Successfully fetched data for game ID: 0022401047
+2025-03-30 17:28:36,903 - nba_data_processor - INFO - Successfully fetched data for game ID: 0022401062
+2025-03-30 17:28:37,713 - nba_data_processor - INFO - Successfully fetched data for game ID: 0022401076
+2025-03-30 17:28:38,304 - nba_data_processor - INFO - Starting action mapping with 1293 old events and 2604 new events
+2025-03-30 17:28:38,305 - nba_data_processor - INFO - Description weight: 0.7, Time weight: 0.3
+2025-03-30 17:28:44,822 - nba_data_processor - INFO - Total rows in old dataset: 2586
+2025-03-30 17:28:44,823 - nba_data_processor - INFO - Successfully mapped rows: 1293 (50.00%)
+2025-03-30 17:28:44,826 - nba_data_processor - INFO - TOP 3 SUCCESSFUL MATCHES:
+2025-03-30 17:28:44,827 - nba_data_processor - INFO - Old: 'Maxey STEAL (1 STL): Adebayo Bad Pass Turnover (P1.T1)' -> New: ''
+2025-03-30 17:28:44,828 - nba_data_processor - INFO -   Score: 0.000 (Time: 0.000, Desc: 0.000)
+2025-03-30 17:28:44,829 - nba_data_processor - INFO - Old: 'Wiggins 25' 3PT Jump Shot (35 PTS) (Mitchell 6 AST)' -> New: ''
+2025-03-30 17:28:44,830 - nba_data_processor - INFO -   Score: 0.000 (Time: 0.000, Desc: 0.000)
+2025-03-30 17:28:44,831 - nba_data_processor - INFO - Old: 'Wiggins 18' Step Back Jump Shot (21 PTS)' -> New: ''
+2025-03-30 17:28:44,832 - nba_data_processor - INFO -   Score: 0.000 (Time: 0.000, Desc: 0.000)
+2025-03-30 17:28:44,835 - nba_data_processor - INFO - SAMPLE OF FAILED MATCHES:
+2025-03-30 17:28:44,836 - nba_data_processor - INFO - Failed to match: 'nan'
+2025-03-30 17:28:44,836 - nba_data_processor - INFO -   Potential matches: 14.0
+2025-03-30 17:28:44,839 - nba_data_processor - INFO - Failed to match: 'nan'
+2025-03-30 17:28:44,841 - nba_data_processor - INFO -   Potential matches: 11.0
+2025-03-30 17:28:44,842 - nba_data_processor - INFO - Failed to match: 'nan'
+2025-03-30 17:28:44,843 - nba_data_processor - INFO -   Potential matches: 33.0
+2025-03-30 17:28:44,881 - nba_data_processor - INFO - Mapping results saved to results/MIA_mapped_results.csv
+2025-03-30 17:28:44,900 - nba_data_processor - INFO - Completed processing for MIA
