@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
+# In[1]:
 
 
 import pandas as pd
@@ -344,7 +344,7 @@ def map_action_numbers(old_df, new_df, description_weight=0.25, time_weight=0.05
             
             if (old_features["is_rebound"] and new_features["is_missed_shot"]) or \
                (old_features["is_missed_shot"] and new_features["is_rebound"]):
-                print(row)
+                #print(row)
                 # Check time proximity
                 if 'game_seconds' in action_data:
                     time_diff = abs(action_data['game_seconds'].iloc[0] - (row['start_seconds'] + row['end_seconds'])/2)
@@ -443,7 +443,7 @@ teams = [
     'HOU', 'IND', 'LAC', 'LAL', 'MEM', 'MIA', 'MIL', 'MIN', 'NOP', 'NYK', 
     'OKC', 'ORL', 'PHI', 'PHX', 'POR', 'SAC', 'SAS', 'TOR', 'UTA', 'WAS'
 ]
-teams=['ATL','MIA']
+#teams=['ATL','MIA']
 # Dictionary to store DataFrames for each team
 team_dfs = {}
     
@@ -553,7 +553,7 @@ data=pd.concat(result_frames)
 data
 
 
-# In[53]:
+# In[2]:
 
 
 data.sort_values(by=['GAMEDATE','GAMEID','PERIOD','start_seconds'],inplace=True)
@@ -564,7 +564,7 @@ data['GAMEID'] = data['GAMEID'].str.replace(r'^00', '', regex=True)
 data['GAMEID']= data['GAMEID'].astype(int)
 
 
-# In[54]:
+# In[3]:
 
 
 import pandas as pd
@@ -643,7 +643,7 @@ for team in teams:
  
 
 
-# In[55]:
+# In[4]:
 
 
 import pandas as pd
