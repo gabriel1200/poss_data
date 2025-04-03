@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[94]:
 
 
 import pandas as pd
@@ -18,7 +18,7 @@ import pandas as pd
 import numpy as np
 import re
 from difflib import SequenceMatcher
-def map_action_numbers(old_df, new_df, description_weight=0.25, time_weight=0.05, score_weight=0.7):
+def map_action_numbers(old_df, new_df, description_weight=0.7, time_weight=0.1, score_weight=0.2):
 
     """
     Map actionNumber from new_df to the appropriate rows in old_df based on:
@@ -117,7 +117,7 @@ def map_action_numbers(old_df, new_df, description_weight=0.25, time_weight=0.05
     new_df['period_start_seconds'] = (new_df['period'] - 1) * 720
     new_df['seconds_into_period'] = 720 - new_df['clock_seconds']
     new_df['game_seconds'] = new_df['period_start_seconds'] + new_df['seconds_into_period']
-    new_df.drop_duplicates(subset=['game_id','period','actionType','game_seconds'],inplace=True)
+    #new_df.drop_duplicates(subset=['game_id','period','actionType','game_seconds'],inplace=True)
 
     # Sort new_df by period and game_seconds
     new_df.sort_values(by=['period', 'game_seconds'], inplace=True)
@@ -204,6 +204,8 @@ def map_action_numbers(old_df, new_df, description_weight=0.25, time_weight=0.05
             "shot_type": shot_type
         }
     
+    last_action_numbers = {}
+    
     # Improved function to find the action number with score differential and enhanced handling
     def find_action_number(row):
         period = row['PERIOD']
@@ -211,6 +213,11 @@ def map_action_numbers(old_df, new_df, description_weight=0.25, time_weight=0.05
         end_time = row['end_seconds']
         old_description = row['DESCRIPTION'] if 'DESCRIPTION' in row else ""
         score_diff = row['ENDSCOREDIFFERENTIAL'] if 'ENDSCOREDIFFERENTIAL' in row else np.nan
+        game_id = row['GAMEID'] if 'GAMEID' in row else None
+        
+        # Initialize tracking for this game if needed
+        if game_id not in last_action_numbers:
+            last_action_numbers[game_id] = 0
         
         # Check if we have data for this period
         if period not in new_df_by_period:
@@ -232,7 +239,7 @@ def map_action_numbers(old_df, new_df, description_weight=0.25, time_weight=0.05
         
         # Adjust window for special cases
         if is_rebound_in_old or is_missed_shot_in_old:
-            time_window = 2.5  # much wider for these special cases
+            time_window = 1  # much wider for these special cases
         else:
             time_window = base_time_window
         
@@ -241,13 +248,27 @@ def map_action_numbers(old_df, new_df, description_weight=0.25, time_weight=0.05
             (period_data['game_seconds'] >= (start_time - time_window)) & 
             (period_data['game_seconds'] <= (end_time + time_window))
         ]
-
+        
+        # NEW CONSTRAINT: Filter potential matches to only include actions with numbers greater than the last assigned
+        # Only apply this filter if we have a valid last action number
+        if last_action_numbers[game_id] > 0:
+            potential_matches = potential_matches[
+                potential_matches['actionNumber'] > last_action_numbers[game_id]
+            ]
+                  
+        if row['GAMEID'] == '0022401096':
+            if row['PERIOD']==1:
+                pass
+                print(potential_matches)
+                            
         if potential_matches.empty:
             return np.nan
         
         # If only one match, return it
         if len(potential_matches) == 1:
-            return potential_matches['actionNumber'].iloc[0]
+            action_num = potential_matches['actionNumber'].iloc[0]
+            last_action_numbers[game_id] = action_num  # Update the last action number
+            return action_num
         
         # Calculate similarities and combine with time proximity and score matching
         best_match = None
@@ -292,32 +313,25 @@ def map_action_numbers(old_df, new_df, description_weight=0.25, time_weight=0.05
             rebound_shot_bonus = 0
             
             # If timestamps are very close (within 2 seconds) and it's a shot-rebound pair
-            if (is_rebound_in_old and new_features["is_missed_shot"]) or \
-               (is_missed_shot_in_old and new_features["is_rebound"]):
-                # For very close timestamps, give a significant bonus
-                if time_diff < 1:
-                    rebound_shot_bonus = 0.8 * (1 - time_diff/2.0)  # Scales from 0.8 to 0
-                    
-                    # If score also matches, this is almost certainly the right match
-                    if score_match > 0.9:  # Very high score match
-                        rebound_shot_bonus += 0.2  # Additional bonus for score confirmation
-            
             # Get the higher of description or feature similarity
             similarity = max(desc_similarity, feature_similarity)
             
             # Add the rebound_shot_bonus
-            similarity += rebound_shot_bonus
             
             # Normalize similarity to max of 1.0
             similarity = min(similarity, 1.0)
             
             # Combined weighted score
-            combined_score = (description_weight * similarity) +  (time_weight * time_proximity) + (score_weight * score_match)
+            combined_score = (description_weight * similarity) + (time_weight * time_proximity) + (score_weight * score_match)
             
             if combined_score > best_score:
                 best_score = combined_score
                 best_match = match['actionNumber']
         
+        # Update the last action number for this game
+        if best_match is not None:
+            last_action_numbers[game_id] = best_match
+            
         return best_match
     
     # Apply the function to each row in the old dataset
@@ -339,6 +353,10 @@ def map_action_numbers(old_df, new_df, description_weight=0.25, time_weight=0.05
             
             # Basic similarity
             similarity = calculate_description_similarity(row['DESCRIPTION'], new_description)
+                      
+
+
+                            
             
             # Enhance confidence for missed shot-rebound pairs that were matched
             
@@ -349,6 +367,8 @@ def map_action_numbers(old_df, new_df, description_weight=0.25, time_weight=0.05
                 if 'game_seconds' in action_data:
                     time_diff = abs(action_data['game_seconds'].iloc[0] - (row['start_seconds'] + row['end_seconds'])/2)
                     if time_diff < 2.0:  # Close in time
+                        
+             
                         similarity = max(similarity, 0.8)  # Set a high minimum confidence
                         
                         # Check score match for even higher confidence
@@ -443,7 +463,7 @@ teams = [
     'HOU', 'IND', 'LAC', 'LAL', 'MEM', 'MIA', 'MIL', 'MIN', 'NOP', 'NYK', 
     'OKC', 'ORL', 'PHI', 'PHX', 'POR', 'SAC', 'SAS', 'TOR', 'UTA', 'WAS'
 ]
-#teams=['ATL','MIA']
+#teams=['HOU','LAL']
 # Dictionary to store DataFrames for each team
 team_dfs = {}
     
@@ -513,8 +533,8 @@ for team in teams:
             
         else:
             print(f"Failed to fetch data: {response.status_code}")
-        time.sleep(.5)
-    time.sleep(.5)
+        time.sleep(1.2)
+    time.sleep(1.2)
     teamdf = pd.DataFrame(all_rows)
 
     old_df=missing.copy()
@@ -523,14 +543,14 @@ for team in teams:
 
     # Example usage
     old_df['GAMEID']='00'+old_df['GAMEID'].astype(str)
-    old_df.sort_values(by='GAMEDATE',inplace=True)
-    new_df.sort_values(by='timeActual',inplace=True)
+    old_df.sort_values(by=['GAMEDATE','end_seconds'],inplace=True)
+    new_df.sort_values(by=['game_id','actionNumber'],inplace=True)
     new_df.dropna(subset='teamId',inplace=True)
     new_df['teamId']=new_df['teamId'].astype(int)
     teamid=old_df['TEAM_ID'].iloc[0]
     if team == 'ATL':
         new_df.to_csv('ATL_missing1.csv',index=False)
-    new_df=new_df[new_df.teamId==teamid]
+    #new_df=new_df[new_df.teamId==teamid]
     if team == 'ATL':
         new_df.to_csv('ATL_missing2.csv',index=False)
     result_df = map_action_numbers(old_df, new_df)
@@ -553,7 +573,7 @@ data=pd.concat(result_frames)
 data
 
 
-# In[2]:
+# In[95]:
 
 
 data.sort_values(by=['GAMEDATE','GAMEID','PERIOD','start_seconds'],inplace=True)
@@ -564,7 +584,7 @@ data['GAMEID'] = data['GAMEID'].str.replace(r'^00', '', regex=True)
 data['GAMEID']= data['GAMEID'].astype(int)
 
 
-# In[3]:
+# In[96]:
 
 
 import pandas as pd
@@ -643,7 +663,7 @@ for team in teams:
  
 
 
-# In[4]:
+# In[97]:
 
 
 import pandas as pd
