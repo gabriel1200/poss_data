@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[2]:
+# In[4]:
 
 
 import pandas as pd
@@ -430,7 +430,7 @@ for team in teams:
     result_frames.append(new_df)
 
 
-# In[ ]:
+# In[5]:
 
 
 all_missing=pd.concat(result_frames)
@@ -453,19 +453,10 @@ new.drop_duplicates(inplace=True)
 
 print('new missing csvs length')
 print(len(new))
-#all_missing.to_csv('all_missing.csv',index=False)
+new.to_csv('all_missing.csv',index=False)
 
 
-# In[1]:
-
-
-import pandas as pd
-
-test=pd.read_csv('all_missing.csv')
-test.game_id
-
-
-# In[4]:
+# In[6]:
 
 
 # result = pd.DataFrame({'actionNumber': [1, 2, 3, None, 5, None, 7], 'DESCRIPTION': ['A', 'B', 'C', 'D', 'E', 'F', 'G']})

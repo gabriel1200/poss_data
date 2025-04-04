@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
+# In[1]:
 
 
 import pandas as pd
@@ -585,7 +585,7 @@ data=pd.concat(result_frames)
 data
 
 
-# In[95]:
+# In[2]:
 
 
 data.sort_values(by=['GAMEDATE','GAMEID','PERIOD','start_seconds'],inplace=True)
@@ -596,7 +596,7 @@ data['GAMEID'] = data['GAMEID'].str.replace(r'^00', '', regex=True)
 data['GAMEID']= data['GAMEID'].astype(int)
 
 
-# In[96]:
+# In[3]:
 
 
 import pandas as pd
@@ -675,7 +675,7 @@ for team in teams:
  
 
 
-# In[97]:
+# In[15]:
 
 
 import pandas as pd
@@ -684,11 +684,17 @@ import pandas as pd
 action_map = pd.read_csv('nba_ping_results_final.csv')
 
 # Filter by game_id
-action_map = action_map[action_map.game_id == 22401062]
+action_map = action_map[action_map.game_id == 22401113]
 
 # Adjust display settings
 pd.set_option('display.max_colwidth', None)  # Ensure full URL display
 
 # Display the desired columns
 print(action_map.head(40)[['description', 'url']])
+
+
+# In[ ]:
+
+
+
 
