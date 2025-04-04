@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[94]:
+# In[ ]:
 
 
 import pandas as pd
@@ -256,10 +256,10 @@ def map_action_numbers(old_df, new_df, description_weight=0.7, time_weight=0.1, 
                 potential_matches['actionNumber'] > last_action_numbers[game_id]
             ]
                   
-        if row['GAMEID'] == '0022401096':
+        '''if row['GAMEID'] == '0022401096':
             if row['PERIOD']==1:
                 pass
-                print(potential_matches)
+        '''
                             
         if potential_matches.empty:
             return np.nan
@@ -499,6 +499,12 @@ for team in teams:
 
 
     # API endpoint
+    already_scraped=missing_frame[missing_frame.game_id.isin(missing_url_games)]
+
+
+    missing_url_games = [game for game in missing_url_games if game not in already_scraped.game_id.unique()]
+    print('already scraped')
+    print(missing_url_games)
 
     all_rows = []
 
@@ -535,7 +541,13 @@ for team in teams:
             print(f"Failed to fetch data: {response.status_code}")
         time.sleep(1.2)
     time.sleep(1.2)
+    
     teamdf = pd.DataFrame(all_rows)
+    print(len(already_scraped))
+    print(len(teamdf))
+    
+    teamdf=pd.concat([already_scraped,teamdf])
+    print(len(teamdf))
 
     old_df=missing.copy()
 

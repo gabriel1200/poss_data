@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[2]:
 
 
 import pandas as pd
@@ -337,6 +337,19 @@ teams = [
 
 # Dictionary to store DataFrames for each team
 team_dfs = {}
+if os.path.exists('all_missing.csv'):
+    print("Loading existing all_missing.csv")
+    saved_misses = pd.read_csv('all_missing.csv')
+    # Extract game_ids from saved_misses to avoid re-scraping
+    already_scraped_game_ids = set(saved_misses['game_id'].astype(str).unique()) if 'game_id' in saved_misses.columns else set()
+    print(f"Found {len(already_scraped_game_ids)} already scraped game IDs")
+else:
+    print("No existing all_missing.csv found, will create new file")
+    saved_misses = pd.DataFrame()
+    already_scraped_game_ids = set()
+
+# Dictionary to track all new game IDs that need scraping
+print(already_scraped_game_ids)
 
 # Loop through each team and read the CSV file
 for team in teams:
@@ -357,7 +370,9 @@ for team in teams:
     # Filter out GAME_IDs without any non-NaN URLs
     missing_url_games = all_df[~all_df['GAMEID'].isin(valid_games)]['GAMEID'].unique()
 
+    missing_url_games=[game for game in missing_url_games if str(game) not in already_scraped_game_ids]
     print("GAME_IDs without at least one non-NaN URL:")
+
     print(missing_url_games)
 
 
@@ -408,31 +423,46 @@ for team in teams:
     # Example usage
     old_df['GAMEID']='00'+old_df['GAMEID'].astype(str)
     old_df.sort_values(by='GAMEDATE',inplace=True)
-    new_df.sort_values(by='timeActual',inplace=True)
+    if len(new_df)>0:
+        new_df.sort_values(by='timeActual',inplace=True)
 
 
     result_frames.append(new_df)
 
 
-# In[2]:
+# In[ ]:
 
 
 all_missing=pd.concat(result_frames)
 
 print(all_missing.columns)
 
-
-# In[3]:
-
-
 # Convert unhashable columns to strings
 all_missing = all_missing.applymap(lambda x: str(x) if isinstance(x, list) else x)
 print(len(all_missing))
 # Drop duplicates
 all_missing = all_missing.drop_duplicates()
-print(len(all_missing))
+old = pd.read_csv('all_missing.csv')
+print('Old missing csvs length')
+print(len(old))
 
-all_missing.to_csv('all_missing.csv',index=False)
+
+new=pd.concat([old,all_missing])
+new.drop_duplicates(inplace=True)
+
+
+print('new missing csvs length')
+print(len(new))
+#all_missing.to_csv('all_missing.csv',index=False)
+
+
+# In[1]:
+
+
+import pandas as pd
+
+test=pd.read_csv('all_missing.csv')
+test.game_id
 
 
 # In[4]:
