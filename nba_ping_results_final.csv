@@ -117030,3 +117030,1077 @@ game_id,action_number,status,description,url,cached
 22401139,719,Success,C. Paul Free Throw 2 of 2 (8 PTS),https://videos.nba.com/nba/pbp/media/2025/04/06/0022401139/719/94687937-7690-bef6-16ba-9d19254e0aaf_320x180.mp4,True
 22401139,720,Success,Period End,https://videos.nba.com/nba/pbp/media/2025/04/06/0022401139/720/502ed0d9-4a22-53bf-a2c4-ffc102b06d73_320x180.mp4,True
 22401139,721,Success,Game End,,True
+22401144,2,Success,Period Start,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/2/5159e978-317d-8fb8-9f61-681723cd15bb_320x180.mp4,True
+22401144,4,Success,Jump Ball J. Duren vs. D. Sabonis: Tip to D. Schröder,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/4/1851a866-fd91-2ac6-87bb-4ffb94291294_320x180.mp4,True
+22401144,7,Success,C. Cunningham driving Layup (2 PTS) (J. Duren 1 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/7/37e69fe8-5644-4008-b46e-3b7b4dccaa77_320x180.mp4,True
+22401144,9,Success,D. DeRozan lost ball TURNOVER (1 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/9/868a1609-9bac-1bfb-177e-f51e8deea69a_320x180.mp4,True
+22401144,10,Success,A. Thompson STEAL (1 STL),,True
+22401144,11,Success,A. Thompson running Layup (2 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/11/ac5aa577-4829-2edf-9fed-c5893036b8ae_320x180.mp4,True
+22401144,12,Success,C. Cunningham shooting personal FOUL (1 PF) (DeRozan 2 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/12/27c30381-cd5a-662d-f2b0-44e0567f0994_320x180.mp4,True
+22401144,14,Success,D. DeRozan Free Throw 1 of 2 (1 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/14/540fb65f-a7a2-334b-bc7f-e42bcbd92ba7_320x180.mp4,True
+22401144,15,Success,D. DeRozan Free Throw 2 of 2 (2 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/15/610e34c4-23f2-ffc4-28b9-620eaba318a5_320x180.mp4,True
+22401144,16,Success,C. Cunningham 16' pullup Jump Shot (4 PTS) (J. Duren 2 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/16/56397b96-a178-242e-652a-03c98be35549_320x180.mp4,True
+22401144,18,Success,T. Lyles 26' 3PT  (3 PTS) (D. DeRozan 1 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/18/dcf1ebda-1f20-4661-f8ec-aa9c655f35da_320x180.mp4,True
+22401144,20,Success,MISS T. Hardaway Jr. 17' pullup Shot,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/20/81f2b35a-45d1-07d6-51c4-f5eecbe066a6_320x180.mp4,True
+22401144,21,Success,D. Sabonis REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/21/f620407d-c106-047b-70e6-fd2d3b4157d7_320x180.mp4,True
+22401144,22,Success,MISS D. DeRozan 26' 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/22/e8494064-3e01-48fe-bc68-8d51c2731a04_320x180.mp4,True
+22401144,23,Success,J. Duren REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/23/1ea28eab-48f6-81b3-9e65-9a2a4fc62022_320x180.mp4,True
+22401144,24,Success,C. Cunningham 11' Jump Shot (6 PTS) (J. Duren 3 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/24/819072b1-f18d-25d1-fb6c-660e1c5a70a1_320x180.mp4,True
+22401144,26,Success,Z. LaVine cutting DUNK (2 PTS) (D. Sabonis 1 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/26/a7d031c3-076e-a148-1c1a-296bc933a928_320x180.mp4,True
+22401144,28,Success,A. Thompson driving floating bank Jump Shot (4 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/28/e5993591-d893-e0ff-0447-c4b5f9dc59cb_320x180.mp4,True
+22401144,29,Success,MISS Z. LaVine 16' step back Shot,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/29/0bb32f10-3b14-4106-cf24-a1ddd72d9c9c_320x180.mp4,True
+22401144,30,Success,K. Ellis REBOUND (Off:1 Def:0),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/30/0609dbdd-f371-533c-ea0c-d5fa45210980_320x180.mp4,True
+22401144,31,Success,Z. LaVine 27' 3PT step back (5 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/31/04ac85d4-2439-f0b3-42b4-bb0fa5c38665_320x180.mp4,True
+22401144,32,Success,J. Duren 6' floating Jump Shot (2 PTS) (C. Cunningham 1 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/32/769c51dc-e1de-481e-3501-d39ca59a1500_320x180.mp4,True
+22401144,34,Success,D. Sabonis driving Layup (2 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/34/0b6c8edd-21ef-dbed-a1a7-5e4c9c9f5e82_320x180.mp4,True
+22401144,35,Success,T. Hardaway Jr. 26' 3PT  (3 PTS) (A. Thompson 1 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/35/20ce4b7c-2239-18ea-e54f-8decbaa8b887_320x180.mp4,True
+22401144,37,Success,D. DeRozan driving Layup (4 PTS) (D. Sabonis 2 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/37/0562e172-36f9-682c-33d2-fcdf1e7ddeb4_320x180.mp4,True
+22401144,39,Success,MISS C. Cunningham Layup - blocked,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/39/dd252256-b33c-387a-907f-75ffe17549e4_320x180.mp4,True
+22401144,40,Success,D. Sabonis BLOCK (1 BLK),,True
+22401144,41,Success,TEAM offensive REBOUND,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/41/33f2e406-ce4f-71c3-0661-160214638eb1_320x180.mp4,True
+22401144,43,Success,SUB out: D. DeRozan,,True
+22401144,44,Success,SUB in: M. Monk,,True
+22401144,45,Success,MISS D. Schröder 25' 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/45/de75d9c8-dc2c-a223-334a-aac9be5f53eb_320x180.mp4,True
+22401144,46,Success,J. Duren REBOUND (Off:1 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/46/36436526-bba2-924d-ad0d-b19a99228e04_320x180.mp4,True
+22401144,47,Success,J. Duren reverse Layup (4 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/47/4820900a-db15-3189-ce1a-be0fbe32f085_320x180.mp4,True
+22401144,48,Success,D. Sabonis driving Layup (4 PTS) (M. Monk 1 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/48/c4dd5abc-9639-eb30-1e5e-79244dfa0b08_320x180.mp4,True
+22401144,50,Success,K. Ellis personal FOUL (1 PF),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/50/799960bd-e903-d64a-2243-7e07ef17debd_320x180.mp4,True
+22401144,52,Success,T. Hardaway Jr. 11' driving floating Jump Shot (5 PTS) (C. Cunningham 2 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/52/0d18248e-dfbb-96a0-5e60-f129e5f3a136_320x180.mp4,True
+22401144,54,Success,M. Monk shooting personal FOUL (1 PF) (Hardaway Jr. 1 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/54/23242b3a-e96c-1d0b-da73-fc090284bd8f_320x180.mp4,True
+22401144,57,Success,T. Hardaway Jr. Free Throw 1 of 1 (6 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/57/ff9fdfae-4b92-6ee6-aabe-bddad3bb3a03_320x180.mp4,True
+22401144,58,Success,M. Monk bad pass TURNOVER (1 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/58/896f1e5e-6c1b-8441-dd5c-d3f6294fa4bd_320x180.mp4,True
+22401144,59,Success,C. Cunningham STEAL (1 STL),,True
+22401144,60,Success,T. Hardaway Jr. cutting Layup (8 PTS) (J. Duren 4 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/60/51177aec-f029-c55f-36ac-79bae2221bb8_320x180.mp4,True
+22401144,62,Success,MISS D. Sabonis Layup - blocked,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/62/3c267726-fafa-1cb5-9790-eb3268fa35f9_320x180.mp4,True
+22401144,63,Success,J. Duren BLOCK (1 BLK),,True
+22401144,64,Success,T. Lyles REBOUND (Off:1 Def:0),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/64/dd259415-7f6b-1249-cc6e-5c963cfb6cc5_320x180.mp4,True
+22401144,65,Success,T. Lyles putback Layup (5 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/65/94de0c31-cd90-3621-96d8-f857436b9822_320x180.mp4,True
+22401144,66,Success,T. Hardaway Jr. 24' 3PT  (11 PTS) (D. Schröder 1 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/66/9fc9254d-aafc-8b55-0ef8-4d9bcfc0c22e_320x180.mp4,True
+22401144,68,Success,D. Sabonis bad pass out-of-bounds TURNOVER (1 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/68/3bae3367-ac67-19ee-d375-e9fc13318e26_320x180.mp4,True
+22401144,69,Success,DET Timeout,,True
+22401144,70,Success,SUB out: D. Schröder,,True
+22401144,71,Success,SUB in: M. Beasley,,True
+22401144,72,Success,A. Thompson floating Jump Shot (6 PTS) (T. Hardaway Jr. 1 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/72/49a7cce5-922f-f057-011b-4a03be3847dd_320x180.mp4,True
+22401144,74,Success,MISS M. Monk driving Layup,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/74/2ceaea93-7f2e-9a47-d149-e9d52aaf7879_320x180.mp4,True
+22401144,75,Success,A. Thompson REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/75/2197ae7d-dfe3-2285-8d06-4cde2e11ca8c_320x180.mp4,True
+22401144,76,Success,MISS C. Cunningham 26' running 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/76/b74c4405-f4d6-e8a6-b963-07419caa4c1e_320x180.mp4,True
+22401144,77,Success,D. Sabonis REBOUND (Off:0 Def:2),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/77/cb4eef43-026c-ed96-f6b6-010f77d178a9_320x180.mp4,True
+22401144,78,Success,Z. LaVine 27' 3PT  (8 PTS) (D. Sabonis 3 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/78/13fb776b-3ab0-67a4-ebfa-bc164d5f7c08_320x180.mp4,True
+22401144,79,Success,MISS M. Beasley 25' 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/79/f2c14975-26c5-f021-a1a5-5e3beb702c87_320x180.mp4,True
+22401144,80,Success,K. Ellis REBOUND (Off:1 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/80/3405bc3c-de67-e4db-3021-c0c4f925475b_320x180.mp4,True
+22401144,81,Success,MISS Z. LaVine 23' step back Shot,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/81/13fdae1f-0c96-adfb-b031-f2529f7a608d_320x180.mp4,True
+22401144,82,Success,J. Duren REBOUND (Off:1 Def:2),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/82/c9d2ab4f-1786-eca0-10a6-ebaf061856d9_320x180.mp4,True
+22401144,83,Success,C. Cunningham 15' pullup Jump Shot (8 PTS) (J. Duren 5 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/83/d573b8f6-7fbc-18ef-8b74-0ef277105cf2_320x180.mp4,True
+22401144,84,Success,M. Monk 8' pullup Jump Shot (2 PTS) (D. Sabonis 4 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/84/93f53464-9997-9255-355b-fda5ff383240_320x180.mp4,True
+22401144,86,Success,MISS A. Thompson driving floating Shot,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/86/8a98d6cd-ba29-6e21-323a-e085bacb8292_320x180.mp4,True
+22401144,87,Success,D. Sabonis REBOUND (Off:0 Def:3),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/87/2cd70b76-ae96-8f41-2ecf-a98103ed556d_320x180.mp4,True
+22401144,88,Success,D. Sabonis bad pass TURNOVER (2 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/88/35b17780-f026-1e8a-072e-b787a6956821_320x180.mp4,True
+22401144,89,Success,A. Thompson STEAL (2 STL),,True
+22401144,90,Success,A. Thompson driving DUNK (8 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/90/4c5bb43c-94dd-d7dd-e104-c92c2adad114_320x180.mp4,True
+22401144,91,Success,A. Thompson personal FOUL (1 PF),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/91/7855f041-679b-d4da-f552-4f82e6c23cf4_320x180.mp4,True
+22401144,93,Success,SUB out: J. Duren,,True
+22401144,94,Success,SUB out: C. Cunningham,,True
+22401144,95,Success,SUB out: A. Thompson,,True
+22401144,96,Success,SUB out: Z. LaVine,,True
+22401144,97,Success,SUB out: K. Ellis,,True
+22401144,98,Success,SUB in: I. Stewart,,True
+22401144,99,Success,SUB in: S. Fontecchio,,True
+22401144,100,Success,SUB in: D. Schröder,,True
+22401144,101,Success,SUB in: D. Carter,,True
+22401144,102,Success,SUB in: J. Valančiūnas,,True
+22401144,117,Success,SUB out: D. Sabonis,,True
+22401144,118,Success,SUB in: D. DeRozan,,True
+22401144,103,Success,MISS J. Valančiūnas 17' Jump Shot,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/103/6246d2e7-0840-e1d5-2f21-0f7bfdf87960_320x180.mp4,True
+22401144,104,Success,S. Fontecchio REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/104/b42fc4df-7ce6-fa72-8c17-e27860b9ca00_320x180.mp4,True
+22401144,105,Success,MISS S. Fontecchio 26' 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/105/eb362215-0d48-c8c5-4027-6676c60b041d_320x180.mp4,True
+22401144,106,Success,J. Valančiūnas REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/106/52740117-54cd-e29d-1304-ff1cbb9795dd_320x180.mp4,True
+22401144,107,Success,MISS M. Monk 27' running pullup 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/107/5637edb2-3349-4241-4999-7841bd52cdb3_320x180.mp4,True
+22401144,108,Success,J. Valančiūnas REBOUND (Off:1 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/108/05030455-ab10-a991-127b-f38fac7387e7_320x180.mp4,True
+22401144,109,Success,J. Valančiūnas turnaround Hook (2 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/109/0b7a2e05-7e77-cd0d-7f6a-7745530ea30a_320x180.mp4,True
+22401144,112,Success,MISS I. Stewart 6' pullup Shot,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/112/e0dc7866-772e-e9d8-cf05-a38893943779_320x180.mp4,True
+22401144,113,Success,J. Valančiūnas REBOUND (Off:1 Def:2),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/113/3fa0e576-43f1-99d4-8dd3-5a210696514b_320x180.mp4,True
+22401144,114,Success,D. DeRozan 14' turnaround Jump Shot (6 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/114/5f2750d6-b5f9-b2d6-2a61-034fff674e74_320x180.mp4,True
+22401144,115,Success,DET Timeout,,True
+22401144,123,Success,SUB in: I. Jones,,True
+22401144,122,Success,SUB in: R. Holland II,,True
+22401144,120,Success,SUB out: T. Hardaway Jr.,,True
+22401144,121,Success,SUB out: T. Lyles,,True
+22401144,125,Success,MISS M. Beasley 26' pullup 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/125/131dd135-f848-014b-43be-b0026f87d8c4_320x180.mp4,True
+22401144,126,Success,J. Valančiūnas REBOUND (Off:1 Def:3),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/126/b3f15ba2-1e39-c479-6c80-2d18f2343ce8_320x180.mp4,True
+22401144,127,Success,MISS D. Carter 7' driving Layup,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/127/bfd7d220-2abc-c71b-38e8-efef4684fc6d_320x180.mp4,True
+22401144,128,Success,J. Valančiūnas REBOUND (Off:2 Def:3),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/128/99b2c0b2-6ccf-7e13-f141-ef43b5cc680e_320x180.mp4,True
+22401144,168,Success,MISS J. Valančiūnas tip Layup,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/168/c8b34f5f-42e4-8786-8773-2b2171ca50a7_320x180.mp4,True
+22401144,169,Success,J. Valančiūnas REBOUND (Off:3 Def:3),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/169/d6ac93d3-a29e-1c83-e23a-65858aa96827_320x180.mp4,True
+22401144,222,Success,I. Stewart BLOCK (1 BLK),,True
+22401144,129,Success,MISS J. Valančiūnas tip Layup - blocked,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/129/0b390fbf-f09e-0802-788f-7a6c97c087c7_320x180.mp4,True
+22401144,130,Success,J. Valančiūnas REBOUND (Off:4 Def:3),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/130/9203ec9e-b556-214f-8e36-02560fbea46f_320x180.mp4,True
+22401144,131,Success,I. Stewart shooting personal FOUL (1 PF) (Valančiūnas 2 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/131/3f9807f0-4851-d955-774e-97562ea3fb21_320x180.mp4,True
+22401144,133,Success,J. Valančiūnas Free Throw 1 of 2 (3 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/133/0bd6cfc7-e4e8-28fa-d492-5bcc749ae7f6_320x180.mp4,True
+22401144,134,Success,J. Valančiūnas Free Throw 2 of 2 (4 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/134/2939beca-b56d-c60b-874d-d7c9b76167e8_320x180.mp4,True
+22401144,135,Success,J. Valančiūnas shooting personal FOUL (1 PF) (Stewart 2 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/135/8eaa3ce7-6f61-edac-81e4-a55a40b66200_320x180.mp4,True
+22401144,137,Success,I. Stewart Free Throw 1 of 2 (1 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/137/4ee6d79d-d214-c50f-c3d2-f343b89920b0_320x180.mp4,True
+22401144,140,Success,MISS I. Stewart Free Throw 2 of 2,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/140/da62b560-d8e4-4a26-9b7e-4cf7105d0cb9_320x180.mp4,True
+22401144,138,Success,SUB out: M. Monk,,True
+22401144,139,Success,SUB in: Z. LaVine,,True
+22401144,141,Success,J. Valančiūnas REBOUND (Off:4 Def:4),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/141/ecc9dacf-328c-dff9-1c6f-f09105c685ea_320x180.mp4,True
+22401144,142,Success,Z. LaVine 10' pullup Jump Shot (10 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/142/9d47b4f1-3ea4-5143-94bc-86a7a094c928_320x180.mp4,True
+22401144,143,Success,D. Schröder shooting personal FOUL (1 PF) (LaVine 1 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/143/8814fb6f-1ece-ec2e-088a-294359ba7808_320x180.mp4,True
+22401144,145,Success,Z. LaVine Free Throw 1 of 1 (11 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/145/cf10e869-5ad0-2da8-e643-d417bd47bac6_320x180.mp4,True
+22401144,146,Success,MISS I. Stewart turnaround bank Hook,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/146/301b3d37-d8c5-8004-f876-49503e46fdef_320x180.mp4,True
+22401144,147,Success,I. Jones REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/147/924b531e-59d8-7c77-8368-879779461fd7_320x180.mp4,True
+22401144,148,Success,M. Beasley shooting personal FOUL (1 PF) (DeRozan 2 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/148/10d230d5-965b-598f-2fdf-4e1f8dfd141c_320x180.mp4,True
+22401144,150,Success,D. DeRozan Free Throw 1 of 2 (7 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/150/ef93027e-0d03-e7a6-fb21-615fcc584126_320x180.mp4,True
+22401144,151,Success,D. DeRozan Free Throw 2 of 2 (8 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/151/03dba9a5-5b3c-8e3b-c4ca-bed7cdb2b7ec_320x180.mp4,True
+22401144,152,Success,D. Carter personal FOUL (1 PF) (Schröder 2 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/152/dcabfa50-aaba-8f66-9472-b0b278148707_320x180.mp4,True
+22401144,155,Success,D. Schröder Free Throw 1 of 2 (1 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/155/96d57dc2-7050-0684-d279-152defa57184_320x180.mp4,True
+22401144,156,Success,D. Schröder Free Throw 2 of 2 (2 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/156/d461e129-096c-f2e9-e085-8fb304daa666_320x180.mp4,True
+22401144,157,Success,D. DeRozan 6' driving floating Jump Shot (10 PTS) (D. Carter 1 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/157/4ce538e2-14e6-78f5-a94b-7098b16424c9_320x180.mp4,True
+22401144,158,Success,M. Beasley 3PT  (3 PTS) (R. Holland II 1 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/158/9513422a-d73c-04e8-fe73-fb352c4403f4_320x180.mp4,True
+22401144,160,Success,MISS Z. LaVine driving floating bank Shot - blocked,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/160/941d38c4-8af8-db0d-4522-3cb91684a700_320x180.mp4,True
+22401144,323,Success,I. Stewart BLOCK (2 BLK),,True
+22401144,161,Success,J. Valančiūnas REBOUND (Off:5 Def:4),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/161/eb52f3b8-46e3-106b-457d-d801ca37b196_320x180.mp4,True
+22401144,162,Success,R. Holland II shooting personal FOUL (1 PF) (Valančiūnas 2 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/162/b0c2e468-3e65-41f5-1710-b4885546772e_320x180.mp4,True
+22401144,164,Success,J. Valančiūnas Free Throw 1 of 2 (5 PTS),,True
+22401144,165,Success,SUB out: D. DeRozan,,True
+22401144,166,Success,SUB in: K. Ellis,,True
+22401144,167,Success,J. Valančiūnas Free Throw 2 of 2 (6 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/167/17f79f8f-6ed9-ea9e-e013-1fe0516b004c_320x180.mp4,True
+22401144,170,Success,MISS M. Beasley 32' pullup 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/170/43d956e5-bd8d-f9f5-b6c6-fb50be046b03_320x180.mp4,True
+22401144,171,Success,Z. LaVine REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/171/02caa6b1-7286-2d69-98a6-443fcbf60e2c_320x180.mp4,True
+22401144,172,Success,Period End,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/172/d89769a1-729b-c9fd-dbbf-26d4644cd3d8_320x180.mp4,True
+22401144,173,Success,SUB out: D. Schröder,,True
+22401144,174,Success,SUB out: S. Fontecchio,,True
+22401144,175,Success,SUB out: K. Ellis,,True
+22401144,176,Success,SUB in: A. Thompson,,True
+22401144,177,Success,SUB in: M. Sasser,,True
+22401144,178,Success,SUB in: D. DeRozan,,True
+22401144,179,Success,Period Start,,True
+22401144,180,Success,J. Valančiūnas bad pass TURNOVER (1 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/180/b8184144-a312-e11d-8ae2-06f48d0db161_320x180.mp4,True
+22401144,181,Success,R. Holland II STEAL (1 STL),,True
+22401144,182,Success,R. Holland II running DUNK (2 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/182/1177dc56-5723-d117-fa76-c939180a3567_320x180.mp4,True
+22401144,183,Success,J. Valančiūnas shooting personal FOUL (2 PF) (Holland II 1 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/183/835ce197-2263-3ebe-9527-e3a78fafcff7_320x180.mp4,True
+22401144,185,Success,R. Holland II Free Throw 1 of 1 (3 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/185/c9a26e5c-4c37-1ec7-339c-433cffa18965_320x180.mp4,True
+22401144,186,Success,R. Holland II shooting personal FOUL (2 PF) (DeRozan 2 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/186/be8957c0-0d0a-89d4-129b-ae05f143c9c0_320x180.mp4,True
+22401144,188,Success,MISS D. DeRozan Free Throw 1 of 2,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/188/4723a2e5-ef2f-5c78-529b-1f84820707e4_320x180.mp4,True
+22401144,189,Success,TEAM offensive REBOUND,,True
+22401144,190,Success,D. DeRozan Free Throw 2 of 2 (11 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/190/30d71825-ef0b-7db2-8e15-a9f0bb06da75_320x180.mp4,True
+22401144,191,Success,M. Beasley 26' 3PT  (6 PTS) (M. Sasser 1 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/191/78b03cc7-2395-a037-5cb0-d4f7172bd683_320x180.mp4,True
+22401144,193,Success,MISS D. DeRozan 7' turnaround Shot,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/193/b6dea0be-e0fc-e39b-fc77-91d8a3b131f1_320x180.mp4,True
+22401144,194,Success,A. Thompson REBOUND (Off:0 Def:2),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/194/d4e6b55b-bc4e-b237-e87c-c583e4b9891e_320x180.mp4,True
+22401144,195,Success,I. Stewart 25' 3PT running (4 PTS) (A. Thompson 2 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/195/8fc4bfc9-4074-d5ff-97bb-bdd97326c282_320x180.mp4,True
+22401144,679,Success,MISS D. Carter 7' Hook,,True
+22401144,680,Success,TEAM offensive REBOUND,,True
+22401144,197,Success,I. Stewart loose ball personal FOUL (2 PF),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/197/35a5b9a0-eb93-bd36-f576-0e25559716dd_320x180.mp4,True
+22401144,199,Success,SUB out: J. Valančiūnas,,True
+22401144,200,Success,SUB in: D. Sabonis,,True
+22401144,201,Success,SUB out: I. Jones,,True
+22401144,202,Success,SUB in: T. Lyles,,True
+22401144,203,Success,MISS D. DeRozan 27' 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/203/72720485-d1ad-0ebf-79d4-046fd18c204d_320x180.mp4,True
+22401144,204,Success,I. Stewart REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/204/f13835f0-bf6c-7418-0451-22fb6babac2a_320x180.mp4,True
+22401144,205,Success,D. DeRozan personal FOUL (1 PF),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/205/12c3e21e-2d2c-ac3a-7f03-56989984c017_320x180.mp4,True
+22401144,207,Success,MISS M. Beasley 25' pullup 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/207/b7223665-e069-6676-0311-5b3d46ee0f65_320x180.mp4,True
+22401144,208,Success,TEAM offensive REBOUND,,True
+22401144,209,Success,D. Sabonis loose ball personal FOUL (1 PF),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/209/55df7d78-b98e-6ccf-1319-9512036aae91_320x180.mp4,True
+22401144,212,Success,MISS M. Beasley 25' 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/212/fb048a1a-4838-4917-9344-1d0a57932af7_320x180.mp4,True
+22401144,213,Success,M. Sasser REBOUND (Off:1 Def:0),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/213/d5e6d00c-e664-36a2-b859-c7b4003037c5_320x180.mp4,True
+22401144,214,Success,A. Thompson driving Layup (10 PTS) (M. Sasser 2 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/214/c559aea8-5340-dcf8-c4ad-cc64046f70ca_320x180.mp4,True
+22401144,216,Success,D. DeRozan bank Jump Shot (13 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/216/e7ecdb9e-32a8-dce1-eee9-e4979008475f_320x180.mp4,True
+22401144,217,Success,A. Thompson shooting personal FOUL (2 PF) (DeRozan 1 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/217/bb170e16-bdb0-6758-0180-024817ce2f50_320x180.mp4,True
+22401144,219,Success,SUB out: D. Carter,,True
+22401144,220,Success,SUB in: K. Ellis,,True
+22401144,223,Success,DET Timeout,,True
+22401144,224,Success,D. DeRozan Free Throw 1 of 1 (14 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/224/e02b1143-2c1e-6c48-ed84-af1c7928be94_320x180.mp4,True
+22401144,225,Success,M. Sasser driving Layup (2 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/225/2d46f6fc-be3e-c140-2e45-a7b181f25565_320x180.mp4,True
+22401144,226,Success,D. Sabonis shooting personal FOUL (2 PF) (Sasser 1 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/226/7f991e21-cb12-f57f-8b99-5566aada5b54_320x180.mp4,True
+22401144,228,Success,M. Sasser Free Throw 1 of 1 (3 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/228/7017773a-33bc-2b5e-3ee7-f7ffef1274e6_320x180.mp4,True
+22401144,229,Success,MISS Z. LaVine 20' pullup Shot,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/229/b3873f10-9f4e-c6c1-4ac3-62d4753cf872_320x180.mp4,True
+22401144,230,Success,D. Sabonis REBOUND (Off:1 Def:3),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/230/5ae34e1b-c2f8-0673-dfe4-afe26d17f949_320x180.mp4,True
+22401144,231,Success,MISS D. Sabonis tip Layup,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/231/cc30a444-7a9f-6776-d8da-739fc174fb62_320x180.mp4,True
+22401144,232,Success,R. Holland II REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/232/8f94fed1-f4f8-3326-855f-f75173ad6ca7_320x180.mp4,True
+22401144,234,Success,D. DeRozan BLOCK (1 BLK),,True
+22401144,233,Success,MISS R. Holland II running Layup - blocked,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/233/2cca0de6-2ed9-32b5-a217-77b30498b6de_320x180.mp4,True
+22401144,235,Success,TEAM offensive REBOUND,,True
+22401144,236,Success,MISS M. Beasley 26' pullup 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/236/b3578edb-002b-8f9c-005f-f3c327279adf_320x180.mp4,True
+22401144,237,Success,D. DeRozan REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/237/2adce6af-7f1d-2e4f-3a33-3fe0a04bdbc7_320x180.mp4,True
+22401144,239,Success,SAC shot clock Team TURNOVER,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/239/c216542d-e4c6-3864-6f0c-ff127b79aa30_320x180.mp4,True
+22401144,240,Success,I. Stewart Layup (6 PTS) (M. Sasser 3 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/240/efdcf7b5-1dbe-0757-6d2d-a5416f8ad475_320x180.mp4,True
+22401144,242,Success,MISS T. Lyles 26' 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/242/6a71c0a5-7698-0920-de72-6408c3008e91_320x180.mp4,True
+22401144,243,Success,I. Stewart REBOUND (Off:0 Def:2),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/243/0639b20f-86f7-cdf7-d5c3-3ba4afa0f9fd_320x180.mp4,True
+22401144,244,Success,M. Beasley 26' 3PT  (9 PTS) (A. Thompson 3 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/244/6da3a71e-161e-70a4-59e3-613becff244b_320x180.mp4,True
+22401144,246,Success,SAC Timeout,,True
+22401144,247,Success,SUB out: R. Holland II,,True
+22401144,248,Success,SUB in: C. Cunningham,,True
+22401144,249,Success,D. Sabonis driving Layup (6 PTS) (Z. LaVine 1 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/249/bfe10931-a474-9f2c-a5c4-98ff9ffb6dac_320x180.mp4,True
+22401144,251,Success,MISS I. Stewart 25' step back 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/251/01f94d78-32b9-53a6-a249-7a24031c41e6_320x180.mp4,True
+22401144,252,Success,I. Stewart REBOUND (Off:1 Def:2),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/252/c8cadbf2-952b-1c62-e8dd-1851070cfb03_320x180.mp4,True
+22401144,253,Success,M. Sasser 26' 3PT  (6 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/253/a668e711-b718-a5a8-aa20-418c3eb2bdb3_320x180.mp4,True
+22401144,254,Success,M. Sasser shooting personal FOUL (1 PF) (LaVine 2 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/254/2c8f269e-db66-0080-5460-5857b5b63a1e_320x180.mp4,True
+22401144,256,Success,Z. LaVine Free Throw 1 of 2 (12 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/256/e3548fbe-c969-2db9-4fd1-7fc75ce634ec_320x180.mp4,True
+22401144,257,Success,SUB out: M. Beasley,,True
+22401144,258,Success,SUB out: I. Stewart,,True
+22401144,259,Success,SUB out: D. DeRozan,,True
+22401144,260,Success,SUB in: T. Hardaway Jr.,,True
+22401144,261,Success,SUB in: J. Duren,,True
+22401144,262,Success,SUB in: D. McDermott,,True
+22401144,263,Success,Z. LaVine Free Throw 2 of 2 (13 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/263/c26df00a-aad5-978f-dfa9-9a6e371a6b06_320x180.mp4,True
+22401144,265,Success,M. Sasser 6' driving floating Jump Shot (8 PTS) (A. Thompson 4 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/265/efbba4c0-158e-9fb1-10b0-6fb90389b8cb_320x180.mp4,True
+22401144,271,Success,MISS Z. LaVine driving Layup,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/271/7ba9faa7-368a-2baf-e0fb-5bd9c23e31ca_320x180.mp4,True
+22401144,272,Success,D. Sabonis REBOUND (Off:2 Def:3),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/272/e37a9b17-2bcc-06a9-1815-3a5cf8ec04c0_320x180.mp4,True
+22401144,273,Success,D. Sabonis tip Layup (8 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/273/d409bd5b-6b95-9262-3c5f-b27b03c76c32_320x180.mp4,True
+22401144,274,Success,MISS M. Sasser driving Layup,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/274/e061fe5b-589b-2171-4c8a-f03bc894bbd4_320x180.mp4,True
+22401144,275,Success,A. Thompson REBOUND (Off:1 Def:2),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/275/55572500-fb1c-cc7f-c4ad-f3fa421ddbf5_320x180.mp4,True
+22401144,276,Success,MISS A. Thompson tip Layup,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/276/5cef84c3-f038-479e-2534-3ed79dac10cd_320x180.mp4,True
+22401144,277,Success,D. McDermott REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/277/8a91ca25-3c04-cc00-1301-d0b0f46efaf2_320x180.mp4,True
+22401144,278,Success,MISS T. Lyles 28' running 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/278/728602d8-33eb-6849-13ce-09e30d5dbe61_320x180.mp4,True
+22401144,279,Success,J. Duren REBOUND (Off:1 Def:3),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/279/2c0e324c-5a2b-c960-e187-e94aa35aea1b_320x180.mp4,True
+22401144,280,Success,MISS T. Hardaway Jr. 30' 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/280/40153000-12fb-43a3-8e5c-337e3c350d62_320x180.mp4,True
+22401144,281,Success,T. Lyles REBOUND (Off:1 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/281/bca37e6f-2106-744e-97c5-c74c4274bd3f_320x180.mp4,True
+22401144,282,Success,MISS Z. LaVine running Layup,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/282/c55da26a-6121-bba0-b78e-c6a281f12d3f_320x180.mp4,True
+22401144,283,Success,J. Duren REBOUND (Off:1 Def:4),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/283/e756a7c7-95e4-8962-c67e-95b4d57c03b7_320x180.mp4,True
+22401144,284,Success,A. Thompson Layup (12 PTS) (C. Cunningham 3 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/284/eda0c936-d984-5fae-8b07-4ea1623c7c4d_320x180.mp4,True
+22401144,287,Success,SUB out: M. Sasser,,True
+22401144,288,Success,SUB out: Z. LaVine,,True
+22401144,289,Success,SUB in: D. Schröder,,True
+22401144,290,Success,SUB in: D. DeRozan,,True
+22401144,291,Success,D. DeRozan lost ball TURNOVER (2 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/291/71e8e9c6-0e94-b5f7-dfca-ef41051733ad_320x180.mp4,True
+22401144,292,Success,J. Duren STEAL (1 STL),,True
+22401144,293,Success,T. Hardaway Jr. 26' 3PT running (14 PTS) (C. Cunningham 4 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/293/b85015eb-890d-5736-4a3e-e53806a17e9e_320x180.mp4,True
+22401144,295,Success,J. Duren personal FOUL (1 PF) (Sabonis 2 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/295/9574016b-179b-5516-856a-ea287c2f2de8_320x180.mp4,True
+22401144,297,Success,D. Sabonis Free Throw 1 of 2 (9 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/297/9ab589ca-16ba-58fe-7973-d9668fb57b61_320x180.mp4,True
+22401144,298,Success,D. Sabonis Free Throw 2 of 2 (10 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/298/3acb6917-9c53-66aa-b9cc-545fcceef748_320x180.mp4,True
+22401144,299,Success,MISS C. Cunningham driving Layup,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/299/09e9fda4-6875-2339-bc53-e97a9be5e6c8_320x180.mp4,True
+22401144,300,Success,K. Ellis REBOUND (Off:1 Def:2),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/300/f3e563b4-3a18-9081-84db-9aebeba3c831_320x180.mp4,True
+22401144,301,Success,T. Lyles bad pass TURNOVER (1 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/301/6175de68-feac-5114-e051-94ce18d0963e_320x180.mp4,True
+22401144,302,Success,A. Thompson STEAL (3 STL),,True
+22401144,303,Success,MISS T. Hardaway Jr. 25' running 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/303/a91f866d-44f5-8788-0eb4-bf7307621963_320x180.mp4,True
+22401144,304,Success,J. Duren REBOUND (Off:2 Def:4),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/304/d2689379-5ea8-c82e-7035-380934de4305_320x180.mp4,True
+22401144,305,Success,MISS J. Duren floating Shot,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/305/9c9ac9b4-0f12-2b19-14a5-936a42f9567d_320x180.mp4,True
+22401144,306,Success,D. Sabonis REBOUND (Off:2 Def:4),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/306/e070633a-7834-acba-6d8d-24a69eca1f5b_320x180.mp4,True
+22401144,307,Success,D. DeRozan running Layup (16 PTS) (D. Sabonis 5 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/307/d9674ba8-d328-e3cf-4ad4-821b8dc96060_320x180.mp4,True
+22401144,309,Success,T. Lyles shooting personal FOUL (1 PF) (Duren 2 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/309/82b9f049-9c5b-729a-27f6-6b692fcfaaf7_320x180.mp4,True
+22401144,311,Success,J. Duren Free Throw 1 of 2 (5 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/311/06fb8006-3660-352f-41b0-2badb47460bf_320x180.mp4,True
+22401144,312,Success,SUB out: D. McDermott,,True
+22401144,313,Success,SUB in: Z. LaVine,,True
+22401144,314,Success,J. Duren Free Throw 2 of 2 (6 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/314/e796faa4-8a65-9213-9f49-2d6c68d8a296_320x180.mp4,True
+22401144,315,Success,A. Thompson shooting personal FOUL (3 PF) (DeRozan 3 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/315/679321ba-256f-b6b8-4687-300ac37346a8_320x180.mp4,True
+22401144,317,Success,D. DeRozan Free Throw 1 of 3 (17 PTS),,True
+22401144,318,Success,D. DeRozan Free Throw 2 of 3 (18 PTS),,True
+22401144,324,Success,MISS D. DeRozan Free Throw 3 of 3,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/324/b5c18cab-ae96-da54-75c9-98977c1a2551_320x180.mp4,True
+22401144,325,Success,J. Duren REBOUND (Off:2 Def:5),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/325/17f987a4-5363-a234-2e4a-5ca0984014a6_320x180.mp4,True
+22401144,322,Success,SUB in: D. Carter,,True
+22401144,320,Success,SUB out: T. Lyles,,True
+22401144,319,Success,SUB out: A. Thompson,,True
+22401144,321,Success,SUB in: M. Beasley,,True
+22401144,326,Success,MISS C. Cunningham 12' pullup Shot,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/326/f69814a8-5c39-023b-db0a-ded81b590943_320x180.mp4,True
+22401144,327,Success,TEAM defensive REBOUND,,True
+22401144,329,Success,D. DeRozan 13' turnaround Jump Shot (20 PTS) (D. Sabonis 6 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/329/783c193b-a0ff-d5fb-ad7a-5c9422f8ff32_320x180.mp4,True
+22401144,331,Success,MISS C. Cunningham 25' pullup 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/331/f85769f8-7663-0057-f8bd-cfd4e65bef82_320x180.mp4,True
+22401144,332,Success,K. Ellis REBOUND (Off:1 Def:3),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/332/f8031ea0-b128-959a-1912-b6160ab5b583_320x180.mp4,True
+22401144,333,Success,K. Ellis 13' pullup Jump Shot (2 PTS) (D. Sabonis 7 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/333/8a1541f7-99c4-99bc-79a0-054838cd381b_320x180.mp4,True
+22401144,335,Success,M. Beasley driving floating Jump Shot (11 PTS) (J. Duren 6 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/335/9b5afd94-b22d-0855-ee07-386bdc2a95fe_320x180.mp4,True
+22401144,337,Success,D. DeRozan 14' turnaround fadeaway Jump Shot (22 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/337/0cef7645-f824-4022-82cd-86373e795d9b_320x180.mp4,True
+22401144,338,Success,MISS C. Cunningham 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/338/e42da550-2201-bfb6-1873-95707cd0215d_320x180.mp4,True
+22401144,339,Success,TEAM defensive REBOUND,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/339/c580cd8e-a9ce-e45a-6e85-4ccb5d505bb5_320x180.mp4,True
+22401144,341,Success,D. Sabonis driving Layup (12 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/341/0289a812-2683-e131-ba51-f4672a3c8d93_320x180.mp4,True
+22401144,343,Success,C. Cunningham driving Layup (10 PTS) (M. Beasley 1 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/343/9d5230b6-9ccf-bb9c-e3dc-4383d86d77d7_320x180.mp4,True
+22401144,345,Success,D. Carter shooting personal FOUL (2 PF) (Cunningham 1 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/345/9c1be443-f304-1406-18ad-710428584550_320x180.mp4,True
+22401144,347,Success,MISS C. Cunningham Free Throw 1 of 1,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/347/c16bd303-c8a6-553b-38d3-d26a5565481a_320x180.mp4,True
+22401144,348,Success,C. Cunningham REBOUND (Off:1 Def:0),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/348/971efef6-9025-2e63-7a7d-9bb3e4dd2321_320x180.mp4,True
+22401144,349,Success,MISS M. Beasley 25' 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/349/0cdd94d6-36de-a066-6a60-00ffb773e537_320x180.mp4,True
+22401144,350,Success,J. Duren REBOUND (Off:3 Def:5),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/350/cb1f5939-5ee0-3a0e-62e4-4acc39cc31f8_320x180.mp4,True
+22401144,351,Success,T. Hardaway Jr. bad pass TURNOVER (1 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/351/9e0b5ae5-2920-372d-399e-5819bf72600c_320x180.mp4,True
+22401144,352,Success,Z. LaVine STEAL (1 STL),,True
+22401144,353,Success,MISS D. DeRozan 16' pullup Shot,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/353/04bca8de-1b3e-fba8-a028-d748d9d171d8_320x180.mp4,True
+22401144,354,Success,M. Beasley REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/354/8e5162b3-0cc7-126d-ae26-19562c5412ba_320x180.mp4,True
+22401144,355,Success,Period End,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/355/cfca6b3c-efef-44f5-ff7f-945ee9f6922e_320x180.mp4,True
+22401144,359,Success,SUB in: T. Lyles,,True
+22401144,358,Success,SUB in: A. Thompson,,True
+22401144,356,Success,SUB out: M. Beasley,,True
+22401144,357,Success,SUB out: D. Carter,,True
+22401144,360,Success,Period Start,,True
+22401144,361,Success,Z. LaVine driving Layup (15 PTS) (D. Sabonis 8 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/361/782fad20-8210-9c1c-8bbc-0e6d75254317_320x180.mp4,True
+22401144,365,Success,C. Cunningham offensive foul TURNOVER (1 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/365/191f2d08-373a-2254-b7b2-e09a75819f2c_320x180.mp4,True
+22401144,363,Success,C. Cunningham offensive FOUL (2 PF),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/363/63e743db-b3e3-3b03-ad10-a41073095639_320x180.mp4,True
+22401144,368,Success,C. Cunningham STEAL (2 STL),,True
+22401144,367,Success,T. Lyles lost ball TURNOVER (2 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/367/24c1f68e-f019-2a9c-cbe7-c0a489f899af_320x180.mp4,True
+22401144,369,Success,C. Cunningham DUNK (12 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/369/3b2bc0d1-6966-e404-6e72-ec9ea7161ff8_320x180.mp4,True
+22401144,370,Success,MISS Z. LaVine 26' step back 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/370/48d3115d-6617-911d-83aa-d6b4567685e5_320x180.mp4,True
+22401144,371,Success,T. Lyles REBOUND (Off:2 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/371/33474380-0201-c3e3-785f-9e31eb114fa6_320x180.mp4,True
+22401144,372,Success,Z. LaVine cutting DUNK (17 PTS) (T. Lyles 1 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/372/9a514ee4-73d4-7a10-42e6-8ca11fc83163_320x180.mp4,True
+22401144,374,Success,MISS J. Duren driving floating Shot,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/374/703dfae1-7e69-5645-d5a5-385672953753_320x180.mp4,True
+22401144,375,Success,D. Sabonis REBOUND (Off:2 Def:5),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/375/07c7207c-f596-48b7-79d1-2bd0630b500c_320x180.mp4,True
+22401144,376,Success,J. Duren personal FOUL (2 PF),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/376/c98ce50e-e4f4-b6a1-0005-e1b12929b8e0_320x180.mp4,True
+22401144,378,Success,D. Sabonis 14' Jump Shot (14 PTS) (Z. LaVine 2 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/378/adbab348-c131-7377-def7-4e97a61e9595_320x180.mp4,True
+22401144,380,Success,K. Ellis shooting personal FOUL (2 PF) (Cunningham 2 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/380/20322112-7628-005a-491f-16926f379d24_320x180.mp4,True
+22401144,382,Success,MISS C. Cunningham Free Throw 1 of 2,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/382/4ddb47d4-8786-8369-2cba-1870c95bf457_320x180.mp4,True
+22401144,383,Success,TEAM offensive REBOUND,,True
+22401144,384,Success,C. Cunningham Free Throw 2 of 2 (13 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/384/f79354fe-acc5-8e74-249a-cd8ac2d140af_320x180.mp4,True
+22401144,385,Success,D. DeRozan 10' turnaround Jump Shot (24 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/385/3351e3d7-a992-97c9-c060-de0ec72fd096_320x180.mp4,True
+22401144,386,Success,C. Cunningham lost ball TURNOVER (2 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/386/9aa855b2-41e9-00e5-e364-24c5669ac107_320x180.mp4,True
+22401144,387,Success,K. Ellis STEAL (1 STL),,True
+22401144,388,Success,MISS Z. LaVine 27' running pullup 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/388/c3052010-f848-5c0d-48c0-fb0835cd633d_320x180.mp4,True
+22401144,389,Success,D. Schröder REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/389/61d5deef-d61e-f77f-be77-f4ce53d70015_320x180.mp4,True
+22401144,390,Success,C. Cunningham running reverse Layup (15 PTS) (D. Schröder 2 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/390/fa2f2bc8-2827-cdee-2efa-a0469916862b_320x180.mp4,True
+22401144,392,Success,MISS T. Lyles 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/392/ae63461d-7ef8-ca1e-6ca8-042660322946_320x180.mp4,True
+22401144,393,Success,J. Duren REBOUND (Off:3 Def:6),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/393/23460b87-99dd-0e9b-4ae6-46f08d3eed29_320x180.mp4,True
+22401144,394,Success,MISS T. Hardaway Jr. 27' running 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/394/823223fa-a878-969a-5ed8-e6bbb6b44318_320x180.mp4,True
+22401144,395,Success,D. Sabonis REBOUND (Off:2 Def:6),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/395/a7e2f401-3b9b-22a8-f4b8-18601ef6f1a5_320x180.mp4,True
+22401144,396,Success,MISS K. Ellis 25' 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/396/9c613eb7-9347-9fe2-d071-99f69177fced_320x180.mp4,True
+22401144,397,Success,T. Lyles REBOUND (Off:3 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/397/b3387bca-1d19-fc74-939a-a2c9f5f6f244_320x180.mp4,True
+22401144,398,Success,J. Duren shooting personal FOUL (3 PF) (Lyles 2 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/398/6e48902e-c71f-7081-1b3e-572f31dfdabe_320x180.mp4,True
+22401144,400,Success,MISS T. Lyles Free Throw 1 of 2,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/400/881269df-e806-6268-42f7-45760ff7ae42_320x180.mp4,True
+22401144,401,Success,TEAM offensive REBOUND,,True
+22401144,402,Success,MISS T. Lyles Free Throw 2 of 2,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/402/d2410b29-8f9d-a141-7df1-84619d662672_320x180.mp4,True
+22401144,403,Success,C. Cunningham REBOUND (Off:1 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/403/e589faa9-0e2d-d470-9036-87ad52b37333_320x180.mp4,True
+22401144,404,Success,C. Cunningham lost ball TURNOVER (3 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/404/9b2d0655-bfa0-d186-8405-d34863a33330_320x180.mp4,True
+22401144,405,Success,K. Ellis STEAL (2 STL),,True
+22401144,406,Success,D. DeRozan 9' step back Jump Shot (26 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/406/66eee412-c0f4-2768-9f81-a9af1005aef2_320x180.mp4,True
+22401144,407,Success,D. DeRozan personal FOUL (2 PF),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/407/74299e34-81cf-d974-41b3-9d368efeabe8_320x180.mp4,True
+22401144,410,Success,MISS T. Hardaway Jr. 27' 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/410/90c14ba2-75b9-5f76-8649-2c486cd405ea_320x180.mp4,True
+22401144,411,Success,TEAM defensive REBOUND,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/411/a57c092c-999d-a1a8-3ea8-038d330d9731_320x180.mp4,True
+22401144,412,Success,J. Duren loose ball personal FOUL (4 PF),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/412/cfc39708-4bf5-f58f-0482-0006f14a9a20_320x180.mp4,True
+22401144,414,Success,SUB out: J. Duren,,True
+22401144,415,Success,SUB in: I. Stewart,,True
+22401144,416,Success,A. Thompson personal FOUL (4 PF),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/416/335c7321-9ca6-a6b0-136f-5b883ed1f960_320x180.mp4,True
+22401144,418,Success,MISS D. DeRozan 17' pullup Shot,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/418/a55b850e-2cdd-000c-6cb1-75104c2d5637_320x180.mp4,True
+22401144,419,Success,C. Cunningham REBOUND (Off:1 Def:2),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/419/93186034-85d6-ae3d-9208-516d7e63b80d_320x180.mp4,True
+22401144,420,Success,MISS T. Hardaway Jr. driving Layup,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/420/d25d06e7-40e4-3239-e067-510cec5fbf2b_320x180.mp4,True
+22401144,421,Success,D. Sabonis REBOUND (Off:2 Def:7),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/421/50ae3d3e-150c-ea30-1001-b0ecd4109870_320x180.mp4,True
+22401144,422,Success,MISS Z. LaVine running Layup - blocked,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/422/fa1d8d36-afcc-7abd-6a12-cedb75253d28_320x180.mp4,True
+22401144,423,Success,A. Thompson BLOCK (1 BLK),,True
+22401144,424,Success,TEAM offensive REBOUND,,True
+22401144,426,Success,SUB out: A. Thompson,,True
+22401144,427,Success,SUB in: M. Beasley,,True
+22401144,428,Success,MISS D. DeRozan driving Layup,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/428/53d645c7-10c1-4bb7-2a84-89da38f834b5_320x180.mp4,True
+22401144,429,Success,D. DeRozan REBOUND (Off:1 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/429/234b107d-6eba-c0a3-4e1c-1f7221e57cf5_320x180.mp4,True
+22401144,430,Success,MISS D. DeRozan tip Layup,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/430/8c835279-fb2a-c612-6fbb-f910b87c7073_320x180.mp4,True
+22401144,431,Success,I. Stewart REBOUND (Off:1 Def:3),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/431/3e342d30-fa51-3d5c-38bc-b53c9007524c_320x180.mp4,True
+22401144,432,Success,D. Schröder 3PT  (5 PTS) (M. Beasley 2 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/432/110b9e68-b4cd-d897-f71e-833d2e1150aa_320x180.mp4,True
+22401144,434,Success,MISS Z. LaVine 21' step back Shot,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/434/9140d5e9-89a0-5c32-1f4e-df895efdb3ac_320x180.mp4,True
+22401144,435,Success,TEAM offensive REBOUND,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/435/6c1a9fde-891d-445c-4b88-2a80b37d0ed2_320x180.mp4,True
+22401144,437,Success,DET Timeout,,True
+22401144,439,Success,SUB out: T. Lyles,,True
+22401144,440,Success,SUB in: D. Carter,,True
+22401144,441,Success,D. DeRozan 26' 3PT  (29 PTS) (Z. LaVine 3 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/441/ff3a5426-9382-1538-1d83-a2e710e4dc8f_320x180.mp4,True
+22401144,443,Success,K. Ellis shooting personal FOUL (3 PF) (Cunningham 2 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/443/407c6f02-d820-ba99-2ded-2c5e03994ffa_320x180.mp4,True
+22401144,445,Success,C. Cunningham Free Throw 1 of 2 (16 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/445/c8162f16-ae4e-157f-7b63-b39f16cdf4c3_320x180.mp4,True
+22401144,446,Success,C. Cunningham Free Throw 2 of 2 (17 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/446/f255bea1-07cf-c4bf-532f-576c8f85ae86_320x180.mp4,True
+22401144,448,Success,D. Carter Layup (2 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/448/f0b0cb99-5ac6-03a5-d2e5-092a919950ce_320x180.mp4,True
+22401144,449,Success,C. Cunningham Hook (19 PTS) (I. Stewart 1 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/449/1a57464c-7d8b-ba76-bdef-f9d012a8bd6a_320x180.mp4,True
+22401144,451,Success,D. Carter driving Layup (4 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/451/4b9dab8f-0485-1a7b-6936-22d04c54fe05_320x180.mp4,True
+22401144,452,Success,C. Cunningham driving Layup (21 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/452/b698d380-ae6c-f9b3-370f-c4e8ccb57dc9_320x180.mp4,True
+22401144,453,Success,D. Carter 26' 3PT  (7 PTS) (D. DeRozan 2 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/453/6fd4eefe-62f1-d8b1-a3a8-bcdc1acdfb6b_320x180.mp4,True
+22401144,455,Success,MISS D. Schröder driving Layup,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/455/0c9b8880-a94c-972b-67f1-0fe565e785e2_320x180.mp4,True
+22401144,456,Success,D. Sabonis REBOUND (Off:2 Def:8),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/456/4fec32ec-68ce-2b58-5d93-46793d0e8fb2_320x180.mp4,True
+22401144,457,Success,MISS Z. LaVine reverse Layup,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/457/9f0aa2e9-b859-012c-13a6-071c0d574545_320x180.mp4,True
+22401144,458,Success,D. Sabonis REBOUND (Off:3 Def:8),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/458/96ae8e8b-ffbd-acbb-954c-b4c71b206d9a_320x180.mp4,True
+22401144,459,Success,MISS D. Sabonis tip Layup,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/459/8a305faf-1378-11a3-2f26-354b7fd46a68_320x180.mp4,True
+22401144,460,Success,D. Sabonis REBOUND (Off:4 Def:8),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/460/c680ce15-aa44-6d1e-df95-2922e1f3474e_320x180.mp4,True
+22401144,461,Success,D. Sabonis tip Layup (16 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/461/53bbd5f4-84d6-94ee-3415-233903e779ae_320x180.mp4,True
+22401144,462,Success,D. DeRozan shooting personal FOUL (3 PF) (Beasley 2 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/462/ed1fbf40-c1f2-17c5-e171-daced24fad16_320x180.mp4,True
+22401144,465,Success,TEAM offensive REBOUND,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/465/da988a06-58b7-f2da-7d34-330b003bac6b_320x180.mp4,True
+22401144,472,Success,MISS M. Beasley Free Throw 2 of 2,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/472/a49793b0-fa96-2c1b-90e5-70c79ce1cae3_320x180.mp4,True
+22401144,464,Success,MISS M. Beasley Free Throw 1 of 2,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/464/7cd0de98-e251-2b05-331a-3c25859ca314_320x180.mp4,True
+22401144,466,Success,SUB out: C. Cunningham,,True
+22401144,467,Success,SUB out: D. Sabonis,,True
+22401144,468,Success,SUB out: K. Ellis,,True
+22401144,469,Success,SUB in: S. Fontecchio,,True
+22401144,470,Success,SUB in: T. Lyles,,True
+22401144,471,Success,SUB in: J. Valančiūnas,,True
+22401144,473,Success,S. Fontecchio REBOUND (Off:1 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/473/86ad5c65-2ba6-7a04-9aba-a19657a47901_320x180.mp4,True
+22401144,474,Success,MISS T. Hardaway Jr. 26' 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/474/7c957b81-396b-efe9-2aa1-fded8cfff229_320x180.mp4,True
+22401144,475,Success,I. Stewart REBOUND (Off:2 Def:3),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/475/68c3b056-a9b8-8443-0471-1456947563f6_320x180.mp4,True
+22401144,476,Success,MISS S. Fontecchio 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/476/09a89ce3-6d9a-f510-e105-9add552a7f59_320x180.mp4,True
+22401144,477,Success,D. Schröder REBOUND (Off:1 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/477/a70e096f-28da-3081-c889-02db825cf211_320x180.mp4,True
+22401144,478,Success,MISS M. Beasley 28' 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/478/3ff15ce3-f410-5d79-0ada-8967b30be22c_320x180.mp4,True
+22401144,479,Success,I. Stewart REBOUND (Off:3 Def:3),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/479/6be35081-62db-bc1f-ea08-cfd7c5668ecf_320x180.mp4,True
+22401144,480,Success,T. Hardaway Jr. 27' 3PT  (17 PTS) (I. Stewart 2 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/480/6d755cb7-35de-dea0-7991-9e9f9fc71055_320x180.mp4,True
+22401144,482,Success,MISS D. DeRozan 25' pullup 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/482/ce59a5aa-38e1-dce1-3653-693c25c69713_320x180.mp4,True
+22401144,483,Success,I. Stewart REBOUND (Off:3 Def:4),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/483/a0cb9fa6-d5d6-6bfc-fecb-58799594ac25_320x180.mp4,True
+22401144,484,Success,MISS D. Schröder 12' pullup Shot,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/484/e8b98c02-47c6-cdd0-ca91-176b86956d84_320x180.mp4,True
+22401144,485,Success,T. Lyles REBOUND (Off:3 Def:2),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/485/74da437c-834c-90a4-cbfe-0a84253260b8_320x180.mp4,True
+22401144,486,Success,MISS D. Carter 28' 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/486/585e3ba6-93cf-bbdc-cc35-03a5da6f7d04_320x180.mp4,True
+22401144,487,Success,TEAM defensive REBOUND,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/487/4c8631b8-38eb-d646-c3f8-dd322992c5d8_320x180.mp4,True
+22401144,489,Success,SUB out: D. Schröder,,True
+22401144,490,Success,SUB in: M. Sasser,,True
+22401144,499,Success,S. Fontecchio bad pass TURNOVER (1 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/499/a601cef0-191c-3e78-8756-6e2f84cc102d_320x180.mp4,True
+22401144,500,Success,D. Carter STEAL (1 STL),,True
+22401144,501,Success,D. Carter bad pass TURNOVER (1 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/501/50fa64a6-e1f5-214e-1796-a4ce8cd93ba6_320x180.mp4,True
+22401144,502,Success,S. Fontecchio STEAL (1 STL),,True
+22401144,491,Success,MISS M. Beasley 28' 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/491/08bf3062-3176-e8c9-8710-d523fec33406_320x180.mp4,True
+22401144,492,Success,D. DeRozan REBOUND (Off:1 Def:2),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/492/47a0cff6-5aa9-dff2-7d9c-37ee6b559765_320x180.mp4,True
+22401144,493,Success,J. Valančiūnas fadeaway Jump Shot (8 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/493/1e6450e3-5c9c-9158-cf65-9f84b5b5ea04_320x180.mp4,True
+22401144,494,Success,S. Fontecchio 7' driving floating bank Jump Shot (2 PTS) (I. Stewart 3 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/494/409b76b0-6adf-61fe-ed3e-63b5230fc009_320x180.mp4,True
+22401144,495,Success,Z. LaVine driving Layup (19 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/495/c6cf3b99-722c-396e-94c8-1dfc9695e4e7_320x180.mp4,True
+22401144,496,Success,M. Sasser shooting personal FOUL (2 PF) (LaVine 1 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/496/cd4f1e53-2f58-3aa8-05ac-35ae08ce9fb1_320x180.mp4,True
+22401144,498,Success,SAC Timeout,,True
+22401144,504,Success,SUB out: D. DeRozan,,True
+22401144,505,Success,SUB in: K. Ellis,,True
+22401144,507,Success,MISS Z. LaVine Free Throw 1 of 1,,True
+22401144,508,Success,I. Stewart REBOUND (Off:3 Def:5),,True
+22401144,509,Success,MISS M. Sasser 27' 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/509/f6ef9553-7fa6-b7d2-647f-87f2988df89c_320x180.mp4,True
+22401144,510,Success,J. Valančiūnas REBOUND (Off:5 Def:5),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/510/d89b3194-1dcc-2893-f374-f6eff56dbf1a_320x180.mp4,True
+22401144,511,Success,MISS T. Lyles 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/511/a7ba42ca-29ba-c957-a200-2788e9387a25_320x180.mp4,True
+22401144,512,Success,D. Carter REBOUND (Off:1 Def:0),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/512/426fffc8-ebb7-5549-18ba-4c678ac9770c_320x180.mp4,True
+22401144,513,Success,MISS D. Carter floating Shot,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/513/c3edb277-5859-3cf7-3fc0-82be3f89b95e_320x180.mp4,True
+22401144,514,Success,T. Lyles REBOUND (Off:4 Def:2),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/514/fa8d918a-3158-cc45-86ca-234aa288b2f1_320x180.mp4,True
+22401144,530,Success,MISS T. Lyles tip Layup,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/530/cffca3b7-7aeb-fddb-982d-05c1c5ed9844_320x180.mp4,True
+22401144,531,Success,J. Valančiūnas REBOUND (Off:6 Def:5),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/531/442efaef-60b2-2000-3d50-fcc50609a6cf_320x180.mp4,True
+22401144,515,Success,M. Sasser shooting personal FOUL (3 PF) (Valančiūnas 2 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/515/6973d468-85db-b5ed-769e-e4acc84a9172_320x180.mp4,True
+22401144,517,Success,J. Valančiūnas Free Throw 1 of 2 (9 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/517/919ef57a-31f3-7bf6-9a69-0c02e845e5e4_320x180.mp4,True
+22401144,518,Success,J. Valančiūnas Free Throw 2 of 2 (10 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/518/c0870093-9ff3-381b-2aec-1861bb002ed6_320x180.mp4,True
+22401144,519,Success,M. Beasley 27' 3PT  (14 PTS) (T. Hardaway Jr. 2 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/519/83299a97-9c4d-dde3-40b4-3636922b7101_320x180.mp4,True
+22401144,521,Success,Z. LaVine driving Layup (21 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/521/0917a716-1959-deec-ff17-86af9f30729a_320x180.mp4,True
+22401144,526,Success,T. Hardaway Jr. lost ball TURNOVER (2 TO),,True
+22401144,524,Success,SAC Timeout,,True
+22401144,527,Success,Z. LaVine 6' driving Layup (23 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/527/abb90bd1-c1d1-04c5-0de7-85299adc3dc2_320x180.mp4,True
+22401144,528,Success,MISS T. Hardaway Jr. 26' 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/528/236bd584-0945-f3b6-74f5-5fb640a72b95_320x180.mp4,True
+22401144,529,Success,Z. LaVine REBOUND (Off:0 Def:2),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/529/140750be-c5e1-721d-d3b0-cf5939cc2cd0_320x180.mp4,True
+22401144,532,Success,Z. LaVine 26' 3PT pullup (26 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/532/7a89053c-7ebf-690b-c106-e619ea9bfbe6_320x180.mp4,True
+22401144,533,Success,Period End,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/533/bd62cdbc-f1e5-ee6c-c6c9-fd0b99e15a19_320x180.mp4,True
+22401144,539,Success,SUB in: A. Thompson,,True
+22401144,538,Success,SUB in: C. Cunningham,,True
+22401144,537,Success,SUB in: R. Holland II,,True
+22401144,534,Success,SUB out: T. Hardaway Jr.,,True
+22401144,535,Success,SUB out: S. Fontecchio,,True
+22401144,536,Success,SUB out: M. Sasser,,True
+22401144,540,Success,Period Start,,True
+22401144,541,Success,C. Cunningham driving floating bank Jump Shot (23 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/541/3eb02eff-c4f8-89c4-2913-c8684e8b043d_320x180.mp4,True
+22401144,542,Success,Z. LaVine 26' 3PT pullup (29 PTS) (J. Valančiūnas 1 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/542/adc5e34a-6b4a-4d1a-350c-b978be594461_320x180.mp4,True
+22401144,543,Success,MISS A. Thompson 6' Layup - blocked,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/543/930d9ccc-cc30-83f2-cb0a-0c9c02a1f083_320x180.mp4,True
+22401144,544,Success,J. Valančiūnas BLOCK (1 BLK),,True
+22401144,545,Success,TEAM offensive REBOUND,,True
+22401144,547,Success,A. Thompson 3PT  (15 PTS) (C. Cunningham 5 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/547/49ea69b6-c5f3-82fa-75ff-553ea221fb6e_320x180.mp4,True
+22401144,549,Success,Z. LaVine 28' 3PT pullup (32 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/549/b9b93b31-fa4d-3c08-848b-3c4c60627936_320x180.mp4,True
+22401144,550,Success,C. Cunningham 27' 3PT pullup (26 PTS) (A. Thompson 5 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/550/e28703ba-5de0-4209-c4a2-e61e60187483_320x180.mp4,True
+22401144,552,Success,Z. LaVine 29' 3PT pullup (35 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/552/f21d51b8-b553-e909-bb69-90158976a883_320x180.mp4,True
+22401144,553,Success,DET Timeout,,True
+22401144,555,Success,MISS C. Cunningham pullup Shot,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/555/91937184-206f-40a2-6ae6-fbda46b3493e_320x180.mp4,True
+22401144,556,Success,J. Valančiūnas REBOUND (Off:6 Def:6),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/556/16a990c7-7786-8156-46fd-9b3a1a0566a1_320x180.mp4,True
+22401144,557,Success,MISS D. Carter 25' pullup bank 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/557/d25f07a1-8709-c949-8574-ad4b11240ef0_320x180.mp4,True
+22401144,558,Success,I. Stewart REBOUND (Off:3 Def:6),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/558/8b5715e7-c99a-d39b-49db-57a2266f6546_320x180.mp4,True
+22401144,559,Success,C. Cunningham driving Layup (28 PTS) (I. Stewart 4 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/559/b24aa4ce-b32a-1f2f-b208-0dcb9076d7cc_320x180.mp4,True
+22401144,561,Success,J. Valančiūnas shooting personal FOUL (3 PF) (Cunningham 1 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/561/c5e78d1a-61f9-2fc9-db7d-4f80c417b058_320x180.mp4,True
+22401144,568,Success,SUB in: D. DeRozan,,True
+22401144,567,Success,SUB in: D. Sabonis,,True
+22401144,566,Success,SUB in: J. Duren,,True
+22401144,564,Success,SUB out: J. Valančiūnas,,True
+22401144,563,Success,SUB out: I. Stewart,,True
+22401144,565,Success,SUB out: D. Carter,,True
+22401144,569,Success,C. Cunningham Free Throw 1 of 1 (29 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/569/6973ee07-c83a-6019-76e1-ebaaf93a3c02_320x180.mp4,True
+22401144,570,Success,D. DeRozan 16' pullup Jump Shot (31 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/570/b4a97e88-ffdf-735a-e1a9-bd129aac1185_320x180.mp4,True
+22401144,571,Success,MISS C. Cunningham fadeaway Shot - blocked,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/571/fb482efe-23da-e909-10be-cdfce8929643_320x180.mp4,True
+22401144,572,Success,T. Lyles BLOCK (1 BLK),,True
+22401144,573,Success,Z. LaVine REBOUND (Off:0 Def:3),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/573/9591a253-5907-97f7-ea07-1f346bcc5daa_320x180.mp4,True
+22401144,576,Success,SUB in: D. Schröder,,True
+22401144,575,Success,SUB out: A. Thompson,,True
+22401144,577,Success,Z. LaVine 28' 3PT pullup (38 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/577/358552ca-456d-6602-967d-72bc03f6ffb6_320x180.mp4,True
+22401144,578,Success,D. Sabonis shooting personal FOUL (3 PF) (Cunningham 2 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/578/e18c6a72-df43-1771-8653-f033c537195c_320x180.mp4,True
+22401144,580,Success,C. Cunningham Free Throw 1 of 2 (30 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/580/88302269-3511-0a3b-bad0-46542ef04c92_320x180.mp4,True
+22401144,581,Success,MISS C. Cunningham Free Throw 2 of 2,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/581/054498a1-3d54-f76b-db97-80fcf90a9c73_320x180.mp4,True
+22401144,582,Success,K. Ellis REBOUND (Off:1 Def:4),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/582/5a8ba579-7be4-765a-8a8e-555fe11e9683_320x180.mp4,True
+22401144,584,Success,J. Duren shooting personal FOUL (5 PF) (Sabonis 2 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/584/aa58f004-e787-d169-054d-811fb79725b5_320x180.mp4,True
+22401144,586,Success,D. Sabonis Free Throw 1 of 2 (17 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/586/9806abb6-9f44-3fc9-ac03-968e7efc3530_320x180.mp4,True
+22401144,587,Success,SUB out: J. Duren,,True
+22401144,588,Success,SUB in: I. Stewart,,True
+22401144,589,Success,D. Sabonis Free Throw 2 of 2 (18 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/589/4e813bb0-0993-aa67-3a04-5f8754aa9aad_320x180.mp4,True
+22401144,590,Success,C. Cunningham Layup (32 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/590/35d66da8-d54b-622b-dd6c-82cfbb3adced_320x180.mp4,True
+22401144,591,Success,MISS Z. LaVine 25' pullup 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/591/cac6d499-cb59-da0a-b405-1ddef230eac6_320x180.mp4,True
+22401144,592,Success,R. Holland II REBOUND (Off:0 Def:2),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/592/33269713-f041-a614-39eb-8591e576edf3_320x180.mp4,True
+22401144,593,Success,MISS M. Beasley 25' running 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/593/59025031-a413-b1d6-4254-f1821e20d2e7_320x180.mp4,True
+22401144,594,Success,R. Holland II REBOUND (Off:1 Def:2),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/594/0f21d997-f9bd-a46f-04c9-776e2f0c8c0e_320x180.mp4,True
+22401144,595,Success,R. Holland II step out-of-bounds TURNOVER (1 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/595/c7d2452f-9fb9-7734-86d9-3bfecd85eca6_320x180.mp4,True
+22401144,596,Success,SAC Timeout,,True
+22401144,597,Success,SUB out: M. Beasley,,True
+22401144,598,Success,SUB out: K. Ellis,,True
+22401144,599,Success,SUB in: T. Hardaway Jr.,,True
+22401144,600,Success,SUB in: D. Carter,,True
+22401144,601,Success,MISS D. DeRozan 26' pullup 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/601/dda67595-78bb-16ca-5e4c-f48015da3c6a_320x180.mp4,True
+22401144,602,Success,I. Stewart REBOUND (Off:3 Def:7),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/602/0e63fc5f-a183-1084-34aa-54622342d46a_320x180.mp4,True
+22401144,603,Success,D. Sabonis shooting personal FOUL (4 PF) (Stewart 2 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/603/169e61e5-5141-138a-a133-69c056cc7da4_320x180.mp4,True
+22401144,605,Success,I. Stewart Free Throw 1 of 2 (7 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/605/9dbc7ea3-433a-b8eb-8dac-e4797bcc4820_320x180.mp4,True
+22401144,606,Success,SUB out: C. Cunningham,,True
+22401144,607,Success,SUB in: M. Beasley,,True
+22401144,608,Success,I. Stewart Free Throw 2 of 2 (8 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/608/044951eb-dcf7-3806-6490-180b6655d87e_320x180.mp4,True
+22401144,609,Success,MISS D. Sabonis 19' Jump Shot,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/609/06369c72-fa92-4250-7476-07bff0872cd1_320x180.mp4,True
+22401144,610,Success,D. Schröder REBOUND (Off:1 Def:2),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/610/1772cec1-21f7-a611-000e-9c1071f4aee1_320x180.mp4,True
+22401144,611,Success,R. Holland II running Layup (5 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/611/d1394e85-025e-b1bb-280b-ee0924deee68_320x180.mp4,True
+22401144,612,Success,MISS D. DeRozan 15' turnaround Shot,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/612/a98af0ae-fac2-f729-1991-f35dd6127606_320x180.mp4,True
+22401144,613,Success,R. Holland II REBOUND (Off:1 Def:3),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/613/4a1892ba-cc4e-3a6f-11fa-62b07e627541_320x180.mp4,True
+22401144,614,Success,MISS T. Hardaway Jr. 29' running 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/614/9656754e-a662-8f39-94eb-f50f631c3550_320x180.mp4,True
+22401144,615,Success,D. Carter REBOUND (Off:1 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/615/96402f9b-24ad-4c61-0724-8da64cb45021_320x180.mp4,True
+22401144,616,Success,D. DeRozan 8' turnaround Jump Shot (33 PTS) (Z. LaVine 4 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/616/d685dd9e-7de9-3aac-f7dd-585c08d2ce6c_320x180.mp4,True
+22401144,618,Success,MISS I. Stewart 27' 3PT,,True
+22401144,619,Success,D. DeRozan REBOUND (Off:1 Def:3),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/619/5df4c407-8a50-ffed-26d1-64d2b3dddc77_320x180.mp4,True
+22401144,620,Success,D. DeRozan 14' pullup Jump Shot (35 PTS) (D. Sabonis 9 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/620/def54f10-1c2b-9282-73a4-43a9c8eafc3a_320x180.mp4,True
+22401144,623,Success,Z. LaVine shooting personal FOUL (1 PF) (Schröder 2 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/623/f06e60f2-59e1-ee51-91ee-3c79f4e56301_320x180.mp4,True
+22401144,626,Success,TEAM offensive REBOUND,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/626/a638e9ce-1af4-f653-4d07-fe2c70bfe2b1_320x180.mp4,True
+22401144,634,Success,MISS D. Schröder Free Throw 2 of 2,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/634/fbb39933-2022-0df9-6598-f761792a1725_320x180.mp4,True
+22401144,625,Success,MISS D. Schröder Free Throw 1 of 2,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/625/f10e97e4-5782-ae2c-1215-ece691ff932a_320x180.mp4,True
+22401144,635,Success,D. Sabonis REBOUND (Off:4 Def:9),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/635/3cf28b93-46f2-0858-fab8-32107c18388b_320x180.mp4,True
+22401144,627,Success,SAC Timeout,,True
+22401144,628,Success,SUB out: R. Holland II,,True
+22401144,629,Success,SUB out: M. Beasley,,True
+22401144,630,Success,SUB out: D. Carter,,True
+22401144,631,Success,SUB in: C. Cunningham,,True
+22401144,632,Success,SUB in: A. Thompson,,True
+22401144,633,Success,SUB in: K. Ellis,,True
+22401144,636,Success,T. Lyles Layup (7 PTS) (D. Sabonis 10 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/636/4d9b40b8-2e8a-6996-e18f-c4dc6fdfc081_320x180.mp4,True
+22401144,638,Success,MISS A. Thompson Layup,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/638/82e0c02c-31f6-c0dd-7a92-977f7e54d75b_320x180.mp4,True
+22401144,639,Success,D. Sabonis REBOUND (Off:4 Def:10),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/639/c815002d-85c2-cd5a-81bc-b686cd0f35b8_320x180.mp4,True
+22401144,640,Success,Z. LaVine offensive FOUL (2 PF),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/640/cfd258da-55ed-8094-1507-a4167704d784_320x180.mp4,True
+22401144,642,Success,Z. LaVine offensive foul TURNOVER (1 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/642/be2af9b5-2a8f-1ffd-61f4-dc25dc985a26_320x180.mp4,True
+22401144,643,Success,C. Cunningham lost ball TURNOVER (4 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/643/25dba4a5-2f86-fdf4-e050-9d6bd51ea92a_320x180.mp4,True
+22401144,644,Success,K. Ellis STEAL (3 STL),,True
+22401144,645,Success,D. DeRozan 11' turnaround Jump Shot (37 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/645/717350b1-071f-7568-5b72-9f908cdb1879_320x180.mp4,True
+22401144,646,Success,I. Stewart personal FOUL (3 PF) (Sabonis 1 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/646/95bc6a50-679b-f5b9-841f-e6177302fd5d_320x180.mp4,True
+22401144,648,Success,D. Sabonis Free Throw 1 of 1 (19 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/648/ec31535a-fa6c-bbd8-57d4-a8961c6b7c70_320x180.mp4,True
+22401144,649,Success,Z. LaVine shooting personal FOUL (3 PF) (Hardaway Jr. 2 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/649/ff66f7ed-74fb-6655-ce4f-febfd1dc86c4_320x180.mp4,True
+22401144,651,Success,T. Hardaway Jr. Free Throw 1 of 2 (18 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/651/9d80747f-d044-1cb6-82be-653ea93f6ffc_320x180.mp4,True
+22401144,652,Success,T. Hardaway Jr. Free Throw 2 of 2 (19 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/652/430d1f14-9c2c-103b-4468-8e78b45574e0_320x180.mp4,True
+22401144,654,Success,MISS D. DeRozan 15' pullup Shot,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/654/6aed6282-194a-180b-7e58-6f700d4c56c0_320x180.mp4,True
+22401144,655,Success,K. Ellis REBOUND (Off:2 Def:4),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/655/db6265d4-c3da-7221-1bae-073805bff3c9_320x180.mp4,True
+22401144,656,Success,A. Thompson personal FOUL (5 PF),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/656/a6725f04-41a4-b9ad-9f0b-98f4ab084448_320x180.mp4,True
+22401144,658,Success,Z. LaVine 28' 3PT pullup (41 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/658/2f6e5f21-1788-ee40-788d-47ed666aa59e_320x180.mp4,True
+22401144,659,Success,MISS A. Thompson 7' driving floating bank Shot,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/659/4535170d-1d78-b40d-7336-97bb3a513d5e_320x180.mp4,True
+22401144,660,Success,A. Thompson REBOUND (Off:2 Def:2),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/660/277e206c-89ea-2370-0aec-10fd5536ff7c_320x180.mp4,True
+22401144,661,Success,MISS A. Thompson tip Layup,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/661/cf39c6bc-104a-df97-1a24-828d74837a86_320x180.mp4,True
+22401144,662,Success,D. Sabonis REBOUND (Off:4 Def:11),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/662/c69c1826-f7e3-7fbb-2022-325369653674_320x180.mp4,True
+22401144,663,Success,Z. LaVine 14' pullup Jump Shot (43 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/663/c56b357e-bd5d-3b84-21b9-8931e2f021c7_320x180.mp4,True
+22401144,666,Success,D. Schröder offensive foul TURNOVER (1 TO),,True
+22401144,664,Success,D. Schröder offensive FOUL (2 PF),,True
+22401144,667,Success,MISS D. DeRozan 25' pullup 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/667/30a99a95-e23b-7bbd-db51-3cda402d331a_320x180.mp4,True
+22401144,668,Success,TEAM defensive REBOUND,,True
+22401144,671,Success,Z. LaVine shooting personal FOUL (4 PF) (Cunningham 3 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/671/c4d33e3a-ff49-4cd9-a18a-5542583858b3_320x180.mp4,True
+22401144,673,Success,C. Cunningham Free Throw 1 of 3 (33 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/673/907c3734-f5ac-ceea-0724-a1d303f4f9c2_320x180.mp4,True
+22401144,674,Success,C. Cunningham Free Throw 2 of 3 (34 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/674/e245e759-f276-4940-4021-b15282d8c08e_320x180.mp4,True
+22401144,675,Success,C. Cunningham Free Throw 3 of 3 (35 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/675/20f8b1b7-445c-acbb-4ad5-8fbd1985ca68_320x180.mp4,True
+22401144,676,Success,SAC shot clock Team TURNOVER,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/676/a14f5cc7-e8f9-31e7-1ca0-2cf0229e1702_320x180.mp4,True
+22401144,677,Success,Period End,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401144/677/b1fe4c9b-a4bc-2fad-0b8e-9fba98b53169_320x180.mp4,True
+22401144,678,Success,Game End,,True
+22401145,2,Success,Period Start,,True
+22401145,4,Success,Jump Ball K. Ware vs. A. Bona: Tip to T. Herro,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/4/55e61914-55c5-4599-cf66-208171a2ec64_320x180.mp4,True
+22401145,7,Success,MISS K. Ware alley-oop DUNK,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/7/1a2a80c1-1ff3-76eb-9dd8-cfb879f810f6_320x180.mp4,True
+22401145,8,Success,TEAM offensive REBOUND,,True
+22401145,10,Success,L. Walker IV personal FOUL (1 PF),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/10/9b12186f-78da-f6f0-d489-06b8eac18f6b_320x180.mp4,True
+22401145,12,Success,A. Burks bad pass TURNOVER (1 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/12/a91f1989-b778-639b-8511-4dd7b0b640e4_320x180.mp4,True
+22401145,13,Success,J. Butler STEAL (1 STL),,True
+22401145,14,Success,J. Butler 11' driving floating Jump Shot (2 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/14/0f6ebe37-62ee-9705-d59b-1dae6e0e2142_320x180.mp4,True
+22401145,15,Success,T. Herro step out-of-bounds TURNOVER (1 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/15/119217ae-f1d1-558e-7ad9-3f4a7fb4dae9_320x180.mp4,True
+22401145,16,Success,MISS J. Butler 12' driving floating bank Shot,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/16/7fcb54d4-96da-cec9-996e-82a79d4d5831_320x180.mp4,True
+22401145,17,Success,K. Ware REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/17/275add1b-75fa-d191-bee8-0638d44b3312_320x180.mp4,True
+22401145,18,Success,T. Herro bad pass TURNOVER (2 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/18/0afa824a-2691-c782-6784-48cbacb3acfc_320x180.mp4,True
+22401145,19,Success,M. Bagley STEAL (1 STL),,True
+22401145,20,Success,M. Bagley running finger roll Layup (2 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/20/38cbce5d-facc-909c-c978-a60c94e725a5_320x180.mp4,True
+22401145,21,Success,H. Highsmith 25' 3PT  (3 PTS) (P. Larsson 1 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/21/59ebc5fa-e436-7c07-4e2f-1da3c47fdeb1_320x180.mp4,True
+22401145,23,Success,MISS Q. Grimes 28' 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/23/c862905d-94e4-749e-c7d1-6eb6ede1cb3a_320x180.mp4,True
+22401145,24,Success,T. Herro REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/24/b07803c3-de41-8045-6476-df931aa151aa_320x180.mp4,True
+22401145,25,Success,T. Herro running finger roll Layup (2 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/25/81d63671-71b9-814a-cbdb-0b5f3af037ce_320x180.mp4,True
+22401145,26,Success,L. Walker IV 25' 3PT step back (3 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/26/9729058a-fbb3-081b-c423-f9bc906e8549_320x180.mp4,True
+22401145,27,Success,A. Burks bad pass TURNOVER (2 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/27/1f285920-556e-0f23-d05b-fc11abe52098_320x180.mp4,True
+22401145,28,Success,A. Bona STEAL (1 STL),,True
+22401145,29,Success,Q. Grimes 6' driving Layup (2 PTS) (J. Butler 1 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/29/613c2879-a28d-61ed-4297-8f3e7ab8dc41_320x180.mp4,True
+22401145,31,Success,MISS K. Ware 24' 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/31/60557df9-b392-f1a9-a962-988c763fe197_320x180.mp4,True
+22401145,32,Success,Q. Grimes REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/32/9d364d96-ec04-be02-2413-7545cf3fb39f_320x180.mp4,True
+22401145,33,Success,MISS M. Bagley 25' 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/33/8c723bed-e88d-c7ee-4fe4-2482233b9855_320x180.mp4,True
+22401145,34,Success,K. Ware REBOUND (Off:0 Def:2),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/34/8f8adcae-4bdd-5361-ee94-550e9d6b096f_320x180.mp4,True
+22401145,35,Success,K. Ware 11' floating Jump Shot (2 PTS) (T. Herro 1 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/35/a41abf91-b5c4-697c-54c9-2a4a741bf6a5_320x180.mp4,True
+22401145,37,Success,L. Walker IV 26' 3PT pullup (6 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/37/75a510cd-d408-ee8d-fa22-f12308845ece_320x180.mp4,True
+22401145,38,Success,MIA Timeout,,True
+22401145,40,Success,T. Herro bad pass TURNOVER (3 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/40/d4432fec-9f2b-a30a-87f8-0395648b728e_320x180.mp4,True
+22401145,41,Success,J. Butler STEAL (2 STL),,True
+22401145,42,Success,A. Burks shooting personal FOUL (1 PF) (Bona 2 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/42/d8bfab7c-771b-9d0d-999f-12bdfba7c3ff_320x180.mp4,True
+22401145,44,Success,A. Bona Free Throw 1 of 2 (1 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/44/f0adf1d6-8f49-38b1-d9f1-3e90cc64bf9e_320x180.mp4,True
+22401145,45,Success,MISS A. Bona Free Throw 2 of 2,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/45/96c2e0ae-1360-e816-97ef-981977226802_320x180.mp4,True
+22401145,46,Success,K. Ware REBOUND (Off:0 Def:3),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/46/0c568c14-3016-d1b7-f46d-f91758ec6592_320x180.mp4,True
+22401145,47,Success,MISS A. Burks 6' driving finger roll Layup,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/47/ef1ad7aa-79c8-6c69-9ca3-b6bac7f6fd9b_320x180.mp4,True
+22401145,49,Success,K. Ware tip Layup (4 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/49/e8e75d69-0642-4a3b-e539-ecbc1004c780_320x180.mp4,True
+22401145,48,Success,K. Ware REBOUND (Off:1 Def:3),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/48/bd8b991e-8602-ea10-63b7-46995fa08721_320x180.mp4,True
+22401145,50,Success,A. Bona alley-oop DUNK (3 PTS) (J. Butler 2 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/50/f2cd7286-e801-48ef-7b2e-33a29d231d47_320x180.mp4,True
+22401145,52,Success,A. Burks 24' 3PT pullup (3 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/52/34ea0654-d324-6339-596d-f7cfe7f8b992_320x180.mp4,True
+22401145,54,Success,A. Bona offensive FOUL (1 PF),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/54/5566d64f-9a93-a359-4769-04a951193dbc_320x180.mp4,True
+22401145,56,Success,A. Bona offensive foul TURNOVER (1 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/56/4828ee24-3b28-ceb8-bf8b-06cd4b8aa148_320x180.mp4,True
+22401145,57,Success,P. Larsson driving Layup (2 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/57/fb7a1077-2125-4e40-a7af-7570b06a6556_320x180.mp4,True
+22401145,58,Success,A. Bona DUNK (5 PTS) (L. Walker IV 1 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/58/700895bd-37f7-d4e0-8055-ea25ac267c15_320x180.mp4,True
+22401145,60,Success,MISS P. Larsson 24' pullup 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/60/5e5bb1c9-8ac7-8c22-fc93-dff9e9891dc8_320x180.mp4,True
+22401145,62,Success,MISS H. Highsmith tip Layup,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/62/f6421437-949f-4221-4a55-42af6ec98b63_320x180.mp4,True
+22401145,63,Success,H. Highsmith REBOUND (Off:2 Def:0),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/63/55b54e9b-8eb7-20ab-8725-19cf3c74ade1_320x180.mp4,True
+22401145,61,Success,H. Highsmith REBOUND (Off:1 Def:0),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/61/383d39e9-3081-55c0-baaa-81a56cdd65ff_320x180.mp4,True
+22401145,64,Success,MISS H. Highsmith tip Layup,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/64/e877446e-8562-6cc4-f4fd-a39377ba273e_320x180.mp4,True
+22401145,65,Success,Q. Grimes REBOUND (Off:0 Def:2),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/65/13abb8aa-9323-c02b-5579-3c9e3aa9ea82_320x180.mp4,True
+22401145,66,Success,MISS L. Walker IV 24' 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/66/e311434f-6aa6-e251-f749-3a51bed6183e_320x180.mp4,True
+22401145,67,Success,T. Herro REBOUND (Off:0 Def:2),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/67/d197187d-25cf-9aa7-f3c2-2a352caa3ea9_320x180.mp4,True
+22401145,69,Success,SUB out: H. Highsmith,,True
+22401145,70,Success,SUB in: D. Mitchell,,True
+22401145,71,Success,MISS A. Burks 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/71/0ccbd45e-93ad-10b8-d05f-84f1f20504d4_320x180.mp4,True
+22401145,73,Success,K. Ware putback DUNK (6 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/73/4a040705-b1f5-3f26-ec54-035b0905ea0c_320x180.mp4,True
+22401145,72,Success,K. Ware REBOUND (Off:2 Def:3),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/72/c397a9ce-64c7-9d4f-af9b-62a92b26be8a_320x180.mp4,True
+22401145,74,Success,Q. Grimes traveling TURNOVER (1 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/74/68d45c80-04d4-3d2a-b12c-7e8f44627c8f_320x180.mp4,True
+22401145,75,Success,P. Larsson 24' 3PT  (5 PTS) (A. Burks 1 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/75/a2d83029-2b08-a4c9-fc31-7ff5f0061d0c_320x180.mp4,True
+22401145,77,Success,MISS Q. Grimes 25' step back 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/77/9f0b7753-70ad-b04b-4319-8780578292e1_320x180.mp4,True
+22401145,78,Success,T. Herro REBOUND (Off:0 Def:3),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/78/63172e2e-9da3-54d9-a566-e5dbc28222ba_320x180.mp4,True
+22401145,79,Success,T. Herro running finger roll Layup (4 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/79/fc618ee8-0080-bc2b-fca5-4db6ad1da2bf_320x180.mp4,True
+22401145,80,Success,PHI Timeout,,True
+22401145,84,Success,SUB in: J. Hood-Schifino,,True
+22401145,83,Success,SUB in: K. Lowry,,True
+22401145,82,Success,SUB out: M. Bagley,,True
+22401145,81,Success,SUB out: J. Butler,,True
+22401145,85,Success,MISS L. Walker IV 25' pullup 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/85/66d1ec47-7bc8-9a7c-7b20-326006cbf2d7_320x180.mp4,True
+22401145,86,Success,K. Ware REBOUND (Off:2 Def:4),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/86/4d50ad7a-5db7-3558-10a3-b01838bef5a4_320x180.mp4,True
+22401145,87,Success,MISS T. Herro 7' running Layup,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/87/6739fe40-393c-a252-9c9b-a654ab22bd75_320x180.mp4,True
+22401145,88,Success,K. Lowry REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/88/e02a1503-3dfc-35e6-6c5c-9f0ad2768d81_320x180.mp4,True
+22401145,89,Success,L. Walker IV driving Layup (8 PTS) (Q. Grimes 1 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/89/20825ebb-4713-0874-4df6-ad4a839bacc0_320x180.mp4,True
+22401145,91,Success,MISS D. Mitchell 8' driving floating Shot,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/91/c7f290d3-e488-9fe5-629c-af530deaec8c_320x180.mp4,True
+22401145,92,Success,L. Walker IV REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/92/347744e0-cb3f-3a98-7337-e11fd134a85d_320x180.mp4,True
+22401145,93,Success,T. Herro shooting personal FOUL (1 PF) (Walker IV 2 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/93/14665324-c12e-b95c-fc68-259d132decba_320x180.mp4,True
+22401145,100,Success,MISS L. Walker IV Free Throw 2 of 2,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/100/cf7e5e06-360f-5acd-b6fa-c41a53834166_320x180.mp4,True
+22401145,95,Success,L. Walker IV Free Throw 1 of 2 (9 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/95/569c2642-798a-1da2-3692-679a0e4945b3_320x180.mp4,True
+22401145,96,Success,SUB out: K. Ware,,True
+22401145,97,Success,SUB out: A. Burks,,True
+22401145,98,Success,SUB in: K. Anderson,,True
+22401145,99,Success,SUB in: D. Robinson,,True
+22401145,101,Success,K. Anderson REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/101/4b338fd4-729d-1d74-9968-5f5da3ea03d0_320x180.mp4,True
+22401145,102,Success,D. Robinson 24' 3PT  (3 PTS) (D. Mitchell 1 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/102/763cdce6-5598-f6c2-0ff8-c8580ccee2da_320x180.mp4,True
+22401145,104,Success,A. Bona cutting DUNK (7 PTS) (K. Lowry 1 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/104/fde690f5-8a0d-3536-1eb4-b4c2bc52fc1a_320x180.mp4,True
+22401145,106,Success,P. Larsson 24' 3PT  (8 PTS) (T. Herro 2 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/106/590f01fb-cf7c-c5d3-d670-8e6146329e8a_320x180.mp4,True
+22401145,108,Success,Q. Grimes driving Layup (4 PTS) (L. Walker IV 2 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/108/bd521bf0-bb60-dcb8-e1d0-64512de21133_320x180.mp4,True
+22401145,110,Success,MISS P. Larsson 7' Hook,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/110/8d3a316e-a946-90fb-4263-05ac303c57a6_320x180.mp4,True
+22401145,111,Success,A. Bona REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/111/612ea97c-4aa1-4141-e88e-5298c84c003d_320x180.mp4,True
+22401145,112,Success,Q. Grimes 12' fadeaway Jump Shot (6 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/112/2a61ebb6-9c1e-462a-ea99-eeb78a141422_320x180.mp4,True
+22401145,113,Success,MISS T. Herro driving Layup - blocked,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/113/043f1a5f-0fc0-ea1f-a226-e1ba8caeab2a_320x180.mp4,True
+22401145,114,Success,A. Bona BLOCK (1 BLK),,True
+22401145,115,Success,TEAM defensive REBOUND,,True
+22401145,117,Success,SUB out: P. Larsson,,True
+22401145,118,Success,SUB in: H. Highsmith,,True
+22401145,119,Success,MISS Q. Grimes 25' 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/119/7db1cbfd-4b20-2d10-bcf8-ffc0e3dbf23c_320x180.mp4,True
+22401145,120,Success,D. Mitchell REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/120/de071a80-df75-9a67-6ffa-ea5d6a3e6c0b_320x180.mp4,True
+22401145,121,Success,MISS H. Highsmith 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/121/92fceb13-fb95-3713-74da-391d24cf3af5_320x180.mp4,True
+22401145,122,Success,A. Bona REBOUND (Off:0 Def:2),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/122/4f29c4f8-c108-ce13-3d2d-dab694797411_320x180.mp4,True
+22401145,124,Success,D. Mitchell personal FOUL (1 PF),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/124/a4889d1a-c781-abf0-a21a-49eeb353ba8a_320x180.mp4,True
+22401145,126,Success,SUB out: T. Herro,,True
+22401145,127,Success,SUB in: J. Jaquez Jr.,,True
+22401145,128,Success,SUB out: L. Walker IV,,True
+22401145,129,Success,SUB in: M. Bagley,,True
+22401145,130,Success,MISS M. Bagley Layup - blocked,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/130/6c3c43df-c515-655b-4ae1-5987db330bea_320x180.mp4,True
+22401145,131,Success,K. Anderson BLOCK (1 BLK),,True
+22401145,132,Success,K. Anderson REBOUND (Off:0 Def:2),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/132/def96e1f-0ce4-7e6d-88d9-bd11ece47aaa_320x180.mp4,True
+22401145,133,Success,MISS K. Anderson 8' driving floating bank Shot,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/133/b8b94dd2-1d6c-e802-b2ef-2eda4dad704f_320x180.mp4,True
+22401145,134,Success,M. Bagley REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/134/ea58884a-66c2-299c-3dc4-1c1a8a29340b_320x180.mp4,True
+22401145,135,Success,A. Bona offensive FOUL (2 PF),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/135/4f532aa2-84f4-382b-3041-580ef021e335_320x180.mp4,True
+22401145,137,Success,A. Bona offensive foul TURNOVER (2 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/137/474aee34-d72f-af40-4206-4a302b088736_320x180.mp4,True
+22401145,138,Success,SUB out: A. Bona,,True
+22401145,139,Success,SUB in: C. Castleton,,True
+22401145,140,Success,D. Mitchell driving Layup (2 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/140/0435717e-8db8-8c16-9ad3-71b136e5cd1f_320x180.mp4,True
+22401145,141,Success,M. Bagley alley-oop DUNK (4 PTS) (Q. Grimes 2 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/141/d00766b2-3eda-9e2b-4bb9-bd8685c57352_320x180.mp4,True
+22401145,143,Success,M. Bagley personal FOUL (1 PF),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/143/209dd3df-331f-8562-e0a6-b30ece3a36c9_320x180.mp4,True
+22401145,145,Success,Period End,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/145/b675640a-377e-3a25-f1a7-50c7bb4e89cb_320x180.mp4,True
+22401145,146,Success,SUB out: Q. Grimes,,True
+22401145,147,Success,SUB in: L. Walker IV,,True
+22401145,148,Success,Period Start,,True
+22401145,149,Success,MISS K. Lowry 25' 3PT,,True
+22401145,150,Success,C. Castleton REBOUND (Off:1 Def:0),,True
+22401145,151,Success,C. Castleton putback Layup (2 PTS),,True
+22401145,152,Success,H. Highsmith 3PT  (6 PTS) (J. Jaquez Jr. 1 AST),,True
+22401145,154,Success,MISS M. Bagley 25' step back 3PT,,True
+22401145,155,Success,K. Anderson REBOUND (Off:0 Def:3),,True
+22401145,156,Success,D. Robinson 25' 3PT  (6 PTS) (D. Mitchell 2 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/156/f0a2d2f3-1c9f-668f-fb42-f788010f137b_320x180.mp4,True
+22401145,158,Success,MISS L. Walker IV 25' 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/158/b6cebe70-6191-bd8f-70cd-161df6daeefc_320x180.mp4,True
+22401145,159,Success,K. Anderson REBOUND (Off:0 Def:4),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/159/0e2978e7-0427-b64e-2fd1-b16790568980_320x180.mp4,True
+22401145,160,Success,D. Robinson cutting Layup (8 PTS) (K. Anderson 1 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/160/e6506cf8-2774-f626-7766-d7ce0e33ced1_320x180.mp4,True
+22401145,162,Success,MISS M. Bagley cutting Layup - blocked,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/162/33c5368a-1cf7-a1de-0926-d78bdd8d96c7_320x180.mp4,True
+22401145,163,Success,D. Mitchell BLOCK (1 BLK),,True
+22401145,164,Success,C. Castleton REBOUND (Off:2 Def:0),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/164/e46c5289-e8fe-8d5a-61e8-8b69bd71f9ae_320x180.mp4,True
+22401145,165,Success,MISS L. Walker IV 26' 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/165/60a0c608-d542-5169-a5a6-ef3d4a9f78fc_320x180.mp4,True
+22401145,166,Success,M. Bagley REBOUND (Off:1 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/166/3915a2a8-d4c2-93a5-5e0f-e691b2623f31_320x180.mp4,True
+22401145,167,Success,MISS C. Castleton 15' floating Shot,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/167/724c8536-a37d-7714-05c8-176413ebffbe_320x180.mp4,True
+22401145,168,Success,K. Anderson REBOUND (Off:0 Def:5),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/168/d4e8bbe8-0796-e95c-9fd6-f5ca28ea6aae_320x180.mp4,True
+22401145,169,Success,J. Jaquez Jr. cutting Layup (2 PTS) (K. Anderson 2 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/169/dc669a58-24d4-1419-ad3d-d8cef4fa147f_320x180.mp4,True
+22401145,171,Success,PHI Timeout,,True
+22401145,172,Success,SUB out: M. Bagley,,True
+22401145,173,Success,SUB in: R. Council IV,,True
+22401145,174,Success,K. Lowry 15' driving floating Jump Shot (2 PTS) (C. Castleton 1 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/174/c6745c0f-042e-46ed-5a61-d667a28306ff_320x180.mp4,True
+22401145,176,Success,TEAM delay-of-game VIOLATION,,True
+22401145,177,Success,MISS J. Jaquez Jr. driving Layup,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/177/c283ad58-dfe0-a856-14a1-1f7adfaac842_320x180.mp4,True
+22401145,178,Success,J. Jaquez Jr. REBOUND (Off:1 Def:0),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/178/68ab0a6d-5866-1628-d0c2-314f7b83ce96_320x180.mp4,True
+22401145,179,Success,MISS D. Mitchell driving finger roll Layup,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/179/bdfd7b80-e35c-2353-e8ba-be2c54750e3c_320x180.mp4,True
+22401145,180,Success,TEAM offensive REBOUND,,True
+22401145,182,Success,MISS D. Robinson 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/182/13aab23e-8fb8-19c6-5195-4ed8320599b4_320x180.mp4,True
+22401145,183,Success,K. Anderson REBOUND (Off:1 Def:5),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/183/3aafecef-ef7f-4205-3618-83e20dc14d26_320x180.mp4,True
+22401145,184,Success,K. Anderson tip Layup (2 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/184/bea6a98c-fdeb-d5ac-c5cb-ce8cd825c408_320x180.mp4,True
+22401145,185,Success,D. Robinson personal FOUL (1 PF),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/185/e4ce82c3-e8a9-fdd8-cc79-b2f0c94629b0_320x180.mp4,True
+22401145,187,Success,MISS J. Hood-Schifino 25' step back 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/187/c4e2005d-41ad-9a55-0e5c-16d2ec812ada_320x180.mp4,True
+22401145,188,Success,C. Castleton REBOUND (Off:3 Def:0),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/188/a2852491-f921-8e93-73ca-73f46d802152_320x180.mp4,True
+22401145,189,Success,K. Anderson shooting personal FOUL (1 PF) (Castleton 2 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/189/282a5f46-6259-95f0-5911-4e93b3cb5cde_320x180.mp4,True
+22401145,191,Success,C. Castleton Free Throw 1 of 2 (3 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/191/a801e302-c514-5750-7cc8-0d926f04775b_320x180.mp4,True
+22401145,192,Success,C. Castleton Free Throw 2 of 2 (4 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/192/83e652fa-7d32-08a6-eb48-e7fc29bb4794_320x180.mp4,True
+22401145,193,Success,C. Castleton defensive-3-second technical FOUL (1 Tech),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/193/7e9a54bb-cd71-f3cb-c773-9596a7044a74_320x180.mp4,True
+22401145,194,Success,D. Robinson technical Free Throw 1 of 1 (9 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/194/3263ae61-3cc3-f589-ab68-3242750af8ba_320x180.mp4,True
+22401145,195,Success,MISS J. Jaquez Jr. 25' 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/195/69f45c0d-ec91-b418-59df-1923beaa7e2b_320x180.mp4,True
+22401145,196,Success,D. Mitchell REBOUND (Off:1 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/196/1ea2f8a7-7295-e966-778c-39a30f1262c5_320x180.mp4,True
+22401145,197,Success,D. Mitchell driving Layup (4 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/197/a206f46d-6650-6ae8-c0bd-97ecd13662cc_320x180.mp4,True
+22401145,198,Success,L. Walker IV 17' step back Jump Shot (11 PTS) (C. Castleton 2 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/198/85a1ca20-2ca7-fe1b-5e9c-f80b65566e0b_320x180.mp4,True
+22401145,200,Success,MISS J. Jaquez Jr. 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/200/0fa8e008-2054-ee28-1ed3-09a0317f5d3b_320x180.mp4,True
+22401145,201,Success,R. Council IV REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/201/ea53f102-9dd1-16f2-24ed-37d7db8e5dbd_320x180.mp4,True
+22401145,203,Success,R. Council IV 12' driving floating Jump Shot (2 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/203/4d530050-d36f-5509-a4f3-c26d6e2db14a_320x180.mp4,True
+22401145,204,Success,H. Highsmith shooting personal FOUL (1 PF) (Council IV 1 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/204/27e6d60c-98a2-1bda-5974-4ef31d6c106b_320x180.mp4,True
+22401145,206,Success,SUB out: K. Anderson,,True
+22401145,207,Success,SUB out: H. Highsmith,,True
+22401145,208,Success,SUB out: K. Lowry,,True
+22401145,209,Success,SUB out: J. Hood-Schifino,,True
+22401145,210,Success,SUB out: C. Castleton,,True
+22401145,211,Success,SUB in: K. Ware,,True
+22401145,212,Success,SUB in: T. Herro,,True
+22401145,213,Success,SUB in: J. Butler,,True
+22401145,214,Success,SUB in: A. Bona,,True
+22401145,215,Success,SUB in: Q. Grimes,,True
+22401145,216,Success,MISS R. Council IV Free Throw 1 of 1,,True
+22401145,217,Success,J. Jaquez Jr. REBOUND (Off:1 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/217/b83f936a-0efd-e340-c5cd-0e8e5156889b_320x180.mp4,True
+22401145,218,Success,MISS D. Mitchell 9' driving finger roll Layup,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/218/df6bd8e6-7c37-5250-7581-654b5428dcc0_320x180.mp4,True
+22401145,219,Success,A. Bona REBOUND (Off:0 Def:3),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/219/cea3eca7-fad0-0d4f-1bc4-a77a5fd77aef_320x180.mp4,True
+22401145,220,Success,MISS Q. Grimes 14' step back Shot,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/220/cdd6532f-26ae-7585-b499-37eb78212097_320x180.mp4,True
+22401145,221,Success,K. Ware REBOUND (Off:2 Def:5),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/221/284977a9-1e77-462a-7ee9-c55b21f52c9a_320x180.mp4,True
+22401145,222,Success,Q. Grimes personal FOUL (1 PF),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/222/05270b1a-e576-4008-0b1a-24a20328563c_320x180.mp4,True
+22401145,224,Success,MISS T. Herro 17' pullup Shot,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/224/69285af6-af29-5cfc-9efd-981f85b9c8c1_320x180.mp4,True
+22401145,225,Success,K. Ware REBOUND (Off:3 Def:5),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/225/9e3627a5-2864-b07b-6f12-70e18e3eba84_320x180.mp4,True
+22401145,226,Success,MISS K. Ware driving Hook,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/226/f1fab49a-def5-8974-af70-c451cfe867d0_320x180.mp4,True
+22401145,227,Success,A. Bona REBOUND (Off:0 Def:4),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/227/49e36d07-d2d5-d02b-047c-e776da6fe3f3_320x180.mp4,True
+22401145,228,Success,K. Ware shooting personal FOUL (1 PF) (Walker IV 2 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/228/dc332de3-db36-eb39-1c57-c9ca5348419a_320x180.mp4,True
+22401145,230,Success,L. Walker IV Free Throw 1 of 2 (12 PTS),,True
+22401145,231,Success,SUB out: J. Jaquez Jr.,,True
+22401145,232,Success,SUB in: P. Larsson,,True
+22401145,233,Success,L. Walker IV Free Throw 2 of 2 (13 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/233/e832a817-2357-ab0e-9ef9-f6bae7367aed_320x180.mp4,True
+22401145,234,Success,Q. Grimes shooting personal FOUL (2 PF) (Larsson 2 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/234/9a6a829d-43e9-7be5-2167-60ef5e5556bb_320x180.mp4,True
+22401145,236,Success,P. Larsson Free Throw 1 of 2 (9 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/236/9d43298d-b6c1-2d4d-52b6-849410c327ad_320x180.mp4,True
+22401145,239,Success,MISS P. Larsson Free Throw 2 of 2,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/239/17678bc8-7c94-eb27-1ef2-b06c250d0def_320x180.mp4,True
+22401145,237,Success,SUB out: L. Walker IV,,True
+22401145,238,Success,SUB in: A. Reese,,True
+22401145,240,Success,R. Council IV REBOUND (Off:0 Def:2),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/240/517dde18-dba3-443e-9a08-8a21824f61d3_320x180.mp4,True
+22401145,241,Success,MISS A. Reese 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/241/8a724309-2684-7c58-ca0b-4dd681d6cef6_320x180.mp4,True
+22401145,242,Success,R. Council IV REBOUND (Off:1 Def:2),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/242/9ba24b61-7d97-7a52-f039-669c507430be_320x180.mp4,True
+22401145,243,Success,R. Council IV bad pass TURNOVER (1 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/243/6bc7e6fa-3a79-dcec-96ff-3a7b7294736a_320x180.mp4,True
+22401145,244,Success,P. Larsson STEAL (1 STL),,True
+22401145,245,Success,T. Herro bad pass TURNOVER (4 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/245/5055a5f7-cf5f-faa2-5731-97397acad25c_320x180.mp4,True
+22401145,246,Success,Q. Grimes STEAL (1 STL),,True
+22401145,247,Success,MISS Q. Grimes driving finger roll Layup,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/247/3ac0964c-b27e-abf2-6fed-260e94dbd6c6_320x180.mp4,True
+22401145,248,Success,K. Ware REBOUND (Off:3 Def:6),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/248/c29a766e-bc03-fc1f-dfdc-3fc7afd81c57_320x180.mp4,True
+22401145,249,Success,T. Herro 25' 3PT running (7 PTS) (D. Mitchell 3 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/249/33f2c973-36b4-7416-33bd-810a604256c6_320x180.mp4,True
+22401145,251,Success,MISS J. Butler 10' driving floating Shot,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/251/4f9b82f3-d41c-2e3c-fb66-18ef60edb3cf_320x180.mp4,True
+22401145,252,Success,D. Mitchell REBOUND (Off:1 Def:2),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/252/3a4ef217-6d0c-ba13-7d87-f7fd7c0be174_320x180.mp4,True
+22401145,253,Success,P. Larsson running reverse Layup (11 PTS) (D. Mitchell 4 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/253/e77753c7-5886-cfcf-14c0-29789d62967f_320x180.mp4,True
+22401145,255,Success,MISS A. Reese 25' 3PT,,True
+22401145,256,Success,K. Ware REBOUND (Off:3 Def:7),,True
+22401145,257,Success,MISS T. Herro 24' running 3PT,,True
+22401145,258,Success,J. Butler REBOUND (Off:0 Def:1),,True
+22401145,259,Success,D. Mitchell shooting personal FOUL (2 PF) (Council IV 2 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/259/19d6f3b9-40ce-75d3-e61e-568845b5e0b0_320x180.mp4,True
+22401145,261,Success,R. Council IV Free Throw 1 of 2 (3 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/261/c7f146e9-6105-db44-95d3-31ecca3044db_320x180.mp4,True
+22401145,262,Success,SUB out: D. Robinson,,True
+22401145,263,Success,SUB in: H. Highsmith,,True
+22401145,264,Success,R. Council IV Free Throw 2 of 2 (4 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/264/8dd72b1b-1d80-538e-e541-d2b9f17aefe3_320x180.mp4,True
+22401145,265,Success,MISS K. Ware 24' 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/265/53f5b0ec-1401-142c-6522-2fc29ad38676_320x180.mp4,True
+22401145,266,Success,A. Reese REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/266/4efa35ee-62fd-23be-a3b7-b45d7d41af34_320x180.mp4,True
+22401145,267,Success,Q. Grimes driving Layup (8 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/267/9e00f925-5e8e-3af9-99f1-79d96965213d_320x180.mp4,True
+22401145,268,Success,J. Butler shooting personal FOUL (1 PF) (Mitchell 2 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/268/b8c4e720-dd2d-e761-72bf-3a6fe5988a4e_320x180.mp4,True
+22401145,270,Success,D. Mitchell Free Throw 1 of 2 (5 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/270/27701fea-7cbb-3d21-a62b-821181a4f213_320x180.mp4,True
+22401145,271,Success,D. Mitchell Free Throw 2 of 2 (6 PTS),,True
+22401145,272,Success,MISS A. Reese 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/272/427239ea-e500-54da-1876-ac5e0930e501_320x180.mp4,True
+22401145,273,Success,P. Larsson REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/273/e37af7b9-07c6-2d2e-6f2a-df2743337cd4_320x180.mp4,True
+22401145,274,Success,H. Highsmith 24' 3PT  (9 PTS) (D. Mitchell 5 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/274/8883cd6a-ecab-79dc-86c9-54acc0d0c651_320x180.mp4,True
+22401145,276,Success,MISS R. Council IV 27' 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/276/1450ed95-2e4d-3b00-1782-d17221a0c627_320x180.mp4,True
+22401145,277,Success,P. Larsson REBOUND (Off:0 Def:2),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/277/e4de29a5-129f-2b47-beac-6a24f459d24f_320x180.mp4,True
+22401145,278,Success,A. Reese shooting personal FOUL (1 PF) (Larsson 2 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/278/c5182bf0-bd99-5789-a140-500ea6b6edc2_320x180.mp4,True
+22401145,280,Success,MIA Timeout,,True
+22401145,281,Success,SUB out: A. Reese,,True
+22401145,282,Success,SUB in: L. Walker IV,,True
+22401145,283,Success,MISS P. Larsson Free Throw 1 of 2,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/283/83449b94-ef46-5dff-8b94-2a4930127ee0_320x180.mp4,True
+22401145,284,Success,TEAM offensive REBOUND,,True
+22401145,285,Success,P. Larsson Free Throw 2 of 2 (12 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/285/c0bd7db3-c402-5b0a-265f-652208d3c747_320x180.mp4,True
+22401145,286,Success,MISS J. Butler 14' driving floating Shot,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/286/08e21e6f-3717-3664-492a-9bf8623cf408_320x180.mp4,True
+22401145,287,Success,K. Ware REBOUND (Off:3 Def:8),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/287/20f8a996-c38b-bc1a-3430-ed235c348259_320x180.mp4,True
+22401145,288,Success,MISS H. Highsmith running 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/288/bb4b8be7-c0a7-b10b-385a-1a38279118a2_320x180.mp4,True
+22401145,289,Success,J. Butler REBOUND (Off:0 Def:2),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/289/52665628-bd23-5f83-08db-7c296da12b18_320x180.mp4,True
+22401145,309,Success,R. Council IV lost ball out-of-bounds TURNOVER (2 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/309/df4bf7d5-066e-bb6e-456e-8ebde5b71415_320x180.mp4,True
+22401145,294,Success,D. Mitchell driving Layup (8 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/294/fcecfce3-6a7d-ad35-e7d8-103d889d1b39_320x180.mp4,True
+22401145,295,Success,MISS Q. Grimes 26' pullup 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/295/ed1533dc-8ef6-23e9-9030-02fd5833c289_320x180.mp4,True
+22401145,296,Success,R. Council IV REBOUND (Off:2 Def:2),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/296/2a231e9c-aa53-dfc1-8175-48020520930f_320x180.mp4,True
+22401145,297,Success,L. Walker IV 3PT  (16 PTS) (R. Council IV 1 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/297/ec3aac70-1289-b280-cfe7-4fdc3f6398b7_320x180.mp4,True
+22401145,299,Success,T. Herro bad pass out-of-bounds TURNOVER (5 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/299/5135cde6-ae0e-d93f-2666-1da7c0ce3f55_320x180.mp4,True
+22401145,301,Success,SUB in: M. Bagley,,True
+22401145,300,Success,SUB out: R. Council IV,,True
+22401145,302,Success,Q. Grimes driving Layup (10 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/302/c33af75e-5b4f-ffff-679d-abbd2c0d61b7_320x180.mp4,True
+22401145,303,Success,D. Mitchell lost ball TURNOVER (1 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/303/76899083-9ad0-4ae6-bac9-4eaba1c6582e_320x180.mp4,True
+22401145,304,Success,J. Butler STEAL (3 STL),,True
+22401145,305,Success,A. Bona alley-oop DUNK (9 PTS) (J. Butler 3 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/305/f5310d52-e085-b26d-72fe-7131a36c684a_320x180.mp4,True
+22401145,307,Success,A. Bona rim-hanging technical FOUL (1 Tech),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/307/9ed9924a-c34e-00b3-1be4-37b4b47f55e4_320x180.mp4,True
+22401145,308,Success,T. Herro technical Free Throw 1 of 1 (8 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/308/4010dd2b-6152-2c11-0fab-9949af1eeddc_320x180.mp4,True
+22401145,310,Success,K. Ware 17' step back Jump Shot (8 PTS) (P. Larsson 2 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/310/515c7c59-9a16-6987-daad-ed138c7a5d77_320x180.mp4,True
+22401145,312,Success,J. Butler driving Layup (4 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/312/e587084b-64ee-1701-5136-eb3f5d421a62_320x180.mp4,True
+22401145,313,Success,MISS D. Mitchell Layup,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/313/e91b9264-63af-51a1-b44b-23c8f8b18711_320x180.mp4,True
+22401145,314,Success,M. Bagley REBOUND (Off:1 Def:2),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/314/8878817e-b672-ba23-6f27-c33c2bd20f8f_320x180.mp4,True
+22401145,315,Success,MISS A. Bona 8' Hook,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/315/feebd140-f5ee-bfb6-d40f-d900b2c4f2a7_320x180.mp4,True
+22401145,316,Success,TEAM offensive REBOUND,,True
+22401145,317,Success,Period End,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/317/e116c563-3397-84b4-dbe6-ad13384eee61_320x180.mp4,True
+22401145,318,Success,SUB out: D. Mitchell,,True
+22401145,319,Success,SUB in: A. Burks,,True
+22401145,320,Success,Period Start,,True
+22401145,321,Success,J. Butler 8' driving floating Jump Shot (6 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/321/ea3570f9-981b-2ae6-8bff-0ca0d1d6524a_320x180.mp4,True
+22401145,322,Success,L. Walker IV personal FOUL (2 PF),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/322/98d6347c-6102-2fba-5836-d352b29c52e7_320x180.mp4,True
+22401145,324,Success,A. Burks 7' turnaround Hook (5 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/324/1d2b5486-67bc-7a17-c5e2-5ee5e0613f40_320x180.mp4,True
+22401145,325,Success,Q. Grimes bad pass TURNOVER (2 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/325/b45ccbab-e112-d0da-8b3e-c44cfc76f15f_320x180.mp4,True
+22401145,326,Success,K. Ware STEAL (1 STL),,True
+22401145,327,Success,A. Burks 25' 3PT pullup (8 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/327/3b47e2ad-51ef-900e-d816-9f5f7cd46b9c_320x180.mp4,True
+22401145,328,Success,MISS A. Bona driving Layup - blocked,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/328/c84bf593-2226-479a-1e3b-766a2d28e1fd_320x180.mp4,True
+22401145,329,Success,K. Ware BLOCK (1 BLK),,True
+22401145,330,Success,P. Larsson REBOUND (Off:0 Def:3),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/330/ab866fa9-e24c-27ea-ee3a-75cf7110c445_320x180.mp4,True
+22401145,331,Success,MISS T. Herro 6' driving Layup - blocked,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/331/40d1a6b8-4a91-21ed-07ee-4e4c8acb6964_320x180.mp4,True
+22401145,332,Success,A. Bona BLOCK (2 BLK),,True
+22401145,333,Success,Q. Grimes REBOUND (Off:0 Def:3),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/333/67a56b47-f275-ef5d-af16-0e556f8afe21_320x180.mp4,True
+22401145,334,Success,L. Walker IV running DUNK (18 PTS) (Q. Grimes 3 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/334/d7a4417f-c46c-60fc-6fff-50e0e2efab70_320x180.mp4,True
+22401145,336,Success,MISS A. Burks 25' 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/336/d3f4611e-962b-384f-b2f9-592f23681f8a_320x180.mp4,True
+22401145,337,Success,M. Bagley REBOUND (Off:1 Def:3),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/337/cca070dc-e57f-febf-128f-cefdd0fd8c97_320x180.mp4,True
+22401145,338,Success,A. Burks transition take personal FOUL (2 PF) (Bagley 1 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/338/0fc8b45d-e70b-de0d-5fa1-bc9a3fd3f4b6_320x180.mp4,True
+22401145,340,Success,Q. Grimes transition take Free Throw 1 of 1 (11 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/340/b6c83ad8-6501-950c-3814-fb72f80a2718_320x180.mp4,True
+22401145,341,Success,H. Highsmith shooting personal FOUL (2 PF) (Butler 2 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/341/a6c14898-6da4-1eab-95c4-aa901081e706_320x180.mp4,True
+22401145,343,Success,J. Butler Free Throw 1 of 2 (7 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/343/a32504b8-8aa3-8224-8810-92a9226ec7dd_320x180.mp4,True
+22401145,344,Success,J. Butler Free Throw 2 of 2 (8 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/344/7049474f-d7cb-2d17-c886-0c94840e1a67_320x180.mp4,True
+22401145,345,Success,A. Burks 3PT  (11 PTS) (K. Ware 1 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/345/caf84b34-c1e7-3cd5-0664-bbcfe23859c9_320x180.mp4,True
+22401145,347,Success,Q. Grimes 25' 3PT pullup (14 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/347/b02e9542-2664-545e-c5d4-6f6896edb329_320x180.mp4,True
+22401145,348,Success,MISS A. Burks 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/348/1944484e-5898-ac14-1e92-7296c4589eca_320x180.mp4,True
+22401145,349,Success,Q. Grimes REBOUND (Off:0 Def:4),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/349/69c11edd-3623-cfdc-506e-22961f7bb43c_320x180.mp4,True
+22401145,350,Success,MISS M. Bagley driving finger roll Layup,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/350/95a7eb78-1904-35f1-0196-3943e46bffff_320x180.mp4,True
+22401145,351,Success,K. Ware REBOUND (Off:3 Def:9),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/351/7418844a-70fd-54c9-a8b5-1e7cc1bd18fe_320x180.mp4,True
+22401145,352,Success,T. Herro running Layup (10 PTS) (A. Burks 2 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/352/2bb850d7-e5cc-5da9-eda9-6211246f4e8c_320x180.mp4,True
+22401145,354,Success,L. Walker IV lost ball TURNOVER (1 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/354/a6b4adc5-64e4-6af6-e78e-289faa595e8f_320x180.mp4,True
+22401145,355,Success,T. Herro STEAL (1 STL),,True
+22401145,356,Success,MISS K. Ware 12' driving floating Shot,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/356/a0a6019b-91e9-161f-a23b-5cdbd175f0f8_320x180.mp4,True
+22401145,357,Success,M. Bagley REBOUND (Off:1 Def:4),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/357/886408b7-3a6d-6b88-d4dc-341ab671a0fe_320x180.mp4,True
+22401145,358,Success,Q. Grimes 3PT  (17 PTS) (J. Butler 4 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/358/ee6eec36-f399-4d1d-3917-290403d0cea4_320x180.mp4,True
+22401145,360,Success,A. Burks bad pass out-of-bounds TURNOVER (3 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/360/23036b2b-fcea-a9a6-b6a4-a55db9057941_320x180.mp4,True
+22401145,361,Success,MISS M. Bagley 8' floating Shot,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/361/b80e509c-bc78-f841-9dfc-d7651c1ace2d_320x180.mp4,True
+22401145,362,Success,M. Bagley REBOUND (Off:2 Def:4),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/362/00ac4bc4-6b83-3aa4-fecf-66b413a06b1d_320x180.mp4,True
+22401145,363,Success,K. Ware shooting personal FOUL (2 PF) (Bagley 2 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/363/d8e2700a-01f8-9fdc-725c-83a0c4c4877f_320x180.mp4,True
+22401145,365,Success,M. Bagley Free Throw 1 of 2 (5 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/365/a1a36abd-aa77-7be4-4d23-3ed70442f10b_320x180.mp4,True
+22401145,366,Success,M. Bagley Free Throw 2 of 2 (6 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/366/492e0ef5-43ee-653a-7411-3eac2f9d5db5_320x180.mp4,True
+22401145,367,Success,MIA Timeout,,True
+22401145,368,Success,MISS A. Burks 6' driving Layup - blocked,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/368/81161140-02f8-9edc-6c0f-933f3f73d6e2_320x180.mp4,True
+22401145,369,Success,A. Bona BLOCK (3 BLK),,True
+22401145,370,Success,A. Bona REBOUND (Off:0 Def:5),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/370/51eb6902-b9f9-ca82-11dc-fd3e8a9dab11_320x180.mp4,True
+22401145,371,Success,Q. Grimes 25' 3PT running pullup (20 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/371/7ddce4f7-5869-802f-c363-bf9b6159cc0b_320x180.mp4,True
+22401145,372,Success,T. Herro traveling TURNOVER (6 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/372/9f49a5d6-dbc9-ebbc-508e-03e03e711f66_320x180.mp4,True
+22401145,373,Success,SUB out: H. Highsmith,,True
+22401145,374,Success,SUB in: D. Mitchell,,True
+22401145,375,Success,MISS Q. Grimes 24' pullup 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/375/a046f04e-d52d-058e-2987-0aabb39f9d1e_320x180.mp4,True
+22401145,376,Success,A. Bona REBOUND (Off:1 Def:5),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/376/0005ced6-1047-1501-795a-3221d2be665b_320x180.mp4,True
+22401145,377,Success,MISS A. Bona driving Layup,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/377/84b8d4f4-8cb4-aac9-b42e-f81fb0b44246_320x180.mp4,True
+22401145,378,Success,TEAM offensive REBOUND,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/378/35ce485d-0b06-0c4d-a0da-d684fdc8dd51_320x180.mp4,True
+22401145,379,Success,Jump Ball A. Bona vs. A. Burks: Tip to L. Walker IV,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/379/4dbc8854-faad-b60b-7e9b-164a7cd05377_320x180.mp4,True
+22401145,382,Success,L. Walker IV 25' 3PT step back (21 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/382/32b9c756-7b39-0562-ef6a-565fd243a055_320x180.mp4,True
+22401145,383,Success,K. Ware 13' floating Jump Shot (10 PTS) (D. Mitchell 6 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/383/a16d1da9-1366-f22d-d668-8baadafd154e_320x180.mp4,True
+22401145,386,Success,SUB out: A. Burks,,True
+22401145,387,Success,SUB in: K. Anderson,,True
+22401145,388,Success,MISS Q. Grimes 15' step back Shot,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/388/97c3d6cd-bd0e-4e22-4460-9fbb403fde57_320x180.mp4,True
+22401145,389,Success,A. Bona REBOUND (Off:2 Def:5),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/389/7dc35380-0636-734a-d74c-51180d8fcc43_320x180.mp4,True
+22401145,390,Success,Q. Grimes 24' 3PT  (23 PTS) (A. Bona 1 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/390/76a25b94-80f9-fda4-0482-2897f8d2fcd6_320x180.mp4,True
+22401145,392,Success,MISS K. Ware 13' floating Shot,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/392/6384cde6-24b2-6b62-9c25-681a3a3f2ceb_320x180.mp4,True
+22401145,393,Success,Q. Grimes REBOUND (Off:0 Def:5),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/393/533b73d3-14c4-ce84-19a1-fc2b60881a78_320x180.mp4,True
+22401145,394,Success,MISS Q. Grimes 13' running pullup Shot - blocked,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/394/272db9cd-81d9-0a29-e4c8-0b784b1e1b6d_320x180.mp4,True
+22401145,395,Success,K. Anderson BLOCK (2 BLK),,True
+22401145,396,Success,K. Anderson REBOUND (Off:1 Def:6),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/396/b0f6727b-4fc8-1ebf-611f-7f8ad784ac64_320x180.mp4,True
+22401145,397,Success,T. Herro running Layup (12 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/397/f262ea34-d7a0-16a4-fabf-67b7b00297b4_320x180.mp4,True
+22401145,398,Success,MISS L. Walker IV 15' pullup Shot,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/398/eb4b982d-5e9a-d908-b588-d21816d95d36_320x180.mp4,True
+22401145,399,Success,A. Bona REBOUND (Off:3 Def:5),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/399/c9556166-81a6-94bb-61d7-7308859aaafd_320x180.mp4,True
+22401145,400,Success,P. Larsson shooting personal FOUL (1 PF) (Bona 2 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/400/16abbc42-ab6c-3852-de4f-08d5a0747432_320x180.mp4,True
+22401145,402,Success,MISS A. Bona Free Throw 1 of 2,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/402/95855a43-7a0c-d170-fcb0-7720ed8d3f3d_320x180.mp4,True
+22401145,403,Success,TEAM offensive REBOUND,,True
+22401145,404,Success,A. Bona Free Throw 2 of 2 (10 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/404/f0b9cba6-a879-bb90-7e1a-04e485b8a907_320x180.mp4,True
+22401145,405,Success,MISS D. Mitchell driving Layup - blocked,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/405/df23ecd0-9a30-769d-fccd-1fe67fff9b94_320x180.mp4,True
+22401145,406,Success,M. Bagley BLOCK (1 BLK),,True
+22401145,407,Success,TEAM offensive REBOUND,,True
+22401145,409,Success,MISS T. Herro 24' 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/409/ec80123f-dd40-36db-f9d8-b1577332b0b8_320x180.mp4,True
+22401145,410,Success,J. Butler REBOUND (Off:0 Def:3),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/410/1717772d-ebcd-33e1-8610-1594fc9b2071_320x180.mp4,True
+22401145,483,Success,A. Bona lost ball TURNOVER (3 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/483/b57f8890-e85d-6316-04cc-7daca3742b1b_320x180.mp4,True
+22401145,484,Success,P. Larsson STEAL (2 STL),,True
+22401145,414,Success,T. Herro bad pass TURNOVER (7 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/414/b674face-59ca-9598-c994-ccdafb9efe2f_320x180.mp4,True
+22401145,415,Success,J. Butler STEAL (4 STL),,True
+22401145,416,Success,Q. Grimes bad pass TURNOVER (3 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/416/78beb8fe-70ea-b877-c5df-c37c30452269_320x180.mp4,True
+22401145,417,Success,D. Mitchell STEAL (1 STL),,True
+22401145,418,Success,K. Ware cutting DUNK (12 PTS) (K. Anderson 3 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/418/7da64d6f-3fdf-ff64-725f-b2f13c1b41e9_320x180.mp4,True
+22401145,420,Success,PHI Timeout,,True
+22401145,421,Success,SUB out: J. Butler,,True
+22401145,422,Success,SUB out: L. Walker IV,,True
+22401145,423,Success,SUB out: M. Bagley,,True
+22401145,424,Success,SUB in: K. Lowry,,True
+22401145,425,Success,SUB in: R. Council IV,,True
+22401145,426,Success,SUB in: J. Hood-Schifino,,True
+22401145,427,Success,A. Bona bad pass TURNOVER (4 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/427/b5881e82-3f4d-a958-f844-4e79f9fc7b35_320x180.mp4,True
+22401145,428,Success,P. Larsson STEAL (3 STL),,True
+22401145,430,Success,A. Bona shooting personal FOUL (3 PF) (Ware 2 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/430/4b77de73-8aff-a551-8f71-8cbab837b624_320x180.mp4,True
+22401145,432,Success,K. Ware Free Throw 1 of 2 (13 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/432/f5858daa-c3cb-eee5-8d52-b01b1629b95e_320x180.mp4,True
+22401145,433,Success,K. Ware Free Throw 2 of 2 (14 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/433/e6f91b3b-3d0f-7439-66ae-4b566fecd5ca_320x180.mp4,True
+22401145,434,Success,MISS J. Hood-Schifino 24' step back 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/434/c367a9e9-94d0-76f4-f217-8b8fc8dcca7b_320x180.mp4,True
+22401145,435,Success,K. Ware REBOUND (Off:3 Def:10),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/435/e7092629-11ba-1bd6-f419-3aaccbfad3ff_320x180.mp4,True
+22401145,436,Success,J. Hood-Schifino shooting personal FOUL (1 PF) (Herro 2 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/436/1b493e3f-01b4-747c-ab26-d9c673e1acab_320x180.mp4,True
+22401145,438,Success,T. Herro Free Throw 1 of 2 (13 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/438/77d49dbe-9cd3-940b-012c-d56a968c5bb3_320x180.mp4,True
+22401145,443,Success,MISS T. Herro Free Throw 2 of 2,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/443/9fa721c1-f85e-3bb3-1bd3-b8988136f001_320x180.mp4,True
+22401145,442,Success,SUB in: C. Castleton,,True
+22401145,439,Success,SUB out: P. Larsson,,True
+22401145,440,Success,SUB out: A. Bona,,True
+22401145,441,Success,SUB in: H. Highsmith,,True
+22401145,444,Success,C. Castleton REBOUND (Off:3 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/444/1e4f3975-c7b3-5fb3-4b55-743e217ab8e7_320x180.mp4,True
+22401145,445,Success,MISS R. Council IV 27' 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/445/8b219b22-bff7-1eb1-0925-c1caf12138bf_320x180.mp4,True
+22401145,446,Success,T. Herro REBOUND (Off:0 Def:4),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/446/772506da-345f-5ea4-71dc-cf92e998ba31_320x180.mp4,True
+22401145,447,Success,Q. Grimes shooting personal FOUL (3 PF) (Ware 2 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/447/6b756114-59ba-ec1a-9e37-9ce8bd2f8095_320x180.mp4,True
+22401145,449,Success,MISS K. Ware Free Throw 1 of 2,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/449/40fc0361-371f-b871-315d-5dc9eb00b7e3_320x180.mp4,True
+22401145,450,Success,TEAM offensive REBOUND,,True
+22401145,451,Success,SUB out: T. Herro,,True
+22401145,452,Success,SUB in: D. Robinson,,True
+22401145,453,Success,K. Ware Free Throw 2 of 2 (15 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/453/61cfab37-9795-f354-e396-6ad086ecd795_320x180.mp4,True
+22401145,454,Success,MISS Q. Grimes 13' pullup Shot,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/454/28b9be0f-a908-4202-f5ad-8c2da44e9306_320x180.mp4,True
+22401145,455,Success,Q. Grimes REBOUND (Off:1 Def:5),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/455/2687b271-2bd0-2b59-6b05-df43703c8699_320x180.mp4,True
+22401145,457,Success,D. Mitchell personal FOUL (3 PF) (Grimes 2 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/457/25b5a098-a4d5-c579-625e-1754983aee79_320x180.mp4,True
+22401145,459,Success,Q. Grimes Free Throw 1 of 2 (24 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/459/55d5619c-37f7-b941-bd4d-60f438238419_320x180.mp4,True
+22401145,460,Success,Q. Grimes Free Throw 2 of 2 (25 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/460/cbd02127-d5f5-0300-3b16-420896bd4fc3_320x180.mp4,True
+22401145,461,Success,MISS H. Highsmith 25' 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/461/aee91574-5bbe-db53-00e4-0d00baaecdec_320x180.mp4,True
+22401145,462,Success,Q. Grimes REBOUND (Off:1 Def:6),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/462/8761f949-e190-e123-f07b-f8654bdbc672_320x180.mp4,True
+22401145,463,Success,MISS R. Council IV running Layup,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/463/b1300a15-958b-83b5-d1d1-ec72c5cdcc3a_320x180.mp4,True
+22401145,464,Success,R. Council IV REBOUND (Off:3 Def:2),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/464/66aa2fff-aa48-ac0b-821b-8d1c502d76f0_320x180.mp4,True
+22401145,465,Success,K. Lowry 3PT  (5 PTS) (C. Castleton 3 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/465/b5985994-eaa1-2c31-af7e-9e9e93094f10_320x180.mp4,True
+22401145,467,Success,K. Anderson 8' driving floating Jump Shot (4 PTS) (D. Mitchell 7 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/467/4033ed72-8246-da3c-0a25-c8e217575045_320x180.mp4,True
+22401145,469,Success,MISS Q. Grimes 24' 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/469/e216bd19-a30d-75bb-1ab6-9f2528e9197f_320x180.mp4,True
+22401145,470,Success,K. Anderson REBOUND (Off:1 Def:7),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/470/ab5159e9-b201-df33-d068-ac3e8b5099e2_320x180.mp4,True
+22401145,471,Success,MISS K. Ware running Layup,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/471/fd0c0374-2df0-23c0-66d3-dc22f7697479_320x180.mp4,True
+22401145,472,Success,Q. Grimes REBOUND (Off:1 Def:7),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/472/39ac160f-eb9e-396c-956b-d8b0cbe420db_320x180.mp4,True
+22401145,473,Success,R. Council IV bad pass out-of-bounds TURNOVER (3 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/473/ae034ae2-bf13-ab34-af77-a1d02bd297aa_320x180.mp4,True
+22401145,474,Success,SUB out: K. Ware,,True
+22401145,475,Success,SUB in: J. Jaquez Jr.,,True
+22401145,476,Success,MISS J. Jaquez Jr. 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/476/d22972f8-50c5-b117-5c1a-01d369c79d4c_320x180.mp4,True
+22401145,477,Success,C. Castleton REBOUND (Off:3 Def:2),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/477/809b9e57-768b-e2ea-c51f-631e01650cbc_320x180.mp4,True
+22401145,478,Success,MISS K. Lowry 59' pullup 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/478/2c466055-48c3-d3a3-5dc6-8f68055c84de_320x180.mp4,True
+22401145,479,Success,TEAM offensive REBOUND,,True
+22401145,480,Success,Period End,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/480/f1603234-9f62-8509-85c5-db689528ef93_320x180.mp4,True
+22401145,481,Success,SUB out: Q. Grimes,,True
+22401145,482,Success,SUB in: L. Walker IV,,True
+22401145,485,Success,Period Start,,True
+22401145,486,Success,MISS H. Highsmith 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/486/bca00c4f-56cf-07fd-aee8-071d0eb6eace_320x180.mp4,True
+22401145,487,Success,C. Castleton REBOUND (Off:3 Def:3),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/487/0e4fd1b7-9ef1-b14f-b7d7-7562f71ef015_320x180.mp4,True
+22401145,488,Success,MISS R. Council IV 7' driving Hook,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/488/e3185958-f914-a916-559a-4b81e4afab51_320x180.mp4,True
+22401145,489,Success,H. Highsmith REBOUND (Off:2 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/489/536bd711-025c-5798-2ead-9e427b63d2e3_320x180.mp4,True
+22401145,490,Success,H. Highsmith bad pass out-of-bounds TURNOVER (1 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/490/6fd4e8bb-d01a-8216-0140-65d01d6457fa_320x180.mp4,True
+22401145,491,Success,MISS K. Lowry 24' 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/491/6a8205b1-89c7-11dd-00de-1c3cdc98ab66_320x180.mp4,True
+22401145,492,Success,J. Jaquez Jr. REBOUND (Off:1 Def:2),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/492/703c7910-2606-2fe3-4f47-daabe5d97d6c_320x180.mp4,True
+22401145,493,Success,MISS J. Jaquez Jr. 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/493/3fd149f5-6748-041e-2846-681fe45148c5_320x180.mp4,True
+22401145,494,Success,J. Hood-Schifino REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/494/6df97406-f8c1-c472-3cfc-5abf40ff34df_320x180.mp4,True
+22401145,495,Success,MISS L. Walker IV 25' step back 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/495/916a2264-dfed-9287-dcf3-6089ecba40be_320x180.mp4,True
+22401145,496,Success,J. Jaquez Jr. REBOUND (Off:1 Def:3),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/496/e1c90539-1b26-39ce-7473-2eb7489c5886_320x180.mp4,True
+22401145,497,Success,K. Anderson 6' driving floating Jump Shot (6 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/497/39e83f7b-0425-b396-9ea0-71cce1b53326_320x180.mp4,True
+22401145,498,Success,L. Walker IV bad pass TURNOVER (2 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/498/e62c1de9-a9bd-5a2b-a53d-e0c90a569965_320x180.mp4,True
+22401145,499,Success,J. Jaquez Jr. STEAL (1 STL),,True
+22401145,500,Success,MISS D. Mitchell running Layup,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/500/fc353bb5-947e-6b13-4270-f3aa2b4a98e4_320x180.mp4,True
+22401145,501,Success,J. Hood-Schifino REBOUND (Off:0 Def:2),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/501/beaf8835-ddea-0034-db0c-ade7fadbdada_320x180.mp4,True
+22401145,502,Success,L. Walker IV 3PT running (24 PTS) (R. Council IV 2 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/502/17701204-e87f-1638-4e0e-3d9c964b4851_320x180.mp4,True
+22401145,504,Success,MISS H. Highsmith 25' 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/504/3725b5d3-3f91-b72e-69f7-df016766508d_320x180.mp4,True
+22401145,505,Success,J. Jaquez Jr. REBOUND (Off:2 Def:3),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/505/f26bf87b-83d6-520a-8480-49d279d73277_320x180.mp4,True
+22401145,506,Success,J. Jaquez Jr. 26' 3PT  (5 PTS) (D. Robinson 1 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/506/649dffb7-97b3-1614-8653-0db395d3ac3f_320x180.mp4,True
+22401145,508,Success,L. Walker IV driving Layup (26 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/508/7a310dfd-b4b7-95ee-26c1-e68dc480f71f_320x180.mp4,True
+22401145,509,Success,K. Lowry personal FOUL (1 PF),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/509/c304b0d9-0b2b-6f5d-4c4c-50a462071976_320x180.mp4,True
+22401145,511,Success,SUB out: H. Highsmith,,True
+22401145,512,Success,SUB out: K. Lowry,,True
+22401145,513,Success,SUB in: K. Ware,,True
+22401145,514,Success,SUB in: A. Reese,,True
+22401145,515,Success,K. Ware cutting DUNK (17 PTS) (K. Anderson 4 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/515/0d3bec21-c359-6c56-980a-1e9b801b7b17_320x180.mp4,True
+22401145,517,Success,MISS C. Castleton driving Hook - blocked,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/517/301aa70e-264f-ab63-cb05-618e21e31acc_320x180.mp4,True
+22401145,518,Success,D. Robinson BLOCK (1 BLK),,True
+22401145,519,Success,D. Robinson REBOUND (Off:0 Def:1),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/519/535f1ab9-dc6e-0b4f-bb92-2444869ca05c_320x180.mp4,True
+22401145,520,Success,D. Robinson 24' 3PT running pullup (12 PTS) (J. Jaquez Jr. 2 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/520/b3180417-1d86-a72e-9b9b-500b3c4702f6_320x180.mp4,True
+22401145,522,Success,PHI Timeout,,True
+22401145,523,Success,SUB out: R. Council IV,,True
+22401145,524,Success,SUB out: C. Castleton,,True
+22401145,525,Success,SUB in: Q. Grimes,,True
+22401145,526,Success,SUB in: A. Bona,,True
+22401145,527,Success,MISS Q. Grimes 24' step back 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/527/42fb44c1-95b6-e1cf-65d6-91bbcb248b5a_320x180.mp4,True
+22401145,528,Success,D. Robinson REBOUND (Off:0 Def:2),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/528/b0f560b3-c560-ecf4-35c3-1f8c6002680f_320x180.mp4,True
+22401145,529,Success,K. Anderson driving finger roll Layup (8 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/529/27c16785-8766-c6d3-183e-ed9313a5b12c_320x180.mp4,True
+22401145,531,Success,L. Walker IV 25' 3PT  (29 PTS) (Q. Grimes 4 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/531/48b40d30-4e02-bcf8-6a3e-b1185ed72f0b_320x180.mp4,True
+22401145,533,Success,MISS K. Ware cutting finger roll Layup,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/533/47b582d1-3868-6694-135e-79fc30d9afdb_320x180.mp4,True
+22401145,534,Success,A. Bona REBOUND (Off:3 Def:6),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/534/d9860a24-e2de-a56f-b512-cf25a09aa465_320x180.mp4,True
+22401145,535,Success,MISS L. Walker IV 24' 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/535/e2f57368-fac7-873b-f5ef-fbe615a5e6c0_320x180.mp4,True
+22401145,536,Success,K. Ware REBOUND (Off:3 Def:11),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/536/a3ce02b7-ca13-ee4e-8f2f-f78662074277_320x180.mp4,True
+22401145,537,Success,D. Mitchell driving Layup (10 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/537/8f192f4f-d51e-0f30-63ef-6dd8f5416447_320x180.mp4,True
+22401145,538,Success,MISS Q. Grimes 6' driving Layup - blocked,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/538/6ba820aa-7473-ab50-4462-90cd2818e146_320x180.mp4,True
+22401145,539,Success,J. Jaquez Jr. BLOCK (1 BLK),,True
+22401145,540,Success,D. Mitchell REBOUND (Off:1 Def:3),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/540/2830cb75-04fb-cf45-0f8d-6a989770d53a_320x180.mp4,True
+22401145,541,Success,D. Robinson running Layup (14 PTS) (D. Mitchell 8 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/541/8e4b05a5-7044-7a8b-6814-066b337cca6b_320x180.mp4,True
+22401145,543,Success,L. Walker IV shooting personal FOUL (3 PF) (Robinson 1 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/543/bb6dc819-b23d-e662-6474-a3e84a141d6b_320x180.mp4,True
+22401145,545,Success,SUB out: J. Jaquez Jr.,,True
+22401145,546,Success,SUB out: J. Hood-Schifino,,True
+22401145,547,Success,SUB out: A. Reese,,True
+22401145,548,Success,SUB in: T. Herro,,True
+22401145,549,Success,SUB in: J. Butler,,True
+22401145,550,Success,SUB in: M. Bagley,,True
+22401145,552,Success,TEAM delay-of-game VIOLATION,,True
+22401145,553,Success,D. Robinson Free Throw 1 of 1 (15 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/553/05e8483f-9aee-e091-24c9-666d7c0f9d8a_320x180.mp4,True
+22401145,554,Success,D. Mitchell personal FOUL (4 PF),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/554/04fbcfe1-5056-9b8a-71f7-ea41d9c895ac_320x180.mp4,True
+22401145,556,Success,M. Bagley step out-of-bounds TURNOVER (1 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/556/5a2cb062-c98a-1f1c-0d79-6ee2c7b9fe00_320x180.mp4,True
+22401145,557,Success,T. Herro 11' pullup Jump Shot (15 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/557/e4fc1ba0-7296-c52b-f413-141673531f0f_320x180.mp4,True
+22401145,559,Success,MISS L. Walker IV 24' 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/559/e5878488-afce-5cf0-de04-5721530668cb_320x180.mp4,True
+22401145,560,Success,K. Ware REBOUND (Off:3 Def:12),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/560/2528e047-8263-4ddc-0cb7-e023a9d73ff4_320x180.mp4,True
+22401145,561,Success,D. Mitchell 19' step back Jump Shot (12 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/561/b4f467a5-5da5-7d8f-71a2-183dfec2e976_320x180.mp4,True
+22401145,562,Success,PHI Timeout,,True
+22401145,563,Success,SUB out: J. Butler,,True
+22401145,564,Success,SUB in: K. Lowry,,True
+22401145,565,Success,A. Bona cutting DUNK (12 PTS) (Q. Grimes 5 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/565/93b98be6-1609-03dc-a729-89dcf9bb3a5d_320x180.mp4,True
+22401145,567,Success,MISS K. Anderson 8' driving floating Shot,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/567/5a5f11c3-10b0-d16f-f625-62df0e4e5fb2_320x180.mp4,True
+22401145,568,Success,K. Ware REBOUND (Off:4 Def:12),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/568/8eb46bc2-8351-bef5-12f5-58c383680093_320x180.mp4,True
+22401145,569,Success,K. Ware tip DUNK (19 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/569/07febaaa-cd7f-4339-7619-bfede3667274_320x180.mp4,True
+22401145,570,Success,Q. Grimes driving Layup (27 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/570/998c68e8-3c85-a269-2225-4e7bf9033f06_320x180.mp4,True
+22401145,572,Success,MIA Timeout,,True
+22401145,573,Success,SUB out: M. Bagley,,True
+22401145,574,Success,SUB in: R. Council IV,,True
+22401145,575,Success,MISS D. Mitchell 25' 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/575/ff94c5c9-f65d-016f-fc78-53729c0fa28d_320x180.mp4,True
+22401145,577,Success,TEAM defensive REBOUND,,True
+22401145,580,Success,Q. Grimes 6' fadeaway bank Jump Shot (29 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/580/fec02bf8-7fc7-57e1-b6d2-738aa1ff2de4_320x180.mp4,True
+22401145,581,Success,D. Robinson 3PT  (18 PTS) (K. Anderson 5 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/581/5b012b6b-eb0a-9fd4-8f98-806e2f1e3f58_320x180.mp4,True
+22401145,583,Success,A. Bona driving DUNK (14 PTS) (Q. Grimes 6 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/583/71c0b42d-166e-aa72-4fbc-011ba85df8d0_320x180.mp4,True
+22401145,585,Success,K. Anderson traveling TURNOVER (1 TO),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/585/198092bd-2e69-bee9-ca7b-93a10c54c4e6_320x180.mp4,True
+22401145,586,Success,D. Mitchell shooting personal FOUL (5 PF) (Grimes 3 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/586/cf421528-3622-8af4-e9fb-a168fe9c136f_320x180.mp4,True
+22401145,588,Success,MISS Q. Grimes Free Throw 1 of 3,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/588/65840975-b65f-1f85-30de-a6afee9c189b_320x180.mp4,True
+22401145,589,Success,TEAM offensive REBOUND,,True
+22401145,590,Success,MISS Q. Grimes Free Throw 2 of 3,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/590/cb0d9c7a-e9b4-a1d3-52c2-6d6e6d57c1f5_320x180.mp4,True
+22401145,591,Success,TEAM offensive REBOUND,,True
+22401145,592,Success,MISS Q. Grimes Free Throw 3 of 3,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/592/c56dd380-3af4-a692-3b1c-cf963b0bed64_320x180.mp4,True
+22401145,593,Success,A. Bona REBOUND (Off:4 Def:6),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/593/a534b1a3-ffcc-cdcc-19b9-e7ea3590a9ef_320x180.mp4,True
+22401145,629,Success,MISS A. Bona tip Layup,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/629/9489855b-fd6f-7010-3a07-ffad75a7fa28_320x180.mp4,True
+22401145,630,Success,K. Ware REBOUND (Off:4 Def:13),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/630/d1bb3fe7-8def-c4cb-43aa-c86173f2cb29_320x180.mp4,True
+22401145,595,Success,T. Herro 27' 3PT  (18 PTS) (K. Anderson 6 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/595/fb61924c-7633-6b19-4a9f-9025e15d1763_320x180.mp4,True
+22401145,598,Success,A. Bona REBOUND (Off:5 Def:6),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/598/4dd60b40-79f5-2ac7-e650-9b4fcfd5ff9a_320x180.mp4,True
+22401145,597,Success,MISS R. Council IV driving Layup,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/597/54e0d60b-5738-a20f-d2d6-b883669e3570_320x180.mp4,True
+22401145,599,Success,A. Bona putback Layup (16 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/599/cb449266-fb40-6e18-911e-f2bb5a420ed7_320x180.mp4,True
+22401145,600,Success,T. Herro cutting Layup (20 PTS) (K. Ware 2 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/600/253daafc-8ceb-e9c1-d49c-d449c0d3d8e7_320x180.mp4,True
+22401145,602,Success,MISS Q. Grimes driving finger roll Layup,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/602/c5684155-5e8d-77be-e02e-59aea26450b9_320x180.mp4,True
+22401145,603,Success,T. Herro REBOUND (Off:0 Def:5),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/603/9e7cb71c-46b1-77af-7aed-187875a945a1_320x180.mp4,True
+22401145,604,Success,D. Robinson 25' 3PT  (21 PTS) (D. Mitchell 9 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/604/bae0d009-4049-83ea-0d30-486e2369df25_320x180.mp4,True
+22401145,606,Success,PHI Timeout,,True
+22401145,616,Success,SUB in: P. Larsson,,True
+22401145,622,Success,SUB in: J. Butler,,True
+22401145,621,Success,SUB in: J. Hood-Schifino,,True
+22401145,620,Success,SUB in: A. Reese,,True
+22401145,619,Success,SUB in: C. Castleton,,True
+22401145,618,Success,SUB in: K. Johnson,,True
+22401145,617,Success,SUB in: J. Jaquez Jr.,,True
+22401145,615,Success,SUB in: J. Christopher,,True
+22401145,613,Success,SUB out: L. Walker IV,,True
+22401145,612,Success,SUB out: K. Lowry,,True
+22401145,611,Success,SUB out: Q. Grimes,,True
+22401145,610,Success,SUB out: D. Mitchell,,True
+22401145,609,Success,SUB out: K. Anderson,,True
+22401145,608,Success,SUB out: T. Herro,,True
+22401145,607,Success,SUB out: K. Ware,,True
+22401145,614,Success,SUB out: A. Bona,,True
+22401145,623,Success,A. Reese 3PT  (3 PTS) (J. Hood-Schifino 1 AST),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/623/b48ac7c3-b78e-568c-b2f3-f9ec282c4844_320x180.mp4,True
+22401145,625,Success,MISS J. Christopher 26' pullup 3PT,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/625/4e1b35cd-b6e5-8d64-3baa-6ba758f5949f_320x180.mp4,True
+22401145,626,Success,A. Reese REBOUND (Off:0 Def:2),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/626/daff8737-1ea3-f384-4b10-622967b942d0_320x180.mp4,True
+22401145,627,Success,K. Johnson personal FOUL (1 PF),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/627/3e10612e-6e5a-511e-3f76-6e6f56ecce7b_320x180.mp4,True
+22401145,631,Success,J. Jaquez Jr. shooting personal FOUL (1 PF) (Council IV 2 FT),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/631/4e333e48-b425-46e9-3e07-399469307bab_320x180.mp4,True
+22401145,634,Success,TEAM offensive REBOUND,,True
+22401145,633,Success,MISS R. Council IV Free Throw 1 of 2,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/633/36146656-1ea6-6501-eb2c-0042621387a3_320x180.mp4,True
+22401145,635,Success,R. Council IV Free Throw 2 of 2 (5 PTS),https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/635/5a1a82a3-44a7-9ab4-201e-a8ef148f52dc_320x180.mp4,True
+22401145,636,Success,Period End,https://videos.nba.com/nba/pbp/media/2025/04/07/0022401145/636/a01912d9-047d-08c3-7ac3-c05cc034b347_320x180.mp4,True
+22401145,637,Success,Game End,,True
